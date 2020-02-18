@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><svg:svg xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" preserveAspectRatio="xMidYMid meet" version="1.0">
   <svg:defs>
     <svg:style type="text/css" xml:space="preserve"> 
-       @import url("/public/examples/basic/basic.css");
-       @import url("/public/context/editor/editor.css");
+       @import url("http://k9-server:8080/public/examples/basic/basic.css");
+       @import url("http://k9-server:8080/public/context/editor/editor.css");
     </svg:style>
     
   </svg:defs>
