@@ -8,7 +8,7 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-     <g class="box" id="b1"><textarea id="t1">b1dfsds</textarea></g>
+     <g class="box" id="b1"><textarea id="t1">b1dfsdsfdfss</textarea></g>
      
      <container id="bigbox" layout="horizontal">
        <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
@@ -17,14 +17,14 @@
      </container>
      
      <link r="r" id="link1">
-      <from class="arrow" reference="b1" id="link1-from"/>
-      <to reference="b3" class="arrow" id="link1-to"/>
+      <from reference="b1" class="arrow" id="link1-from"/>
+      <to class="arrow" reference="b3" id="link1-to"/>
      </link>
      
      
      <link id="link2">
-      <from class="hoverable selectable" reference="b1" id="link2-from"/>
-      <to reference="b2" class="hoverable selectable" id="link2-to"/>
+      <from reference="b1" class="hoverable selectable" id="link2-from"/>
+      <to class="hoverable selectable" reference="b2" id="link2-to"/>
      </link>
 
   </diagram>
