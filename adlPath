@@ -16,7 +16,7 @@ d
 as</textarea><g class="box" id="b3"><textarea id="t3">dvdsdds</textarea></g></g>
      
      <container id="bigbox" layout="horizontal">
-       <g class="box" id="b2"><textarea id="t2">dsdadsda asd asd a</textarea></g>
+       <g class="box" id="b2"><textarea id="t2">assad's</textarea></g>
        
        
      </container>
@@ -35,5 +35,8 @@ as</textarea><g class="box" id="b3"><textarea id="t3">dvdsdds</textarea></g></g>
   <align id="1">
       <from reference="b3" drawDirection="LEFT" id="2"/>
       <to reference="b2" id="3"/>
-    </align></diagram>
+    </align><link id="4">
+        <from reference="b1" id="5"/>
+        <to reference="bigbox" id="6"/>
+      </link></diagram>
 </svg:svg>
