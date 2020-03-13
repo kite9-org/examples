@@ -6,15 +6,14 @@
   <defs>
      <style>
          g {
-              fill: red; 
+              fill: green; 
                }
             </style>
           </defs>
   <defs>
     <style type="text/css" xml:space="preserve"
     > 
-       @import url("https://www.kite9.org/public/examples/basic/basic.css");
-       @import url("https://www.kite9.org/public/context/editor/editor.css");
+       @import url("public/examples/basic/basic.css");
     </style
     >
     
