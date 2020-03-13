@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
           'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
-<svg contentScriptType="text/ecmascript" width="1297.0px" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentStyleType="text/css" height="560.0px" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg" version="1.0"
+<svg contentScriptType="text/ecmascript" width="1271.0px" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentStyleType="text/css" height="560.0px" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg" version="1.0"
 >
   <defs
   >
@@ -13,15 +13,15 @@
     >
     
   <script xlink:actuate="onLoad" xlink:type="simple" id="adl:markup" xlink:show="other" type="text/adl-svg+xml;base64" xmlns:xlink="http://www.w3.org/1999/xlink"
-    >PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnOnN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb250ZW50U2NyaXB0VHlwZT0idGV4dC9lY21hc2NyaXB0IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIHZlcnNpb249IjEuMCI+CiAgPHN2ZzpkZWZzPgogICAgPHN2ZzpzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+IAogICAgQGltcG9ydCB1cmwoImh0dHBzOi8vd3d3LmtpdGU5Lm9yZy9wdWJsaWMvZXhhbXBsZXMvcmlzay1maXJzdC9yaXNrLWZpcnN0LmNzcyIpOwogICAgQGltcG9ydCB1cmwoImh0dHBzOi8vd3d3LmtpdGU5Lm9yZy9wdWJsaWMvY29udGV4dC9lZGl0b3IvZWRpdG9yLmNzcyIpOwogICAgPC9zdmc6c3R5bGU+CiAgICAKICA8L3N2ZzpkZWZzPgoKICA8ZGlhZ3JhbSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgbmFtZT0iUGF0dGVybiBMYW5ndWFnZSIgaWQ9ImRpYWdyYW0tMTI5Ij4KCgogICAgPHJpc2sgY2xhc3M9Im1ldGhvZG9sb2d5IiBpZD0iaWRfMCI+IFNvZnR3YXJlIE1ldGhvZG9sb2d5PC9yaXNrPgoKICAgIDxhcnJvdyBpZD0iaWRfMiI+ZW1wbG95czwvYXJyb3c+CgogICAgPGFjdGlvbiBpZD0icHJhY28iPlByYWN0aWNlPC9hY3Rpb24+CiAgICAKICAgIDxhcnJvdyBpZD0iaWRfNiI+bWFuYWdlcyB0bzwvYXJyb3c+CgogICAgPHJpc2sgY2xhc3M9ImF0dGVuZGFudCIgaWQ9ImlkXzgiPm1hbmFnZXMgdG88L3Jpc2s+CgogICAgPGFycm93IGlkPSJpZF85Ij5vYnN0cnVjdHM8L2Fycm93PgoKICAgIDxyaXNrIGNsYXNzPSJnb2FsIiBpZD0iaWRfMTAiPgogICAgICBQcm9qZWN0CiAgICAgIEdvYWwKICAgIDwvcmlzaz4KCiAgICA8bGluayBpZD0iaWRfMSIgZHJhd0RpcmVjdGlvbj0iUklHSFQiPgogICAgICA8ZnJvbSByZWZlcmVuY2U9ImlkXzAiIGNsYXNzPSJzcGFjZSIgaWQ9ImUxIi8+CiAgICAgIDx0byByZWZlcmVuY2U9ImlkXzIiIGlkPSJlMiIvPgogICAgPC9saW5rPgoKICAgIDxsaW5rIGlkPSJpZF8zIiBkcmF3RGlyZWN0aW9uPSJSSUdIVCI+CiAgICAgIDxmcm9tIHJlZmVyZW5jZT0iaWRfMiIgaWQ9ImUzIi8+CiAgICAgIDx0byBzaGFwZT0iYXJyb3ciIGlkPSJlNCIgcmVmZXJlbmNlPSJwcmFjbyIgY2xhc3M9InNwYWNlIi8+CiAgICA8L2xpbms+CgogICAgPGxpbmsgaWQ9ImlkXzUiIGRyYXdEaXJlY3Rpb249IlJJR0hUIj4KICAgICAgPGZyb20gcmVmZXJlbmNlPSJwcmFjbyIgY2xhc3M9InNwYWNlIiBpZD0iZTUiLz4KICAgICAgPHRvIHJlZmVyZW5jZT0iaWRfNiIgaWQ9ImU2Ii8+CiAgICA8L2xpbms+CgogICAgPGxpbmsgaWQ9ImlkXzciIGRyYXdEaXJlY3Rpb249IlJJR0hUIj4KICAgICAgPGZyb20gcmVmZXJlbmNlPSJpZF82IiBpZD0iZTciLz4KICAgICAgPHRvIHNoYXBlPSJhcnJvdyIgaWQ9ImU4IiByZWZlcmVuY2U9ImlkXzgiIGNsYXNzPSJzcGFjZSIvPgogICAgPC9saW5rPgoKICAgIDxsaW5rIGlkPSJpZF8xNSIgZHJhd0RpcmVjdGlvbj0iUklHSFQiPgogICAgICA8ZnJvbSByZWZlcmVuY2U9ImlkXzgiIGNsYXNzPSJzcGFjZSIgaWQ9ImU5Ii8+CiAgICAgIDx0byByZWZlcmVuY2U9ImlkXzkiIGlkPSJlMTAiLz4KICAgIDwvbGluaz4KICAgIDxsaW5rIGlkPSJpZF8xNyIgZHJhd0RpcmVjdGlvbj0iUklHSFQiPgogICAgICA8ZnJvbSByZWZlcmVuY2U9ImlkXzkiIGlkPSJlMTEiLz4KICAgICAgPHRvIHNoYXBlPSJhcnJvdyIgaWQ9ImUxMiIgcmVmZXJlbmNlPSJpZF8xMCIgY2xhc3M9InNwYWNlIi8+CiAgICA8L2xpbms+CgogIDwvZGlhZ3JhbT4KPC9zdmc6c3ZnPg==</script
+    >PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnOnN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb250ZW50U2NyaXB0VHlwZT0idGV4dC9lY21hc2NyaXB0IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIHZlcnNpb249IjEuMCI+CiAgPHN2ZzpkZWZzPgogICAgPHN2ZzpzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+IAogICAgQGltcG9ydCB1cmwoImh0dHBzOi8vd3d3LmtpdGU5Lm9yZy9wdWJsaWMvZXhhbXBsZXMvcmlzay1maXJzdC9yaXNrLWZpcnN0LmNzcyIpOwogICAgQGltcG9ydCB1cmwoImh0dHBzOi8vd3d3LmtpdGU5Lm9yZy9wdWJsaWMvY29udGV4dC9lZGl0b3IvZWRpdG9yLmNzcyIpOwogICAgPC9zdmc6c3R5bGU+CiAgICAKICA8L3N2ZzpkZWZzPgoKICA8ZGlhZ3JhbSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgbmFtZT0iUGF0dGVybiBMYW5ndWFnZSIgaWQ9ImRpYWdyYW0tMTI5Ij4KCgogICAgPHJpc2sgY2xhc3M9Im1ldGhvZG9sb2d5IiBpZD0iaWRfMCI+IFNvZnR3YXJlIE1ldGhvZG9sb2d5PC9yaXNrPgoKICAgIDxhcnJvdyBpZD0iaWRfMiI+ZW1wbG95czwvYXJyb3c+CgogICAgPGFjdGlvbiBpZD0icHJhY28iPlByYWN0aWNlPC9hY3Rpb24+CiAgICAKICAgIDxhcnJvdyBpZD0iaWRfNiI+bWFuYWdlcyB0bzwvYXJyb3c+CgogICAgPHJpc2sgY2xhc3M9ImF0dGVuZGFudCIgaWQ9ImlkXzgiPm1hbmFnZXMgdG88L3Jpc2s+CgogICAgPGFycm93IGlkPSJpZF85Ij5vYnN0cnVjdHM8L2Fycm93PgoKICAgIDxyaXNrIGNsYXNzPSJnb2FsIiBpZD0iaWRfMTAiPgogICAgICBQcm9qZWN0CiAgICAgIEdvYWwKICAgIDwvcmlzaz4KCiAgICA8bGluayBkcmF3RGlyZWN0aW9uPSJSSUdIVCIgaWQ9ImlkXzEiPgogICAgICA8ZnJvbSBjbGFzcz0ic3BhY2UiIHJlZmVyZW5jZT0iaWRfMCIgaWQ9ImUxIi8+CiAgICAgIDx0byByZWZlcmVuY2U9ImlkXzIiIGlkPSJlMiIvPgogICAgPC9saW5rPgoKICAgIDxsaW5rIGRyYXdEaXJlY3Rpb249IlJJR0hUIiBpZD0iaWRfMyI+CiAgICAgIDxmcm9tIHJlZmVyZW5jZT0iaWRfMiIgaWQ9ImUzIi8+CiAgICAgIDx0byBzaGFwZT0iYXJyb3ciIGlkPSJlNCIgY2xhc3M9InNwYWNlIiByZWZlcmVuY2U9InByYWNvIi8+CiAgICA8L2xpbms+CgogICAgPGxpbmsgZHJhd0RpcmVjdGlvbj0iUklHSFQiIGlkPSJpZF81Ij4KICAgICAgPGZyb20gY2xhc3M9InNwYWNlIiByZWZlcmVuY2U9InByYWNvIiBpZD0iZTUiLz4KICAgICAgPHRvIHJlZmVyZW5jZT0iaWRfNiIgaWQ9ImU2Ii8+CiAgICA8L2xpbms+CgogICAgPGxpbmsgZHJhd0RpcmVjdGlvbj0iUklHSFQiIGlkPSJpZF83Ij4KICAgICAgPGZyb20gcmVmZXJlbmNlPSJpZF82IiBpZD0iZTciLz4KICAgICAgPHRvIHNoYXBlPSJhcnJvdyIgaWQ9ImU4IiBjbGFzcz0ic3BhY2UiIHJlZmVyZW5jZT0iaWRfOCIvPgogICAgPC9saW5rPgoKICAgIDxsaW5rIGRyYXdEaXJlY3Rpb249IlJJR0hUIiBpZD0iaWRfMTUiPgogICAgICA8ZnJvbSBjbGFzcz0ic3BhY2UiIHJlZmVyZW5jZT0iZGlhZ3JhbS0xMjkiIGlkPSJlOSIvPgogICAgICA8dG8gcmVmZXJlbmNlPSJpZF85IiBpZD0iZTEwIi8+CiAgICA8L2xpbms+CiAgICA8bGluayBkcmF3RGlyZWN0aW9uPSJSSUdIVCIgaWQ9ImlkXzE3Ij4KICAgICAgPGZyb20gcmVmZXJlbmNlPSJpZF85IiBpZD0iZTExIi8+CiAgICAgIDx0byBzaGFwZT0iYXJyb3ciIGlkPSJlMTIiIGNsYXNzPSJzcGFjZSIgcmVmZXJlbmNlPSJpZF8xMCIvPgogICAgPC9saW5rPgoKICA8L2RpYWdyYW0+Cjwvc3ZnOnN2Zz4=</script
   ></defs
   >
 
-  <g k9-ui="drop layout insert" k9-elem="diagram" name="Pattern Language" id="diagram-129" class=" kite9-diagram" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: diagram; rect-pos: [0.0,0.0]; rect-size: [1297.0,560.0]; "
+  <g k9-ui="drop layout insert" k9-elem="diagram" name="Pattern Language" id="diagram-129" class=" kite9-diagram" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: diagram; rect-pos: [0.0,0.0]; rect-size: [1271.0,560.0]; "
   >
     <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; " class="back kite9-back" k9-info="" k9-indicator="pulse stroke"
     >
-      <rect x="0" width="1297.0" height="560.0" y="0"
+      <rect x="0" width="1271.0" height="560.0" y="0"
       />
     </g
       >
@@ -188,7 +188,7 @@
   </g
                                         >
 
-    <g transform="translate(869.0,265.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [869.0,265.0]; rect-size: [72.0,30.0]; " class=" kite9-arrow" id="id_9" k9-ui="delete edit insert drag align connect contain autoconnect copy replace-connected" k9-elem="arrow"
+    <g transform="translate(843.0,265.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [843.0,265.0]; rect-size: [72.0,30.0]; " class=" kite9-arrow" id="id_9" k9-ui="delete edit insert drag align connect contain autoconnect copy replace-connected" k9-elem="arrow"
                                         >
     <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; " class=" kite9-back" k9-info="" k9-indicator="pulse"
                                           >
@@ -196,7 +196,7 @@
                                             />
     </g
                                             >
-    <g font-size="14px" transform="translate(4.4,7.3)" style="kite9-type: text; " font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [874.0,273.0]; rect-size: [62.0,14.0]; " class=" kite9-front" font-weight="500" k9-elem="front"
+    <g font-size="14px" transform="translate(4.4,7.3)" style="kite9-type: text; " font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [848.0,273.0]; rect-size: [62.0,14.0]; " class=" kite9-front" font-weight="500" k9-elem="front"
                                             ><text x="0" xml:space="preserve" y="11.83" stroke="none"
                                               ><tspan
                                                 >o</tspan
@@ -208,7 +208,7 @@
   </g
                                             >
 
-    <g transform="translate(977.0,200.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: DOWN; rectangular: connected; rect-pos: [977.0,200.0]; rect-size: [120.0,160.0]; " class="goal kite9-risk" id="id_10" k9-ui="drag delete contain align connect autoconnect copy replace-connected edit" k9-elem="risk"
+    <g transform="translate(951.0,200.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: DOWN; rectangular: connected; rect-pos: [951.0,200.0]; rect-size: [120.0,160.0]; " class="goal kite9-risk" id="id_10" k9-ui="drag delete contain align connect autoconnect copy replace-connected edit" k9-elem="risk"
                                             >
       <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; fill-opacity: 1; fill: url(#risk-background); stroke: black; " class=" kite9-back" k9-info="" k9-indicator="fill"
                                               > 
@@ -216,7 +216,7 @@
                                                 />
       </g
                                                 >
-	  <g font-size="22px" transform="translate(-4939.4,8.9)" font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [1015.0,210.0]; rect-size: [44.0,22.0]; " class=" kite9-code" font-weight="300" k9-elem="code"
+	  <g font-size="22px" transform="translate(-4939.4,8.9)" font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [989.0,210.0]; rect-size: [44.0,22.0]; " class=" kite9-code" font-weight="300" k9-elem="code"
                                                 ><text x="4976.2842" xml:space="preserve" y="18.59" stroke="none"
                                                   ><tspan
                                                     >G</tspan
@@ -225,7 +225,7 @@
                                                   ></text
                                                 ></g
                                                 >
-      <g href="#{$template-2}" transform="translate(35.0,54.0)" width="50px" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [1012.0,254.0]; rect-size: [50.0,50.0]; " class=" kite9-image" height="50px" k9-ui="href" k9-elem="image"
+      <g href="#{$template-2}" transform="translate(35.0,54.0)" width="50px" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [986.0,254.0]; rect-size: [50.0,50.0]; " class=" kite9-image" height="50px" k9-ui="href" k9-elem="image"
                                                 >
 		<g k9-elem="decal" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-decal" k9-info=""
                                                   >
@@ -233,7 +233,7 @@
                                                     />
 		</g
                                                     >
-		<g k9-elem="front" style="kite9-type: svg; " class=" kite9-front" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [1012.0,254.0]; rect-size: [50.0,50.0]; " k9-indicator="stroke pulse"
+		<g k9-elem="front" style="kite9-type: svg; " class=" kite9-front" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [986.0,254.0]; rect-size: [50.0,50.0]; " k9-indicator="stroke pulse"
                                                     >
 			<rect rx="2" ry="2" x="0" width="50px" height="50px" y="0"
                                                       />
@@ -241,7 +241,7 @@
                                                       >
 	</g
                                                       >
-      <g k9-elem="title" class=" kite9-title" font-weight="200" font-family="'metropolis'" transform="translate(4.9,124.4)" k9-info="position: none; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [1018.0,325.0]; rect-size: [38.0,25.0]; "
+      <g k9-elem="title" class=" kite9-title" font-weight="200" font-family="'metropolis'" transform="translate(4.9,124.4)" k9-info="position: none; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [992.0,325.0]; rect-size: [38.0,25.0]; "
                                                       ><text x="35.194" xml:space="preserve" y="10.14" stroke="none"
                                                         ><tspan
                                                           >P</tspan
@@ -264,7 +264,7 @@
     </g
                                                           >
     
-      <g transform="translate(312.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_1; terminates-at: id_0; end: from; rectangular: terminator; rect-pos: [312.0,272.0]; rect-size: [16.0,16.0]; " class="space kite9-from" reference="id_0" id="e1" k9-ui="drag invisible end label" k9-elem="from"
+      <g transform="translate(312.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_1; terminates-at: id_0; end: from; rectangular: terminator; rect-pos: [312.0,272.0]; rect-size: [16.0,16.0]; " reference="id_0" class="space kite9-from" id="e1" k9-ui="drag invisible end label" k9-elem="from"
                                                           >
     <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                             >
@@ -316,7 +316,7 @@
     
   </g
                                                                             >
-      <g transform="translate(450.0,272.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_3; terminates-at: praco; end: to; rectangular: terminator; rect-pos: [450.0,272.0]; rect-size: [16.0,16.0]; " reference="praco" class="space kite9-to" id="e4" k9-ui="drag invisible end label" k9-elem="to"
+      <g transform="translate(450.0,272.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_3; terminates-at: praco; end: to; rectangular: terminator; rect-pos: [450.0,272.0]; rect-size: [16.0,16.0]; " class="space kite9-to" reference="praco" id="e4" k9-ui="drag invisible end label" k9-elem="to"
                                                                             >
     <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                               >
@@ -346,7 +346,7 @@
     </g
                                                                                       >
     
-      <g transform="translate(543.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_5; terminates-at: praco; end: from; rectangular: terminator; rect-pos: [543.0,272.0]; rect-size: [16.0,16.0]; " class="space kite9-from" reference="praco" id="e5" k9-ui="drag invisible end label" k9-elem="from"
+      <g transform="translate(543.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_5; terminates-at: praco; end: from; rectangular: terminator; rect-pos: [543.0,272.0]; rect-size: [16.0,16.0]; " reference="praco" class="space kite9-from" id="e5" k9-ui="drag invisible end label" k9-elem="from"
                                                                                       >
     <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                                         >
@@ -398,7 +398,7 @@
     
   </g
                                                                                                         >
-      <g transform="translate(702.0,272.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_7; terminates-at: id_8; end: to; rectangular: terminator; rect-pos: [702.0,272.0]; rect-size: [16.0,16.0]; " reference="id_8" class="space kite9-to" id="e8" k9-ui="drag invisible end label" k9-elem="to"
+      <g transform="translate(702.0,272.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_7; terminates-at: id_8; end: to; rectangular: terminator; rect-pos: [702.0,272.0]; rect-size: [16.0,16.0]; " class="space kite9-to" reference="id_8" id="e8" k9-ui="drag invisible end label" k9-elem="to"
                                                                                                         >
     <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                                                           >
@@ -419,16 +419,17 @@
   </g
                                                                                                               >
 
-    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_8','id_9']; direction: RIGHT; " class=" kite9-link" id="id_15" k9-ui="delete link cascade drop" k9-elem="link"
+    
+    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_9','id_10']; direction: RIGHT; " class=" kite9-link" id="id_17" k9-ui="delete link cascade drop" k9-elem="link"
                                                                                                               >
     <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
                                                                                                                 >
-      <path k9-animate="link" d="M841 280 L869 280"
+      <path k9-animate="link" d="M915 280 L943 280"
                                                                                                                   />
     </g
                                                                                                                   >
     
-      <g transform="translate(825.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_15; terminates-at: id_8; end: from; rectangular: terminator; rect-pos: [825.0,272.0]; rect-size: [16.0,16.0]; " class="space kite9-from" reference="id_8" id="e9" k9-ui="drag invisible end label" k9-elem="from"
+      <g transform="translate(907.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_17; terminates-at: id_9; end: from; rectangular: terminator; rect-pos: [907.0,272.0]; rect-size: [16.0,16.0]; " reference="id_9" class=" kite9-from" id="e11" k9-ui="drag invisible end label" k9-elem="from"
                                                                                                                   >
     <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                                                                     >
@@ -439,7 +440,7 @@
     
   </g
                                                                                                                       >
-      <g transform="translate(861.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_15; terminates-at: id_9; end: to; rectangular: terminator; rect-pos: [861.0,272.0]; rect-size: [16.0,16.0]; " reference="id_9" class=" kite9-to" id="e10" k9-ui="drag invisible end label" k9-elem="to"
+      <g transform="translate(943.0,272.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_17; terminates-at: id_10; end: to; rectangular: terminator; rect-pos: [943.0,272.0]; rect-size: [16.0,16.0]; " class="space kite9-to" reference="id_10" id="e12" k9-ui="drag invisible end label" k9-elem="to"
                                                                                                                       >
     <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                                                                         >
@@ -453,188 +454,148 @@
     
     <g k9-elem="link-body" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-link-body" k9-info=""
                                                                                                                           >
-      <path style="marker-start: url(#-start-marker);                 marker-end: url(#-end-marker);" d="M841 280 L869 280" k9-animate="link"
+      <path style="marker-start: url(#-start-marker);                 marker-end: url(#arrow-end-marker);" d="M915 280 L943 280" k9-animate="link"
                                                                                                                             />
     </g
                                                                                                                             >
   </g
                                                                                                                             >
-    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_9','id_10']; direction: RIGHT; " class=" kite9-link" id="id_17" k9-ui="delete link cascade drop" k9-elem="link"
-                                                                                                                            >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
-                                                                                                                              >
-      <path k9-animate="link" d="M941 280 L969 280"
-                                                                                                                                />
-    </g
-                                                                                                                                >
-    
-      <g transform="translate(933.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_17; terminates-at: id_9; end: from; rectangular: terminator; rect-pos: [933.0,272.0]; rect-size: [16.0,16.0]; " reference="id_9" class=" kite9-from" id="e11" k9-ui="drag invisible end label" k9-elem="from"
-                                                                                                                                >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
-                                                                                                                                  >
-      <polygon points="16 0, 0 8, 16 16"
-                                                                                                                                    />
-    </g
-                                                                                                                                    >
-    
-  </g
-                                                                                                                                    >
-      <g transform="translate(969.0,272.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_17; terminates-at: id_10; end: to; rectangular: terminator; rect-pos: [969.0,272.0]; rect-size: [16.0,16.0]; " reference="id_10" class="space kite9-to" id="e12" k9-ui="drag invisible end label" k9-elem="to"
-                                                                                                                                    >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
-                                                                                                                                      >
-      <polygon points="0 0, 16 8, 0 16"
-                                                                                                                                        />
-    </g
-                                                                                                                                        >
-    
-  </g
-                                                                                                                                        >
-    
-    <g k9-elem="link-body" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-link-body" k9-info=""
-                                                                                                                                        >
-      <path style="marker-start: url(#-start-marker);                 marker-end: url(#arrow-end-marker);" d="M941 280 L969 280" k9-animate="link"
-                                                                                                                                          />
-    </g
-                                                                                                                                          >
-  </g
-                                                                                                                                          >
 
   
   </g
-                                                                                                                                          >
+                                                                                                                            >
 <defs
-                                                                                                                                          >
+                                                                                                                            >
     <filter xlink:actuate="onLoad" xlink:type="simple" id="layout-filter" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                                                                            >
+                                                                                                                              >
        <feColorMatrix values="0 0 0 .72 0                 0 0 0 .75 0                 0 0 0 1 0                 0 0 0 1 0" type="matrix" in="SourceGraphic"
-                                                                                                                                              />
+                                                                                                                                />
     </filter
-                                                                                                                                              >
+                                                                                                                                >
   </defs
-                                                                                                                                              ><defs
-                                                                                                                                              >
+                                                                                                                                ><defs
+                                                                                                                                >
     <linearGradient x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" y1="0%" x2="0%" y2="100%" xlink:type="simple" xlink:actuate="onLoad" id="risk-background" xlink:show="other"
-                                                                                                                                                >
+                                                                                                                                  >
       <stop stop-color="#FFF" offset="0%"
-                                                                                                                                                  />
+                                                                                                                                    />
       <stop stop-color="#DDD" offset="100%"
-                                                                                                                                                  />
+                                                                                                                                    />
     </linearGradient
-                                                                                                                                                  >
+                                                                                                                                    >
   </defs
-                                                                                                                                                  ><defs
-                                                                                                                                                  /><defs
-                                                                                                                                                  /><defs
-                                                                                                                                                  >
+                                                                                                                                    ><defs
+                                                                                                                                    /><defs
+                                                                                                                                    /><defs
+                                                                                                                                    >
 
     <!-- Link Ends -->
     
     <marker id="-start-marker" preserveAspectRatio="xMidYMid meet"
-                                                                                                                                                    >
+                                                                                                                                      >
     </marker
-                                                                                                                                                    >
+                                                                                                                                      >
 
     <marker id="-end-marker" preserveAspectRatio="xMidYMid meet"
-                                                                                                                                                    >
+                                                                                                                                      >
+    </marker
+                                                                                                                                      >
+
+    <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-start-marker" markerWidth="6" refX="3"
+                                                                                                                                      >
+      <circle r="2" class="circle-marker" cx="3" cy="3"
+                                                                                                                                        />
+    </marker
+                                                                                                                                        >
+
+    <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-end-marker" markerWidth="6" refX="3"
+                                                                                                                                        >
+      <circle r="2" class="circle-marker" cx="3" cy="3"
+                                                                                                                                          />
+    </marker
+                                                                                                                                          >
+
+    <marker refX="1" refY="3" orient="auto" id="diamond-start-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
+                                                                                                                                          >
+      <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"
+                                                                                                                                            />
+    </marker
+                                                                                                                                            >
+
+    <marker refX="7" refY="3" orient="auto" id="diamond-end-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
+                                                                                                                                            >
+      <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"
+                                                                                                                                              />
+    </marker
+                                                                                                                                              >
+
+    <marker refX="1" refY="3" orient="auto" id="open-diamond-start-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
+                                                                                                                                              >
+      <polygon class="open-diamond-marker" points="1,3 4,1 7,3 4,5"
+                                                                                                                                                />
+    </marker
+                                                                                                                                                >
+
+    <marker refX="7" refY="3" orient="auto" id="open-diamond-end-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
+                                                                                                                                                >
+      <polygon class="open-diamond-marker" points="1,3 4,1 7,3 4,5"
+                                                                                                                                                  />
+    </marker
+                                                                                                                                                  >
+
+    <marker refX="6" refY="4" orient="auto" id="barbed-arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+                                                                                                                                                  >
+      <path class="barbed-arrow-marker" d="M2,2 L6,4 L2,6"
+                                                                                                                                                    />
     </marker
                                                                                                                                                     >
 
-    <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-start-marker" markerWidth="6" refX="3"
+    <marker refX="2" refY="4" orient="auto" id="barbed-arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
                                                                                                                                                     >
-      <circle r="2" class="circle-marker" cx="3" cy="3"
+      <path class="barbed-arrow-marker" d="M6,2 L2,4 L6,6"
                                                                                                                                                       />
     </marker
                                                                                                                                                       >
 
-    <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-end-marker" markerWidth="6" refX="3"
+    <marker refX="6" refY="4" orient="auto" id="open-arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
                                                                                                                                                       >
-      <circle r="2" class="circle-marker" cx="3" cy="3"
+      <polygon class="open-arrow-marker" points="6,4 2,2 2,6"
                                                                                                                                                         />
     </marker
                                                                                                                                                         >
 
-    <marker refX="1" refY="3" orient="auto" id="diamond-start-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
+    <marker refX="2" refY="4" orient="auto" id="open-arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
                                                                                                                                                         >
-      <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"
+      <polygon class="open-arrow-marker" points="2,4 6,2 6,6"
                                                                                                                                                           />
     </marker
                                                                                                                                                           >
 
-    <marker refX="7" refY="3" orient="auto" id="diamond-end-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
+    <marker refX="2" refY="4" orient="auto" id="arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
                                                                                                                                                           >
-      <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"
+      <polygon class="arrow-marker" points="2,4 6,2 6,6"
                                                                                                                                                             />
     </marker
                                                                                                                                                             >
 
-    <marker refX="1" refY="3" orient="auto" id="open-diamond-start-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
+    <marker refX="4" refY="4" orient="auto" id="arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
                                                                                                                                                             >
-      <polygon class="open-diamond-marker" points="1,3 4,1 7,3 4,5"
+      <polygon class="arrow-marker" points="6,4 2,2 2,6"
                                                                                                                                                               />
     </marker
                                                                                                                                                               >
 
-    <marker refX="7" refY="3" orient="auto" id="open-diamond-end-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
-                                                                                                                                                              >
-      <polygon class="open-diamond-marker" points="1,3 4,1 7,3 4,5"
-                                                                                                                                                                />
-    </marker
-                                                                                                                                                                >
-
-    <marker refX="6" refY="4" orient="auto" id="barbed-arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                                                >
-      <path class="barbed-arrow-marker" d="M2,2 L6,4 L2,6"
-                                                                                                                                                                  />
-    </marker
-                                                                                                                                                                  >
-
-    <marker refX="2" refY="4" orient="auto" id="barbed-arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                                                  >
-      <path class="barbed-arrow-marker" d="M6,2 L2,4 L6,6"
-                                                                                                                                                                    />
-    </marker
-                                                                                                                                                                    >
-
-    <marker refX="6" refY="4" orient="auto" id="open-arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                                                    >
-      <polygon class="open-arrow-marker" points="6,4 2,2 2,6"
-                                                                                                                                                                      />
-    </marker
-                                                                                                                                                                      >
-
-    <marker refX="2" refY="4" orient="auto" id="open-arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                                                      >
-      <polygon class="open-arrow-marker" points="2,4 6,2 6,6"
-                                                                                                                                                                        />
-    </marker
-                                                                                                                                                                        >
-
-    <marker refX="2" refY="4" orient="auto" id="arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                                                        >
-      <polygon class="arrow-marker" points="2,4 6,2 6,6"
-                                                                                                                                                                          />
-    </marker
-                                                                                                                                                                          >
-
-    <marker refX="4" refY="4" orient="auto" id="arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                                                          >
-      <polygon class="arrow-marker" points="6,4 2,2 2,6"
-                                                                                                                                                                            />
-    </marker
-                                                                                                                                                                            >
-
   <script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                                                                                                            >document.params = { 'palettes' : ['https://www.kite9.org/public/examples/risk-first/risk-palette', 'insert replace-connected', 'https://www.kite9.org/public/examples/risk-first/artifact-palette', 'insert replace-connected contain', 'https://www.kite9.org/public/behaviours/containers/common-containers', 'insert replace-connected contain', 'https://www.kite9.org/public/behaviours/links/common-links', 'link end'] , 
+                                                                                                                                                              >document.params = { 'palettes' : ['https://www.kite9.org/public/examples/risk-first/risk-palette', 'insert replace-connected', 'https://www.kite9.org/public/examples/risk-first/artifact-palette', 'insert replace-connected contain', 'https://www.kite9.org/public/behaviours/containers/common-containers', 'insert replace-connected contain', 'https://www.kite9.org/public/behaviours/links/common-links', 'link end'] , 
  'align-template-uri' : 'https://www.kite9.org/public/behaviours/links/common-links.xml#align', 
  'cell-template-uri' : 'https://www.kite9.org/public/examples/risk-first/template.adl#cell-template', 
  'label-template-uri' : 'https://www.kite9.org/public/behaviours/labels/common-labels.xml#label'
  } 
 </script
-                                                                                                                                                                            ><script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" type="module" xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                                                                                                            >
+                                                                                                                                                              ><script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" type="module" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                                                                                              >
 import "https://www.kite9.org/public/context/editor/editor.js";
 </script
-                                                                                                                                                                          ></defs
-                                                                                                                                                                        ></svg
-                                                                                                                                                                      >
+                                                                                                                                                            ></defs
+                                                                                                                                                          ></svg
+                                                                                                                                                        >
