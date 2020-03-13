@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
           'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
-<svg contentScriptType="text/ecmascript" width="888.0px" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentStyleType="text/css" height="691.0px" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg" version="1.0"
+<svg contentScriptType="text/ecmascript" width="1279.0px" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentStyleType="text/css" height="560.0px" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg" version="1.0"
 >
   <defs
   >
@@ -13,524 +13,632 @@
     >
     
   <script xlink:actuate="onLoad" xlink:type="simple" id="adl:markup" xlink:show="other" type="text/adl-svg+xml;base64" xmlns:xlink="http://www.w3.org/1999/xlink"
-    >PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnOnN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb250ZW50U2NyaXB0VHlwZT0idGV4dC9lY21hc2NyaXB0IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIHZlcnNpb249IjEuMCI+CiAgPHN2ZzpkZWZzPgogICAgPHN2ZzpzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+IAogICAgQGltcG9ydCB1cmwoImh0dHBzOi8vd3d3LmtpdGU5Lm9yZy9wdWJsaWMvZXhhbXBsZXMvcmlzay1maXJzdC9yaXNrLWZpcnN0LmNzcyIpOwogICAgQGltcG9ydCB1cmwoImh0dHBzOi8vd3d3LmtpdGU5Lm9yZy9wdWJsaWMvY29udGV4dC9lZGl0b3IvZWRpdG9yLmNzcyIpOwogICAgPC9zdmc6c3R5bGU+CiAgICAKICA8L3N2ZzpkZWZzPgoKICA8ZGlhZ3JhbSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgbmFtZT0iUGF0dGVybiBMYW5ndWFnZSIgaWQ9ImRpYWdyYW0tMTI5Ij4KCgogICAgCgogICAgPGFycm93IGlkPSJpZF8yIj5lbXBsb3lzPC9hcnJvdz4KCiAgICAKICAgIAogICAgPHJpc2sgY2xhc3M9Im1ldGhvZG9sb2d5IiBpZD0iaWRfMCI+IFNvZnR3YXJlIE1ldGhvZG9sb2d5PC9yaXNrPjxhcnJvdyBpZD0iaWRfNiI+bWFuYWdlczwvYXJyb3c+CgogICAgPGFycm93IGlkPSJpZF85Ij5vYnN0cnVjdHM8L2Fycm93PjxyaXNrIGNsYXNzPSJhdHRlbmRhbnQiIGlkPSJpZF84Ij4KICAgICAgUmlzayB0byAKICAgICAgbWFuYWdlCiAgICA8L3Jpc2s+CgogICAgCgogICAgPHJpc2sgY2xhc3M9ImdvYWwiIGlkPSJpZF8xMCI+CiAgICAgIFByb2plY3QKICAgICAgR29hbAogICAgPC9yaXNrPgoKICAgIAoKICAgIAoKICAgIAoKICAgIDxsaW5rIGlkPSJpZF83IiBkcmF3RGlyZWN0aW9uPSJSSUdIVCI+CiAgICAgIDxmcm9tIHJlZmVyZW5jZT0iaWRfNiIgaWQ9ImU3Ii8+CiAgICAgIDx0byBzaGFwZT0iYXJyb3ciIGlkPSJlOCIgcmVmZXJlbmNlPSJpZF84IiBjbGFzcz0ic3BhY2UiLz4KICAgIDwvbGluaz4KCiAgICAKICAgIDxsaW5rIGlkPSJpZF8xNyIgZHJhd0RpcmVjdGlvbj0iUklHSFQiPgogICAgICA8ZnJvbSByZWZlcmVuY2U9ImlkXzkiIGlkPSJlMTEiLz4KICAgICAgPHRvIHNoYXBlPSJhcnJvdyIgaWQ9ImUxMiIgcmVmZXJlbmNlPSJpZF8xMCIgY2xhc3M9InNwYWNlIi8+CiAgICA8L2xpbms+CgogIDxsaW5rIGlkPSJpZF8xNSIgZHJhd0RpcmVjdGlvbj0iRE9XTiI+CiAgICAgIDxmcm9tIHJlZmVyZW5jZT0iaWRfOCIgY2xhc3M9InNwYWNlIiBpZD0iZTkiLz4KICAgICAgPHRvIHJlZmVyZW5jZT0iaWRfOSIgaWQ9ImUxMCIvPgogICAgPC9saW5rPjxsaW5rIGlkPSJpZF8xIiBkcmF3RGlyZWN0aW9uPSJET1dOIj4KICAgICAgPGZyb20gcmVmZXJlbmNlPSJpZF8wIiBjbGFzcz0ic3BhY2UiIGlkPSJlMSIvPgogICAgICA8dG8gcmVmZXJlbmNlPSJpZF8yIiBpZD0iZTIiLz4KICAgIDwvbGluaz48L2RpYWdyYW0+Cjwvc3ZnOnN2Zz4=</script
+    >PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnOnN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb250ZW50U2NyaXB0VHlwZT0idGV4dC9lY21hc2NyaXB0IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIHZlcnNpb249IjEuMCI+CiAgPHN2ZzpkZWZzPgogICAgPHN2ZzpzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+IAogICAgQGltcG9ydCB1cmwoImh0dHBzOi8vd3d3LmtpdGU5Lm9yZy9wdWJsaWMvZXhhbXBsZXMvcmlzay1maXJzdC9yaXNrLWZpcnN0LmNzcyIpOwogICAgQGltcG9ydCB1cmwoImh0dHBzOi8vd3d3LmtpdGU5Lm9yZy9wdWJsaWMvY29udGV4dC9lZGl0b3IvZWRpdG9yLmNzcyIpOwogICAgPC9zdmc6c3R5bGU+CiAgICAKICA8L3N2ZzpkZWZzPgoKICA8ZGlhZ3JhbSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgbmFtZT0iUGF0dGVybiBMYW5ndWFnZSIgaWQ9ImRpYWdyYW0tMTI5Ij4KCgogICAgPHJpc2sgY2xhc3M9Im1ldGhvZG9sb2d5IiBpZD0iaWRfMCI+IFNvZnR3YXJlIE1ldGhvZG9sb2d5PC9yaXNrPgoKICAgIDxhcnJvdyBpZD0iaWRfMiI+ZW1wbG95czwvYXJyb3c+CgogICAgPGFjdGlvbiBpZD0icHJhY28iPlByYWN0aWNlPC9hY3Rpb24+CiAgICAKICAgIDxhcnJvdyBpZD0iaWRfNiI+bWFuYWdlczwvYXJyb3c+CgogICAgPHJpc2sgY2xhc3M9ImF0dGVuZGFudCIgaWQ9ImlkXzgiPkF0dGVuZGFudApSaXNrIHRvCm1hbmFnZWN2PC9yaXNrPgoKICAgIDxhcnJvdyBpZD0iaWRfOSI+b2JzdHJ1Y3RzPC9hcnJvdz4KCiAgICA8cmlzayBjbGFzcz0iZ29hbCIgaWQ9ImlkXzEwIj4KICAgICAgUHJvamVjdAogICAgICBHb2FsCiAgICA8L3Jpc2s+CgogICAgPGxpbmsgZHJhd0RpcmVjdGlvbj0iUklHSFQiIGlkPSJpZF8xIj4KICAgICAgPGZyb20gY2xhc3M9InNwYWNlIiByZWZlcmVuY2U9ImlkXzAiIGlkPSJlMSIvPgogICAgICA8dG8gcmVmZXJlbmNlPSJpZF8yIiBpZD0iZTIiLz4KICAgIDwvbGluaz4KCiAgICA8bGluayBkcmF3RGlyZWN0aW9uPSJSSUdIVCIgaWQ9ImlkXzMiPgogICAgICA8ZnJvbSByZWZlcmVuY2U9ImlkXzIiIGlkPSJlMyIvPgogICAgICA8dG8gc2hhcGU9ImFycm93IiBpZD0iZTQiIGNsYXNzPSJzcGFjZSIgcmVmZXJlbmNlPSJwcmFjbyIvPgogICAgPC9saW5rPgoKICAgIDxsaW5rIGRyYXdEaXJlY3Rpb249IlJJR0hUIiBpZD0iaWRfNSI+CiAgICAgIDxmcm9tIGNsYXNzPSJzcGFjZSIgcmVmZXJlbmNlPSJwcmFjbyIgaWQ9ImU1Ii8+CiAgICAgIDx0byByZWZlcmVuY2U9ImlkXzYiIGlkPSJlNiIvPgogICAgPC9saW5rPgoKICAgIDxsaW5rIGRyYXdEaXJlY3Rpb249IlJJR0hUIiBpZD0iaWRfNyI+CiAgICAgIDxmcm9tIHJlZmVyZW5jZT0iaWRfNiIgaWQ9ImU3Ii8+CiAgICAgIDx0byBzaGFwZT0iYXJyb3ciIGlkPSJlOCIgY2xhc3M9InNwYWNlIiByZWZlcmVuY2U9ImlkXzgiLz4KICAgIDwvbGluaz4KCiAgICA8bGluayBkcmF3RGlyZWN0aW9uPSJSSUdIVCIgaWQ9ImlkXzE1Ij4KICAgICAgPGZyb20gY2xhc3M9InNwYWNlIiByZWZlcmVuY2U9ImlkXzgiIGlkPSJlOSIvPgogICAgICA8dG8gcmVmZXJlbmNlPSJpZF85IiBpZD0iZTEwIi8+CiAgICA8L2xpbms+CiAgICA8bGluayBkcmF3RGlyZWN0aW9uPSJSSUdIVCIgaWQ9ImlkXzE3Ij4KICAgICAgPGZyb20gcmVmZXJlbmNlPSJpZF85IiBpZD0iZTExIi8+CiAgICAgIDx0byBzaGFwZT0iYXJyb3ciIGlkPSJlMTIiIGNsYXNzPSJzcGFjZSIgcmVmZXJlbmNlPSJpZF8xMCIvPgogICAgPC9saW5rPgoKICA8L2RpYWdyYW0+Cjwvc3ZnOnN2Zz4=</script
   ></defs
   >
 
-  <g k9-ui="drop layout insert" k9-elem="diagram" name="Pattern Language" id="diagram-129" class=" kite9-diagram" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: diagram; rect-pos: [0.0,0.0]; rect-size: [888.0,691.0]; "
+  <g k9-ui="drop layout insert" k9-elem="diagram" name="Pattern Language" id="diagram-129" class=" kite9-diagram" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: diagram; rect-pos: [0.0,0.0]; rect-size: [1279.0,560.0]; "
   >
     <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; " class="back kite9-back" k9-info="" k9-indicator="pulse stroke"
     >
-      <rect x="0" width="888.0" height="691.0" y="0"
+      <rect x="0" width="1279.0" height="560.0" y="0"
       />
     </g
       >
     
 
 
-    
-
-    <g transform="translate(227.0,445.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [227.0,445.0]; rect-size: [66.0,30.0]; " class=" kite9-arrow" id="id_2" k9-ui="delete edit insert drag align connect contain autoconnect copy replace-connected" k9-elem="arrow"
+    <g transform="translate(200.0,200.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: DOWN; rectangular: connected; rect-pos: [200.0,200.0]; rect-size: [120.0,160.0]; " class="methodology kite9-risk" id="id_0" k9-ui="drag delete contain align connect autoconnect copy replace-connected edit" k9-elem="risk"
       >
-    <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; " class=" kite9-back" k9-info="" k9-indicator="pulse"
-        >
-      <rect rx="4px" ry="4px" x="0" width="66.0" height="30.0" y="0"
+      <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; fill-opacity: 1; fill: url(#risk-background); stroke: black; " class=" kite9-back" k9-info="" k9-indicator="fill"
+        > 
+        <rect rx="8px" ry="8px" x="0" width="120.0" height="160.0" y="0"
           />
-    </g
+      </g
           >
-    <g font-size="14px" transform="translate(4.4,7.3)" style="kite9-type: text; " font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [232.0,453.0]; rect-size: [56.0,14.0]; " class=" kite9-front" font-weight="500" k9-elem="front"
-          ><text x="0" xml:space="preserve" y="11.83" stroke="none"
+	  <g font-size="22px" transform="translate(-4940.0,8.9)" font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [222.0,210.0]; rect-size: [76.0,22.0]; " class=" kite9-code" font-weight="300" k9-elem="code"
+          ><text x="4959.96" xml:space="preserve" y="18.59" stroke="none"
             ><tspan
-              >e</tspan
+              >M</tspan
               ><tspan
-              >mploys</tspan
+              >ethod</tspan
             ></text
           ></g
           >
-  </g
+      <g href="#{$template-2}" transform="translate(35.0,54.0)" width="50px" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [235.0,254.0]; rect-size: [50.0,50.0]; " class=" kite9-image" height="50px" k9-ui="href" k9-elem="image"
           >
-
-    
-    
-    <g transform="translate(200.0,233.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: DOWN; rectangular: connected; rect-pos: [200.0,233.0]; rect-size: [120.0,160.0]; " class="methodology kite9-risk" id="id_0" k9-ui="drag delete contain align connect autoconnect copy replace-connected edit" k9-elem="risk"
-          >
-      <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; fill-opacity: 1; fill: url(#risk-background); stroke: black; " class=" kite9-back" k9-info="" k9-indicator="fill"
-            > 
-        <rect rx="8px" ry="8px" x="0" width="120.0" height="160.0" y="0"
-              />
-      </g
-              >
-	  <g font-size="22px" transform="translate(-4940.0,8.9)" font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [222.0,243.0]; rect-size: [76.0,22.0]; " class=" kite9-code" font-weight="300" k9-elem="code"
-              ><text x="4959.96" xml:space="preserve" y="18.59" stroke="none"
-                ><tspan
-                  >M</tspan
-                  ><tspan
-                  >ethod</tspan
-                ></text
-              ></g
-              >
-      <g href="#{$template-2}" transform="translate(35.0,54.0)" width="50px" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [235.0,287.0]; rect-size: [50.0,50.0]; " class=" kite9-image" height="50px" k9-ui="href" k9-elem="image"
-              >
 		<g k9-elem="decal" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-decal" k9-info=""
-                >
+            >
 			<image x="0" y="0" width="50.0" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.kite9.org/public/examples/risk-first/redesign/artifacts/methodology_v2.svg" xlink:type="simple" xlink:actuate="onLoad" height="50.0" preserveAspectRatio="xMidYMid meet" xlink:show="embed"
-                  />
+              />
 		</g
-                  >
-		<g k9-elem="front" style="kite9-type: svg; " class=" kite9-front" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [235.0,287.0]; rect-size: [50.0,50.0]; " k9-indicator="stroke pulse"
-                  >
+              >
+		<g k9-elem="front" style="kite9-type: svg; " class=" kite9-front" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [235.0,254.0]; rect-size: [50.0,50.0]; " k9-indicator="stroke pulse"
+              >
 			<rect rx="2" ry="2" x="0" width="50px" height="50px" y="0"
-                    />
+                />
 		</g
-                    >
+                >
 	</g
+                >
+      <g k9-elem="title" class=" kite9-title" font-weight="200" font-family="'metropolis'" transform="translate(4.4,124.4)" k9-info="position: none; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [223.0,325.0]; rect-size: [74.0,25.0]; "
+                ><text x="29.4099" xml:space="preserve" y="10.14" stroke="none"
+                  ><tspan
+                    >S</tspan
+                    ><tspan
+                    >oftware </tspan
+                  ></text
+                  ><text x="17.5119" xml:space="preserve" y="23.34" stroke="none"
+                  >Methodology</text
+                ></g
+                >
+  </g
+                >
+
+    <g transform="translate(356.0,264.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [356.0,264.0]; rect-size: [66.0,32.0]; " class=" kite9-arrow" id="id_2" k9-ui="delete edit insert drag align connect contain autoconnect copy replace-connected" k9-elem="arrow"
+                >
+    <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; " class=" kite9-back" k9-info="" k9-indicator="pulse"
+                  >
+      <rect rx="4px" ry="4px" x="0" width="66.0" height="32.0" y="0"
+                    />
+    </g
                     >
-      <g k9-elem="title" class=" kite9-title" font-weight="200" font-family="'metropolis'" transform="translate(4.4,124.4)" k9-info="position: none; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [223.0,358.0]; rect-size: [74.0,25.0]; "
-                    ><text x="29.4099" xml:space="preserve" y="10.14" stroke="none"
+    <g font-size="14px" transform="translate(4.4,8.3)" style="kite9-type: text; " font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [361.0,273.0]; rect-size: [56.0,14.0]; " class=" kite9-front" font-weight="500" k9-elem="front"
+                    ><text x="0" xml:space="preserve" y="11.83" stroke="none"
                       ><tspan
-                        >S</tspan
+                        >e</tspan
                         ><tspan
-                        >oftware </tspan
+                        >mploys</tspan
                       ></text
-                      ><text x="17.5119" xml:space="preserve" y="23.34" stroke="none"
-                      >Methodology</text
                     ></g
                     >
   </g
-                    ><g transform="translate(330.0,265.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [330.0,265.0]; rect-size: [69.0,30.0]; " class=" kite9-arrow" id="id_6" k9-ui="delete edit insert drag align connect contain autoconnect copy replace-connected" k9-elem="arrow"
                     >
-    <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; " class=" kite9-back" k9-info="" k9-indicator="pulse"
+
+    <g transform="translate(458.0,264.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [458.0,264.0]; rect-size: [93.0,32.0]; " class=" kite9-action" id="praco" k9-ui="drag delete align contain connect autoconnect copy replace-connected edit" k9-elem="action"
+                    >
+    <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; fill-opacity: 1; fill: url(#risk-background); stroke: black; stroke-width: 1px;" class=" kite9-back" k9-info="" k9-indicator="fill"
                       >
-      <rect rx="4px" ry="4px" x="0" width="69.0" height="30.0" y="0"
+      <polygon points="0 0, 78 0, 93.0 16, 78 32.0, 0 32.0"
                         />
     </g
                         >
-    <g font-size="14px" transform="translate(4.0,7.3)" style="kite9-type: text; " font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [335.0,273.0]; rect-size: [59.0,14.0]; " class=" kite9-front" font-weight="500" k9-elem="front"
-                        ><text x="0" xml:space="preserve" y="11.83" stroke="none"
-                          ><tspan
-                            >m</tspan
+    <g k9-elem="front" style="kite9-usage: regular; kite9-type: container; kite9-layout: down;  kite9-padding: 10px; kite9-padding-right: 40px; " class=" kite9-front" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: DOWN; rectangular: connected; rect-pos: [458.0,264.0]; rect-size: [93.0,32.0]; "
+                        >
+      <g k9-elem="title" class=" kite9-title" font-weight="200" font-family="'metropolis'" transform="translate(-23.3,9.4)" k9-info="position: none; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [468.0,274.0]; rect-size: [43.0,12.0]; "
+                          ><text x="32.344" xml:space="preserve" y="10.14" stroke="none"
                             ><tspan
-                            >anages</tspan
-                          ></text
-                        ></g
-                        >
-  </g
-                        >
-
-    <g transform="translate(460.0,396.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [460.0,396.0]; rect-size: [72.0,30.0]; " class=" kite9-arrow" id="id_9" k9-ui="delete edit insert drag align connect contain autoconnect copy replace-connected" k9-elem="arrow"
-                        >
-    <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; " class=" kite9-back" k9-info="" k9-indicator="pulse"
-                          >
-      <rect rx="4px" ry="4px" x="0" width="72.0" height="30.0" y="0"
-                            />
-    </g
-                            >
-    <g font-size="14px" transform="translate(4.4,7.3)" style="kite9-type: text; " font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [465.0,404.0]; rect-size: [62.0,14.0]; " class=" kite9-front" font-weight="500" k9-elem="front"
-                            ><text x="0" xml:space="preserve" y="11.83" stroke="none"
+                              >P</tspan
                               ><tspan
-                                >o</tspan
-                                ><tspan
-                                >bstructs</tspan
-                              ></text
-                            ></g
-                            >
+                              >ractice</tspan
+                            ></text
+                          ></g
+                          >
+    </g
+                          >
   </g
-                            ><g transform="translate(435.0,200.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: DOWN; rectangular: connected; rect-pos: [435.0,200.0]; rect-size: [123.0,160.0]; " class="attendant kite9-risk" id="id_8" k9-ui="drag delete contain align connect autoconnect copy replace-connected edit" k9-elem="risk"
+                          >
+    
+    <g transform="translate(587.0,264.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [587.0,264.0]; rect-size: [69.0,32.0]; " class=" kite9-arrow" id="id_6" k9-ui="delete edit insert drag align connect contain autoconnect copy replace-connected" k9-elem="arrow"
+                          >
+    <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; " class=" kite9-back" k9-info="" k9-indicator="pulse"
                             >
-      <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; fill-opacity: 1; fill: url(#risk-background); stroke: black; " class=" kite9-back" k9-info="" k9-indicator="fill"
-                              > 
-        <rect rx="8px" ry="8px" x="0" width="123.0" height="160.0" y="0"
-                                />
-      </g
-                                >
-	  <g font-size="22px" transform="translate(-4938.0,8.9)" font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [445.0,210.0]; rect-size: [103.0,22.0]; " class=" kite9-code" font-weight="300" k9-elem="code"
-                                ><text x="4947.3208" xml:space="preserve" y="18.59" stroke="none"
+      <rect rx="4px" ry="4px" x="0" width="69.0" height="32.0" y="0"
+                              />
+    </g
+                              >
+    <g font-size="14px" transform="translate(4.0,8.3)" style="kite9-type: text; " font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [592.0,273.0]; rect-size: [59.0,14.0]; " class=" kite9-front" font-weight="500" k9-elem="front"
+                              ><text x="0" xml:space="preserve" y="11.83" stroke="none"
+                                ><tspan
+                                  >m</tspan
                                   ><tspan
-                                    >A</tspan
-                                    ><tspan
-                                    >ttendant</tspan
-                                  ></text
-                                ></g
-                                >
-      <g href="#{$template-2}" transform="translate(37.0,54.0)" width="50px" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [472.0,254.0]; rect-size: [50.0,50.0]; " class=" kite9-image" height="50px" k9-ui="href" k9-elem="image"
-                                >
-		<g k9-elem="decal" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-decal" k9-info=""
+                                  >anages</tspan
+                                ></text
+                              ></g
+                              >
+  </g
+                              >
+
+    <g transform="translate(692.0,200.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: DOWN; rectangular: connected; rect-pos: [692.0,200.0]; rect-size: [123.0,160.0]; " class="attendant kite9-risk" id="id_8" k9-ui="drag delete contain align connect autoconnect copy replace-connected edit" k9-elem="risk"
+                              >
+      <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; fill-opacity: 1; fill: url(#risk-background); stroke: black; " class=" kite9-back" k9-info="" k9-indicator="fill"
+                                > 
+        <rect rx="8px" ry="8px" x="0" width="123.0" height="160.0" y="0"
+                                  />
+      </g
                                   >
+	  <g font-size="22px" transform="translate(-4938.0,8.9)" font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [702.0,210.0]; rect-size: [103.0,22.0]; " class=" kite9-code" font-weight="300" k9-elem="code"
+                                  ><text x="4947.3208" xml:space="preserve" y="18.59" stroke="none"
+                                    ><tspan
+                                      >A</tspan
+                                      ><tspan
+                                      >ttendant</tspan
+                                    ></text
+                                  ></g
+                                  >
+      <g href="#{$template-2}" transform="translate(37.0,47.0)" width="50px" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [729.0,247.0]; rect-size: [50.0,50.0]; " class=" kite9-image" height="50px" k9-ui="href" k9-elem="image"
+                                  >
+		<g k9-elem="decal" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-decal" k9-info=""
+                                    >
 			<image x="0" y="0" width="50.0" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.kite9.org/public/examples/risk-first/redesign/risks/attendant_risk_v2.svg" xlink:type="simple" xlink:actuate="onLoad" height="50.0" preserveAspectRatio="xMidYMid meet" xlink:show="embed"
-                                    />
-		</g
-                                    >
-		<g k9-elem="front" style="kite9-type: svg; " class=" kite9-front" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [472.0,254.0]; rect-size: [50.0,50.0]; " k9-indicator="stroke pulse"
-                                    >
-			<rect rx="2" ry="2" x="0" width="50px" height="50px" y="0"
                                       />
 		</g
                                       >
-	</g
+		<g k9-elem="front" style="kite9-type: svg; " class=" kite9-front" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [729.0,247.0]; rect-size: [50.0,50.0]; " k9-indicator="stroke pulse"
                                       >
-      <g k9-elem="title" class=" kite9-title" font-weight="200" font-family="'metropolis'" transform="translate(6.6,124.4)" k9-info="position: none; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [475.0,325.0]; rect-size: [43.0,25.0]; "
-                                      ><text x="36.226" xml:space="preserve" y="10.14" stroke="none"
-                                        ><tspan
-                                          >R</tspan
-                                          ><tspan
-                                          >isk </tspan
-                                          ><tspan
-                                          >to</tspan
-                                        ></text
-                                        ><text x="32.44" xml:space="preserve" y="23.34" stroke="none"
-                                        >manage</text
-                                      ></g
-                                      >
-  </g
-                                      >
-
-    
-
-    <g transform="translate(568.0,331.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: DOWN; rectangular: connected; rect-pos: [568.0,331.0]; rect-size: [120.0,160.0]; " class="goal kite9-risk" id="id_10" k9-ui="drag delete contain align connect autoconnect copy replace-connected edit" k9-elem="risk"
-                                      >
-      <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; fill-opacity: 1; fill: url(#risk-background); stroke: black; " class=" kite9-back" k9-info="" k9-indicator="fill"
-                                        > 
-        <rect rx="8px" ry="8px" x="0" width="120.0" height="160.0" y="0"
-                                          />
-      </g
-                                          >
-	  <g font-size="22px" transform="translate(-4939.4,8.9)" font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [606.0,341.0]; rect-size: [44.0,22.0]; " class=" kite9-code" font-weight="300" k9-elem="code"
-                                          ><text x="4976.2842" xml:space="preserve" y="18.59" stroke="none"
-                                            ><tspan
-                                              >G</tspan
-                                              ><tspan
-                                              >oal</tspan
-                                            ></text
-                                          ></g
-                                          >
-      <g href="#{$template-2}" transform="translate(35.0,54.0)" width="50px" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [603.0,385.0]; rect-size: [50.0,50.0]; " class=" kite9-image" height="50px" k9-ui="href" k9-elem="image"
-                                          >
-		<g k9-elem="decal" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-decal" k9-info=""
-                                            >
-			<image x="0" y="0" width="50.0" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.kite9.org/public/examples/risk-first/redesign/risks/goal_v2.svg" xlink:type="simple" xlink:actuate="onLoad" height="50.0" preserveAspectRatio="xMidYMid meet" xlink:show="embed"
-                                              />
-		</g
-                                              >
-		<g k9-elem="front" style="kite9-type: svg; " class=" kite9-front" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [603.0,385.0]; rect-size: [50.0,50.0]; " k9-indicator="stroke pulse"
-                                              >
 			<rect rx="2" ry="2" x="0" width="50px" height="50px" y="0"
-                                                />
+                                        />
 		</g
-                                                >
+                                        >
 	</g
+                                        >
+      <g k9-elem="title" class=" kite9-title" font-weight="200" font-family="'metropolis'" transform="translate(6.1,111.4)" k9-info="position: none; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [725.0,312.0]; rect-size: [57.0,38.0]; "
+                                        ><text x="26.6919" xml:space="preserve" y="10.14" stroke="none"
+                                          ><tspan
+                                            >A</tspan
+                                            ><tspan
+                                            >ttendant</tspan
+                                          ></text
+                                          ><text x="36.226" xml:space="preserve" y="23.34" stroke="none"
+                                          ><tspan
+                                            >Risk </tspan
+                                            ><tspan
+                                            >to</tspan
+                                          ></text
+                                          ><text x="25.9419" xml:space="preserve" y="36.54" stroke="none"
+                                          >managecv</text
+                                        ></g
+                                        >
+  </g
+                                        >
+
+    <g transform="translate(851.0,265.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [851.0,265.0]; rect-size: [72.0,30.0]; " class=" kite9-arrow" id="id_9" k9-ui="delete edit insert drag align connect contain autoconnect copy replace-connected" k9-elem="arrow"
+                                        >
+    <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; " class=" kite9-back" k9-info="" k9-indicator="pulse"
+                                          >
+      <rect rx="4px" ry="4px" x="0" width="72.0" height="30.0" y="0"
+                                            />
+    </g
+                                            >
+    <g font-size="14px" transform="translate(4.4,7.3)" style="kite9-type: text; " font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [856.0,273.0]; rect-size: [62.0,14.0]; " class=" kite9-front" font-weight="500" k9-elem="front"
+                                            ><text x="0" xml:space="preserve" y="11.83" stroke="none"
+                                              ><tspan
+                                                >o</tspan
+                                                ><tspan
+                                                >bstructs</tspan
+                                              ></text
+                                            ></g
+                                            >
+  </g
+                                            >
+
+    <g transform="translate(959.0,200.0)" k9-palette="insert replace-connected" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: DOWN; rectangular: connected; rect-pos: [959.0,200.0]; rect-size: [120.0,160.0]; " class="goal kite9-risk" id="id_10" k9-ui="drag delete contain align connect autoconnect copy replace-connected edit" k9-elem="risk"
+                                            >
+      <g k9-elem="back" style="kite9-usage: decal; kite9-type: svg; fill-opacity: 1; fill: url(#risk-background); stroke: black; " class=" kite9-back" k9-info="" k9-indicator="fill"
+                                              > 
+        <rect rx="8px" ry="8px" x="0" width="120.0" height="160.0" y="0"
+                                                />
+      </g
                                                 >
-      <g k9-elem="title" class=" kite9-title" font-weight="200" font-family="'metropolis'" transform="translate(4.9,124.4)" k9-info="position: none; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [609.0,456.0]; rect-size: [38.0,25.0]; "
-                                                ><text x="35.194" xml:space="preserve" y="10.14" stroke="none"
+	  <g font-size="22px" transform="translate(-4939.4,8.9)" font-family="'metropolis'" k9-info="position: none; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [997.0,210.0]; rect-size: [44.0,22.0]; " class=" kite9-code" font-weight="300" k9-elem="code"
+                                                ><text x="4976.2842" xml:space="preserve" y="18.59" stroke="none"
                                                   ><tspan
-                                                    >P</tspan
+                                                    >G</tspan
                                                     ><tspan
-                                                    >roject</tspan
+                                                    >oal</tspan
                                                   ></text
-                                                  ><text x="42.184" xml:space="preserve" y="23.34" stroke="none"
-                                                  >Goal</text
                                                 ></g
                                                 >
-  </g
+      <g href="#{$template-2}" transform="translate(35.0,54.0)" width="50px" k9-info="position: none; horiz: CENTER; vert: CENTER; sizing: MINIMIZE; layout: null; rectangular: connected; rect-pos: [994.0,254.0]; rect-size: [50.0,50.0]; " class=" kite9-image" height="50px" k9-ui="href" k9-elem="image"
                                                 >
-
-    
-
-    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_6','id_8']; direction: RIGHT; " class=" kite9-link" id="id_7" k9-ui="delete link cascade drop" k9-elem="link"
-                                                >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
+		<g k9-elem="decal" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-decal" k9-info=""
                                                   >
-      <path k9-animate="link" d="M399 280 L427 280"
+			<image x="0" y="0" width="50.0" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.kite9.org/public/examples/risk-first/redesign/risks/goal_v2.svg" xlink:type="simple" xlink:actuate="onLoad" height="50.0" preserveAspectRatio="xMidYMid meet" xlink:show="embed"
                                                     />
-    </g
+		</g
                                                     >
-    
-      <g transform="translate(391.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_7; terminates-at: id_6; end: from; rectangular: terminator; rect-pos: [391.0,272.0]; rect-size: [16.0,16.0]; " reference="id_6" class=" kite9-from" id="e7" k9-ui="drag invisible end label" k9-elem="from"
+		<g k9-elem="front" style="kite9-type: svg; " class=" kite9-front" k9-info="position: none; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [994.0,254.0]; rect-size: [50.0,50.0]; " k9-indicator="stroke pulse"
                                                     >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
+			<rect rx="2" ry="2" x="0" width="50px" height="50px" y="0"
+                                                      />
+		</g
                                                       >
-      <polygon points="16 0, 0 8, 16 16"
-                                                        />
-    </g
-                                                        >
-    
+	</g
+                                                      >
+      <g k9-elem="title" class=" kite9-title" font-weight="200" font-family="'metropolis'" transform="translate(4.9,124.4)" k9-info="position: none; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [1000.0,325.0]; rect-size: [38.0,25.0]; "
+                                                      ><text x="35.194" xml:space="preserve" y="10.14" stroke="none"
+                                                        ><tspan
+                                                          >P</tspan
+                                                          ><tspan
+                                                          >roject</tspan
+                                                        ></text
+                                                        ><text x="42.184" xml:space="preserve" y="23.34" stroke="none"
+                                                        >Goal</text
+                                                      ></g
+                                                      >
   </g
+                                                      >
+
+    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_0','id_2']; direction: RIGHT; " class=" kite9-link" id="id_1" k9-ui="delete link cascade drop" k9-elem="link"
+                                                      >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
                                                         >
-      <g transform="translate(427.0,272.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_7; terminates-at: id_8; end: to; rectangular: terminator; rect-pos: [427.0,272.0]; rect-size: [16.0,16.0]; " reference="id_8" class="space kite9-to" id="e8" k9-ui="drag invisible end label" k9-elem="to"
-                                                        >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
+      <path k9-animate="link" d="M328 280 L356 280"
+                                                          />
+    </g
                                                           >
-      <polygon points="0 0, 16 8, 0 16"
-                                                            />
-    </g
-                                                            >
     
-  </g
+      <g transform="translate(312.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_1; terminates-at: id_0; end: from; rectangular: terminator; rect-pos: [312.0,272.0]; rect-size: [16.0,16.0]; " reference="id_0" class="space kite9-from" id="e1" k9-ui="drag invisible end label" k9-elem="from"
+                                                          >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                             >
-    
-    <g k9-elem="link-body" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-link-body" k9-info=""
-                                                            >
-      <path style="marker-start: url(#-start-marker);                 marker-end: url(#arrow-end-marker);" d="M399 280 L427 280" k9-animate="link"
+      <polygon points="16 0, 0 8, 16 16"
                                                               />
     </g
                                                               >
+    
   </g
                                                               >
-
-    
-    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_9','id_10']; direction: RIGHT; " class=" kite9-link" id="id_17" k9-ui="delete link cascade drop" k9-elem="link"
+      <g transform="translate(348.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_1; terminates-at: id_2; end: to; rectangular: terminator; rect-pos: [348.0,272.0]; rect-size: [16.0,16.0]; " reference="id_2" class=" kite9-to" id="e2" k9-ui="drag invisible end label" k9-elem="to"
                                                               >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                 >
-      <path k9-animate="link" d="M532 411 L560 411"
+      <polygon points="0 0, 16 8, 0 16"
                                                                   />
     </g
                                                                   >
     
-      <g transform="translate(524.0,403.0)" k9-palette="end" k9-info="position: none; terminates: id_17; terminates-at: id_9; end: from; rectangular: terminator; rect-pos: [524.0,403.0]; rect-size: [16.0,16.0]; " reference="id_9" class=" kite9-from" id="e11" k9-ui="drag invisible end label" k9-elem="from"
+  </g
                                                                   >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
-                                                                    >
-      <polygon points="16 0, 0 8, 16 16"
-                                                                      />
-    </g
-                                                                      >
-    
-  </g
-                                                                      >
-      <g transform="translate(560.0,403.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_17; terminates-at: id_10; end: to; rectangular: terminator; rect-pos: [560.0,403.0]; rect-size: [16.0,16.0]; " reference="id_10" class="space kite9-to" id="e12" k9-ui="drag invisible end label" k9-elem="to"
-                                                                      >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
-                                                                        >
-      <polygon points="0 0, 16 8, 0 16"
-                                                                          />
-    </g
-                                                                          >
-    
-  </g
-                                                                          >
     
     <g k9-elem="link-body" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-link-body" k9-info=""
+                                                                  >
+      <path style="marker-start: url(#-start-marker);                 marker-end: url(#-end-marker);" d="M328 280 L356 280" k9-animate="link"
+                                                                    />
+    </g
+                                                                    >
+  </g
+                                                                    >
+
+    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_2','praco']; direction: RIGHT; " class=" kite9-link" id="id_3" k9-ui="delete link cascade drop" k9-elem="link"
+                                                                    >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
+                                                                      >
+      <path k9-animate="link" d="M422 280 L450 280"
+                                                                        />
+    </g
+                                                                        >
+    
+      <g transform="translate(414.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_3; terminates-at: id_2; end: from; rectangular: terminator; rect-pos: [414.0,272.0]; rect-size: [16.0,16.0]; " reference="id_2" class=" kite9-from" id="e3" k9-ui="drag invisible end label" k9-elem="from"
+                                                                        >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                           >
-      <path style="marker-start: url(#-start-marker);                 marker-end: url(#arrow-end-marker);" d="M532 411 L560 411" k9-animate="link"
+      <polygon points="16 0, 0 8, 16 16"
                                                                             />
     </g
                                                                             >
+    
   </g
                                                                             >
-
-  <g k9-palette="link" drawDirection="DOWN" k9-info="link: ['id_8','id_9']; direction: DOWN; " class=" kite9-link" id="id_15" k9-ui="delete link cascade drop" k9-elem="link"
+      <g transform="translate(450.0,272.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_3; terminates-at: praco; end: to; rectangular: terminator; rect-pos: [450.0,272.0]; rect-size: [16.0,16.0]; " class="space kite9-to" reference="praco" id="e4" k9-ui="drag invisible end label" k9-elem="to"
                                                                             >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                               >
-      <path k9-animate="link" d="M496 368 L496 396"
+      <polygon points="0 0, 16 8, 0 16"
                                                                                 />
     </g
                                                                                 >
     
-      <g transform="translate(488.0,352.0)" k9-palette="end" k9-info="position: none; terminates: id_15; terminates-at: id_8; end: from; rectangular: terminator; rect-pos: [488.0,352.0]; rect-size: [16.0,16.0]; " class="space kite9-from" reference="id_8" id="e9" k9-ui="drag invisible end label" k9-elem="from"
+  </g
                                                                                 >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
-                                                                                  >
-      <polygon points="0 16, 8 0, 16 16"
-                                                                                    />
-    </g
-                                                                                    >
-    
-  </g
-                                                                                    >
-      <g transform="translate(488.0,388.0)" k9-palette="end" k9-info="position: none; terminates: id_15; terminates-at: id_9; end: to; rectangular: terminator; rect-pos: [488.0,388.0]; rect-size: [16.0,16.0]; " reference="id_9" class=" kite9-to" id="e10" k9-ui="drag invisible end label" k9-elem="to"
-                                                                                    >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
-                                                                                      >
-      <polygon points="0 0, 8 16, 16 0"
-                                                                                        />
-    </g
-                                                                                        >
-    
-  </g
-                                                                                        >
     
     <g k9-elem="link-body" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-link-body" k9-info=""
+                                                                                >
+      <path style="marker-start: url(#-start-marker);                 marker-end: url(#arrow-end-marker);" d="M422 280 L450 280" k9-animate="link"
+                                                                                  />
+    </g
+                                                                                  >
+  </g
+                                                                                  >
+
+    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['praco','id_6']; direction: RIGHT; " class=" kite9-link" id="id_5" k9-ui="delete link cascade drop" k9-elem="link"
+                                                                                  >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
+                                                                                    >
+      <path k9-animate="link" d="M559 280 L587 280"
+                                                                                      />
+    </g
+                                                                                      >
+    
+      <g transform="translate(543.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_5; terminates-at: praco; end: from; rectangular: terminator; rect-pos: [543.0,272.0]; rect-size: [16.0,16.0]; " reference="praco" class="space kite9-from" id="e5" k9-ui="drag invisible end label" k9-elem="from"
+                                                                                      >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                                         >
-      <path style="marker-start: url(#-start-marker);                 marker-end: url(#-end-marker);" d="M496 368 L496 396" k9-animate="link"
+      <polygon points="16 0, 0 8, 16 16"
                                                                                           />
     </g
                                                                                           >
+    
   </g
-                                                                                          ><g k9-palette="link" drawDirection="DOWN" k9-info="link: ['id_0','id_2']; direction: DOWN; " class=" kite9-link" id="id_1" k9-ui="delete link cascade drop" k9-elem="link"
                                                                                           >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
+      <g transform="translate(579.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_5; terminates-at: id_6; end: to; rectangular: terminator; rect-pos: [579.0,272.0]; rect-size: [16.0,16.0]; " reference="id_6" class=" kite9-to" id="e6" k9-ui="drag invisible end label" k9-elem="to"
+                                                                                          >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                                             >
-      <path k9-animate="link" d="M260 401 L260 445"
+      <polygon points="0 0, 16 8, 0 16"
                                                                                               />
     </g
                                                                                               >
     
-      <g transform="translate(252.0,385.0)" k9-palette="end" k9-info="position: none; terminates: id_1; terminates-at: id_0; end: from; rectangular: terminator; rect-pos: [252.0,385.0]; rect-size: [16.0,16.0]; " class="space kite9-from" reference="id_0" id="e1" k9-ui="drag invisible end label" k9-elem="from"
+  </g
                                                                                               >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
-                                                                                                >
-      <polygon points="0 16, 8 0, 16 16"
-                                                                                                  />
-    </g
-                                                                                                  >
-    
-  </g
-                                                                                                  >
-      <g transform="translate(252.0,437.0)" k9-palette="end" k9-info="position: none; terminates: id_1; terminates-at: id_2; end: to; rectangular: terminator; rect-pos: [252.0,437.0]; rect-size: [16.0,16.0]; " reference="id_2" class=" kite9-to" id="e2" k9-ui="drag invisible end label" k9-elem="to"
-                                                                                                  >
-    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
-                                                                                                    >
-      <polygon points="0 0, 8 16, 16 0"
-                                                                                                      />
-    </g
-                                                                                                      >
-    
-  </g
-                                                                                                      >
     
     <g k9-elem="link-body" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-link-body" k9-info=""
+                                                                                              >
+      <path style="marker-start: url(#-start-marker);                 marker-end: url(#-end-marker);" d="M559 280 L587 280" k9-animate="link"
+                                                                                                />
+    </g
+                                                                                                >
+  </g
+                                                                                                >
+
+    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_6','id_8']; direction: RIGHT; " class=" kite9-link" id="id_7" k9-ui="delete link cascade drop" k9-elem="link"
+                                                                                                >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
+                                                                                                  >
+      <path k9-animate="link" d="M656 280 L684 280"
+                                                                                                    />
+    </g
+                                                                                                    >
+    
+      <g transform="translate(648.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_7; terminates-at: id_6; end: from; rectangular: terminator; rect-pos: [648.0,272.0]; rect-size: [16.0,16.0]; " reference="id_6" class=" kite9-from" id="e7" k9-ui="drag invisible end label" k9-elem="from"
+                                                                                                    >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                                                       >
-      <path style="marker-start: url(#-start-marker);                 marker-end: url(#-end-marker);" d="M260 401 L260 445" k9-animate="link"
+      <polygon points="16 0, 0 8, 16 16"
                                                                                                         />
     </g
                                                                                                         >
+    
   </g
                                                                                                         >
-  </g
+      <g transform="translate(684.0,272.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_7; terminates-at: id_8; end: to; rectangular: terminator; rect-pos: [684.0,272.0]; rect-size: [16.0,16.0]; " class="space kite9-to" reference="id_8" id="e8" k9-ui="drag invisible end label" k9-elem="to"
                                                                                                         >
-<defs
-                                                                                                        >
-    <filter xlink:actuate="onLoad" xlink:type="simple" id="layout-filter" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink"
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
                                                                                                           >
-       <feColorMatrix values="0 0 0 .72 0                 0 0 0 .75 0                 0 0 0 1 0                 0 0 0 1 0" type="matrix" in="SourceGraphic"
+      <polygon points="0 0, 16 8, 0 16"
                                                                                                             />
-    </filter
+    </g
                                                                                                             >
-  </defs
-                                                                                                            ><defs
-                                                                                                            /><defs
+    
+  </g
                                                                                                             >
-    <linearGradient x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" y1="0%" x2="0%" y2="100%" xlink:type="simple" xlink:actuate="onLoad" id="risk-background" xlink:show="other"
+    
+    <g k9-elem="link-body" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-link-body" k9-info=""
+                                                                                                            >
+      <path style="marker-start: url(#-start-marker);                 marker-end: url(#arrow-end-marker);" d="M656 280 L684 280" k9-animate="link"
+                                                                                                              />
+    </g
                                                                                                               >
-      <stop stop-color="#FFF" offset="0%"
-                                                                                                                />
-      <stop stop-color="#DDD" offset="100%"
-                                                                                                                />
-    </linearGradient
+  </g
+                                                                                                              >
+
+    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_8','id_9']; direction: RIGHT; " class=" kite9-link" id="id_15" k9-ui="delete link cascade drop" k9-elem="link"
+                                                                                                              >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
                                                                                                                 >
+      <path k9-animate="link" d="M823 280 L851 280"
+                                                                                                                  />
+    </g
+                                                                                                                  >
+    
+      <g transform="translate(807.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_15; terminates-at: id_8; end: from; rectangular: terminator; rect-pos: [807.0,272.0]; rect-size: [16.0,16.0]; " reference="id_8" class="space kite9-from" id="e9" k9-ui="drag invisible end label" k9-elem="from"
+                                                                                                                  >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
+                                                                                                                    >
+      <polygon points="16 0, 0 8, 16 16"
+                                                                                                                      />
+    </g
+                                                                                                                      >
+    
+  </g
+                                                                                                                      >
+      <g transform="translate(843.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_15; terminates-at: id_9; end: to; rectangular: terminator; rect-pos: [843.0,272.0]; rect-size: [16.0,16.0]; " reference="id_9" class=" kite9-to" id="e10" k9-ui="drag invisible end label" k9-elem="to"
+                                                                                                                      >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
+                                                                                                                        >
+      <polygon points="0 0, 16 8, 0 16"
+                                                                                                                          />
+    </g
+                                                                                                                          >
+    
+  </g
+                                                                                                                          >
+    
+    <g k9-elem="link-body" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-link-body" k9-info=""
+                                                                                                                          >
+      <path style="marker-start: url(#-start-marker);                 marker-end: url(#-end-marker);" d="M823 280 L851 280" k9-animate="link"
+                                                                                                                            />
+    </g
+                                                                                                                            >
+  </g
+                                                                                                                            >
+    <g k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_9','id_10']; direction: RIGHT; " class=" kite9-link" id="id_17" k9-ui="delete link cascade drop" k9-elem="link"
+                                                                                                                            >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="grab outline"
+                                                                                                                              >
+      <path k9-animate="link" d="M923 280 L951 280"
+                                                                                                                                />
+    </g
+                                                                                                                                >
+    
+      <g transform="translate(915.0,272.0)" k9-palette="end" k9-info="position: none; terminates: id_17; terminates-at: id_9; end: from; rectangular: terminator; rect-pos: [915.0,272.0]; rect-size: [16.0,16.0]; " reference="id_9" class=" kite9-from" id="e11" k9-ui="drag invisible end label" k9-elem="from"
+                                                                                                                                >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
+                                                                                                                                  >
+      <polygon points="16 0, 0 8, 16 16"
+                                                                                                                                    />
+    </g
+                                                                                                                                    >
+    
+  </g
+                                                                                                                                    >
+      <g transform="translate(951.0,272.0)" k9-palette="end" shape="arrow" k9-info="position: none; terminates: id_17; terminates-at: id_10; end: to; rectangular: terminator; rect-pos: [951.0,272.0]; rect-size: [16.0,16.0]; " class="space kite9-to" reference="id_10" id="e12" k9-ui="drag invisible end label" k9-elem="to"
+                                                                                                                                    >
+    <g k9-elem="grab" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-grab" k9-info="" k9-indicator="fill grab"
+                                                                                                                                      >
+      <polygon points="0 0, 16 8, 0 16"
+                                                                                                                                        />
+    </g
+                                                                                                                                        >
+    
+  </g
+                                                                                                                                        >
+    
+    <g k9-elem="link-body" style="kite9-type: svg; kite9-usage: decal;" class=" kite9-link-body" k9-info=""
+                                                                                                                                        >
+      <path style="marker-start: url(#-start-marker);                 marker-end: url(#arrow-end-marker);" d="M923 280 L951 280" k9-animate="link"
+                                                                                                                                          />
+    </g
+                                                                                                                                          >
+  </g
+                                                                                                                                          >
+
+  
+  </g
+                                                                                                                                          >
+<defs
+                                                                                                                                          >
+    <filter xlink:actuate="onLoad" xlink:type="simple" id="layout-filter" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                                                                            >
+       <feColorMatrix values="0 0 0 .72 0                 0 0 0 .75 0                 0 0 0 1 0                 0 0 0 1 0" type="matrix" in="SourceGraphic"
+                                                                                                                                              />
+    </filter
+                                                                                                                                              >
   </defs
-                                                                                                                ><defs
-                                                                                                                /><defs
-                                                                                                                >
+                                                                                                                                              ><defs
+                                                                                                                                              >
+    <linearGradient x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" y1="0%" x2="0%" y2="100%" xlink:type="simple" xlink:actuate="onLoad" id="risk-background" xlink:show="other"
+                                                                                                                                                >
+      <stop stop-color="#FFF" offset="0%"
+                                                                                                                                                  />
+      <stop stop-color="#DDD" offset="100%"
+                                                                                                                                                  />
+    </linearGradient
+                                                                                                                                                  >
+  </defs
+                                                                                                                                                  ><defs
+                                                                                                                                                  /><defs
+                                                                                                                                                  /><defs
+                                                                                                                                                  >
 
     <!-- Link Ends -->
     
     <marker id="-start-marker" preserveAspectRatio="xMidYMid meet"
-                                                                                                                  >
+                                                                                                                                                    >
     </marker
-                                                                                                                  >
+                                                                                                                                                    >
 
     <marker id="-end-marker" preserveAspectRatio="xMidYMid meet"
-                                                                                                                  >
+                                                                                                                                                    >
     </marker
-                                                                                                                  >
+                                                                                                                                                    >
 
     <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-start-marker" markerWidth="6" refX="3"
-                                                                                                                  >
+                                                                                                                                                    >
       <circle r="2" class="circle-marker" cx="3" cy="3"
-                                                                                                                    />
+                                                                                                                                                      />
     </marker
-                                                                                                                    >
+                                                                                                                                                      >
 
     <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-end-marker" markerWidth="6" refX="3"
-                                                                                                                    >
+                                                                                                                                                      >
       <circle r="2" class="circle-marker" cx="3" cy="3"
-                                                                                                                      />
+                                                                                                                                                        />
     </marker
-                                                                                                                      >
+                                                                                                                                                        >
 
     <marker refX="1" refY="3" orient="auto" id="diamond-start-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
-                                                                                                                      >
+                                                                                                                                                        >
       <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"
-                                                                                                                        />
+                                                                                                                                                          />
     </marker
-                                                                                                                        >
+                                                                                                                                                          >
 
     <marker refX="7" refY="3" orient="auto" id="diamond-end-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
-                                                                                                                        >
+                                                                                                                                                          >
       <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"
-                                                                                                                          />
+                                                                                                                                                            />
     </marker
-                                                                                                                          >
+                                                                                                                                                            >
 
     <marker refX="1" refY="3" orient="auto" id="open-diamond-start-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
-                                                                                                                          >
+                                                                                                                                                            >
       <polygon class="open-diamond-marker" points="1,3 4,1 7,3 4,5"
-                                                                                                                            />
+                                                                                                                                                              />
     </marker
-                                                                                                                            >
+                                                                                                                                                              >
 
     <marker refX="7" refY="3" orient="auto" id="open-diamond-end-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
-                                                                                                                            >
+                                                                                                                                                              >
       <polygon class="open-diamond-marker" points="1,3 4,1 7,3 4,5"
-                                                                                                                              />
+                                                                                                                                                                />
     </marker
-                                                                                                                              >
+                                                                                                                                                                >
 
     <marker refX="6" refY="4" orient="auto" id="barbed-arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                              >
+                                                                                                                                                                >
       <path class="barbed-arrow-marker" d="M2,2 L6,4 L2,6"
-                                                                                                                                />
+                                                                                                                                                                  />
     </marker
-                                                                                                                                >
+                                                                                                                                                                  >
 
     <marker refX="2" refY="4" orient="auto" id="barbed-arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                >
+                                                                                                                                                                  >
       <path class="barbed-arrow-marker" d="M6,2 L2,4 L6,6"
-                                                                                                                                  />
+                                                                                                                                                                    />
     </marker
-                                                                                                                                  >
+                                                                                                                                                                    >
 
     <marker refX="6" refY="4" orient="auto" id="open-arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                  >
+                                                                                                                                                                    >
       <polygon class="open-arrow-marker" points="6,4 2,2 2,6"
-                                                                                                                                    />
+                                                                                                                                                                      />
     </marker
-                                                                                                                                    >
+                                                                                                                                                                      >
 
     <marker refX="2" refY="4" orient="auto" id="open-arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                    >
+                                                                                                                                                                      >
       <polygon class="open-arrow-marker" points="2,4 6,2 6,6"
-                                                                                                                                      />
+                                                                                                                                                                        />
     </marker
-                                                                                                                                      >
+                                                                                                                                                                        >
 
     <marker refX="2" refY="4" orient="auto" id="arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                      >
+                                                                                                                                                                        >
       <polygon class="arrow-marker" points="2,4 6,2 6,6"
-                                                                                                                                        />
+                                                                                                                                                                          />
     </marker
-                                                                                                                                        >
+                                                                                                                                                                          >
 
     <marker refX="4" refY="4" orient="auto" id="arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                                        >
+                                                                                                                                                                          >
       <polygon class="arrow-marker" points="6,4 2,2 2,6"
-                                                                                                                                          />
+                                                                                                                                                                            />
     </marker
-                                                                                                                                          >
+                                                                                                                                                                            >
 
   <script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                                                                          >document.params = { 'palettes' : ['https://www.kite9.org/public/examples/risk-first/risk-palette', 'insert replace-connected', 'https://www.kite9.org/public/examples/risk-first/artifact-palette', 'insert replace-connected contain', 'https://www.kite9.org/public/behaviours/containers/common-containers', 'insert replace-connected contain', 'https://www.kite9.org/public/behaviours/links/common-links', 'link end'] , 
+                                                                                                                                                                            >document.params = { 'palettes' : ['https://www.kite9.org/public/examples/risk-first/risk-palette', 'insert replace-connected', 'https://www.kite9.org/public/examples/risk-first/artifact-palette', 'insert replace-connected contain', 'https://www.kite9.org/public/behaviours/containers/common-containers', 'insert replace-connected contain', 'https://www.kite9.org/public/behaviours/links/common-links', 'link end'] , 
  'align-template-uri' : 'https://www.kite9.org/public/behaviours/links/common-links.xml#align', 
  'cell-template-uri' : 'https://www.kite9.org/public/examples/risk-first/template.adl#cell-template', 
  'label-template-uri' : 'https://www.kite9.org/public/behaviours/labels/common-labels.xml#label'
  } 
 </script
-                                                                                                                                          ><script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" type="module" xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                                                                          >
+                                                                                                                                                                            ><script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" type="module" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                                                                                                            >
 import "https://www.kite9.org/public/context/editor/editor.js";
 </script
-                                                                                                                                        ></defs
-                                                                                                                                      ></svg
-                                                                                                                                    >
+                                                                                                                                                                          ></defs
+                                                                                                                                                                        ></svg
+                                                                                                                                                                      >
