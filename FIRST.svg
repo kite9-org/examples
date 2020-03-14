@@ -7,8 +7,11 @@
   >
     <style type="text/css" xml:space="preserve"
     > 
-       @import url("https://www.kite9.org/public/examples/basic/basic.css");
-       @import url("https://www.kite9.org/public/context/editor/editor.css");
+       @font-face {
+	font-family: "geomanist";
+	src: url('geomanist-bold-webfont.ttf') format('truetype');
+	font-weight: 700;
+}
     </style
     >
     
