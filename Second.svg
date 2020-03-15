@@ -7,9 +7,7 @@
   >
     <style type="text/css" xml:space="preserve"
     > 
-    @import url("https://www.kite9.org/public/examples/risk-first/risk-first.css");
-    @import url("https://www.kite9.org/public/context/editor/editor.css");
-	    
+ 
 	    @font-face {
 	font-family: "geomanist";
 	src: url('geomanist-bold-webfont.ttf') format('truetype');
@@ -18,6 +16,7 @@
 	    
 	text {
 	    font-face: geomanist;
+	    fill: green;
 	    }
     </style
     >
