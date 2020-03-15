@@ -11,7 +11,7 @@
  
 	    @font-face {
 	font-family: "geomanist";
-	src: url('https://k9-server:8080/public/fonts/geomanist/geomanist-bold-webfont.ttf') format('truetype');
+	src: url('https://www.kite9.org/public/fonts/geomanist/geomanist-bold-webfont.ttf') format('truetype');
 	font-weight: 700;
 }
 	    
