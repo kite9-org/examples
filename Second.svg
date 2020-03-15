@@ -16,7 +16,7 @@
 }
 	    
 	text {
-	    font-face: geomanist;
+	    font-family: geomanist;
 	    fill: green;
 	    font-size: 60px;
 	    }
