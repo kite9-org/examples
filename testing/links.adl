@@ -23,10 +23,12 @@
      
      
 
-  <align id="2" drawDirection="UP">
+  <g class="box" id="4">
+      <textarea id="4-1">Box</textarea>
+    </g><align drawDirection="UP" id="2">
       <from reference="1" id="2-1"/>
       <to reference="b2" id="2-3"/>
-    </align><align drawDirection="RIGHT" id="3">
+    </align><align id="3" drawDirection="RIGHT">
       <from reference="b1" id="3-1"/>
       <to reference="b2" id="3-3"/>
     </align></diagram>
