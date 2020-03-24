@@ -15,17 +15,17 @@
      
      
      
-     <g class="box" id="b2"><textarea id="t2">b2</textarea></g><g class="box" id="b1"><textarea id="t1">b1</textarea></g>
+     <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
 
-  <container id="bigbox" layout="horizontal">
+  <g class="box" id="b2"><textarea id="t2">b2</textarea></g><container id="bigbox" layout="horizontal">
        
        
        
-     </container><align id="4" drawDirection="RIGHT">
+     </container><align drawDirection="RIGHT" id="4">
       <from reference="b3" id="1"/>
       <to reference="b1" id="2"/>
-    </align><align id="5" drawDirection="UP">
-      <from reference="b2" id="3"/>
-      <to reference="b1" id="6"/>
+    </align><align drawDirection="UP" id="6">
+      <from reference="b2" id="7"/>
+      <to reference="b1" id="8"/>
     </align></diagram>
 </svg:svg>
