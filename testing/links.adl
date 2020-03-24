@@ -34,7 +34,7 @@
     </align><align id="21" drawDirection="UP">
       <from reference="1" id="21-1"/>
       <to reference="4" id="21-3"/>
-    </align><link drawDirection="LEFT" id="22">
+    </align><link drawDirection="RIGHT" id="22">
         <from reference="b1" id="22-1"/>
         <to reference="1" id="22-3" shape="open-arrow"/>
       <label id="23" end="from">New Label</label></link></diagram>
