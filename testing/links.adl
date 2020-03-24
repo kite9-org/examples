@@ -25,14 +25,14 @@
 
   <g class="box" id="4">
       <textarea id="4-1">Box</textarea>
-    </g><align id="3" drawDirection="RIGHT">
+    </g><align drawDirection="RIGHT" id="3">
       <from reference="b1" id="3-1"/>
       <to reference="b2" id="3-3"/>
-    </align><align id="12" drawDirection="UP">
+    </align><align drawDirection="UP" id="12">
       <from reference="1" id="12-1"/>
       <to reference="b1" id="12-3"/>
-    </align><align drawDirection="LEFT" id="15">
-      <from reference="4" id="15-1"/>
-      <to reference="b2" id="15-3"/>
+    </align><align drawDirection="LEFT" id="16">
+      <from reference="4" id="16-1"/>
+      <to reference="b2" id="16-3"/>
     </align></diagram>
 </svg:svg>
