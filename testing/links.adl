@@ -25,9 +25,9 @@
      </link>
 
   <align id="1">
-      <from reference="b3" id="2" drawDirection="UP"/>
-      <to reference="b1" id="3"/>
-    </align><align id="2">
+      <from reference="b3" id="2" drawDirection="LEFT"/>
+      <to reference="b1" drawDirection="UP" id="3"/>
+    </align><align id="3">
       <from reference="b3" id="4"/>
       <to reference="b2" id="5"/>
     </align></diagram>
