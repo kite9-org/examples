@@ -10,7 +10,9 @@
 
      <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
      
-     <container id="bigbox" layout="horizontal">
+     <g class="box" id="1">
+      <textarea id="1-1">Box</textarea>
+    </g><container id="bigbox" layout="horizontal">
        <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
        
        
@@ -21,7 +23,8 @@
      
      
 
-  <g class="box" id="1">
-      <textarea id="1-1">Box</textarea>
-    </g></diagram>
+  <align drawDirection="UP" id="2">
+      <from reference="1" id="2-1"/>
+      <to reference="b2" id="2-3"/>
+    </align></diagram>
 </svg:svg>
