@@ -21,10 +21,7 @@
      
      <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
 
-  <link id="link2" drawDirection="UP">
-      <from class="hoverable selectable" reference="b1" id="link2-from"/>
-      <to reference="b2" class="hoverable selectable" id="link2-to"/>
-     </link><align drawDirection="RIGHT" id="4">
+  <align id="4" drawDirection="RIGHT">
       <from reference="b3" id="1"/>
       <to reference="b1" id="2"/>
     </align></diagram>
