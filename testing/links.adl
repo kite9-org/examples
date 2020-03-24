@@ -11,7 +11,7 @@
      
      
      <g class="box" id="b3"><textarea id="t3">b3</textarea></g><container id="bigbox" layout="horizontal">
-       <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
+       
        
        
      </container>
@@ -19,10 +19,13 @@
      
      
      
-     <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
+     <g class="box" id="b2"><textarea id="t2">b2</textarea></g><g class="box" id="b1"><textarea id="t1">b1</textarea></g>
 
-  <align id="4" drawDirection="RIGHT">
+  <align drawDirection="RIGHT" id="4">
       <from reference="b3" id="1"/>
       <to reference="b1" id="2"/>
+    </align><align drawDirection="UP" id="5">
+      <from reference="b2" id="3"/>
+      <to reference="b1" id="6"/>
     </align></diagram>
 </svg:svg>
