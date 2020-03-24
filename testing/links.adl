@@ -8,9 +8,9 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-     <g class="box" id="b3"><textarea id="t3">b3</textarea></g><g class="box" id="b1"><textarea id="t1">b1</textarea></g>
+     <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
      
-     <container id="bigbox" layout="horizontal">
+     <g class="box" id="b3"><textarea id="t3">b3</textarea></g><container id="bigbox" layout="horizontal">
        <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
        
        
@@ -25,10 +25,10 @@
      </link>
 
   <align id="1">
-      <from reference="b3" id="2" drawDirection="LEFT"/>
-      <to reference="b1" drawDirection="UP" id="3"/>
-    </align><align id="4">
-      <from reference="b3" id="5"/>
-      <to reference="b2" id="6"/>
+      <from reference="b3" id="2" drawDirection="UP"/>
+      <to reference="b1" id="3"/>
+    </align><align id="2">
+      <from reference="b3" id="4"/>
+      <to reference="b2" id="5"/>
     </align></diagram>
 </svg:svg>
