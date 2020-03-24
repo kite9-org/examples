@@ -10,9 +10,7 @@
 
      <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
      
-     <g class="box" id="1">
-      <textarea id="1-1">Box</textarea>
-    </g><container id="bigbox" layout="horizontal">
+     <g class="box" id="b3"><textarea id="t3">b3</textarea></g><container id="bigbox" layout="horizontal">
        <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
        
        
@@ -25,5 +23,9 @@
       <from reference="b1" class="hoverable selectable" id="link2-from"/>
       <to class="hoverable selectable" reference="b2" id="link2-to"/>
      </link>
-  </diagram>
+
+  <align id="3">
+      <from reference="b3" id="4"/>
+      <to reference="b2" id="5"/>
+    </align></diagram>
 </svg:svg>
