@@ -25,12 +25,5 @@
       <from reference="b1" class="hoverable selectable" id="link2-from"/>
       <to class="hoverable selectable" reference="b2" id="link2-to"/>
      </link>
-
-  <align id="align">
-      <from reference="from10" id="align-f"/>
-      <to reference="to10" id="align-t"/>
-    </align><align drawDirection="UP" id="3">
-      <from reference="1" id="3-1"/>
-      <to reference="b2" id="3-3"/>
-    </align></diagram>
+  </diagram>
 </svg:svg>
