@@ -8,27 +8,24 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
+     <g class="box" id="b3"><textarea id="t3">b3</textarea></g><g class="box" id="b1"><textarea id="t1">b1</textarea></g>
+     
+     <container id="bigbox" layout="horizontal">
+       <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
+       
+       
+     </container>
      
      
-     <g class="box" id="b2"><textarea id="t2">b2</textarea></g><g class="box" id="b3"><textarea id="t3">b3</textarea></g>
      
      
-     
-     
-     <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
+     <link id="link2">
+      <from reference="b1" class="hoverable selectable" id="link2-from"/>
+      <to class="hoverable selectable" reference="b2" id="link2-to"/>
+     </link>
 
-  <container id="bigbox" layout="horizontal">
-       
-       
-       
-     </container><align id="4" drawDirection="RIGHT">
-      <from reference="b3" id="1"/>
-      <to reference="b1" drawDirection="RIGHT" id="2"/>
-    </align><align id="6" drawDirection="UP">
-      <from reference="b2" id="7"/>
-      <to reference="b1" id="8"/>
-    </align><align id="2">
-      <from reference="b2" id="3"/>
-      <to reference="b3" id="5"/>
+  <align id="1">
+      <from reference="b3" drawDirection="LEFT" id="2"/>
+      <to reference="b1" id="3" drawDirection="UP"/>
     </align></diagram>
 </svg:svg>
