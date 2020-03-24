@@ -10,9 +10,7 @@
 
      
      
-     <g class="box" id="b1"><textarea id="t1">b1</textarea></g><g class="box" id="1">
-      <textarea id="1-1">Box</textarea>
-    </g><container id="bigbox" layout="horizontal">
+     <g class="box" id="b1"><textarea id="t1">b1</textarea></g><container id="bigbox" layout="horizontal">
        <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
        
        
@@ -23,16 +21,18 @@
      
      
 
-  <g class="box" id="4">
+  <g class="box" id="1">
+      <textarea id="1-1">Box</textarea>
+    </g><g class="box" id="4">
       <textarea id="4-1">Box</textarea>
-    </g><align drawDirection="RIGHT" id="3">
+    </g><align id="3" drawDirection="RIGHT">
       <from reference="b1" id="3-1"/>
       <to reference="b2" id="3-3"/>
-    </align><align drawDirection="UP" id="12">
-      <from reference="1" id="12-1"/>
-      <to reference="b1" id="12-3"/>
-    </align><align drawDirection="LEFT" id="16">
+    </align><align id="16" drawDirection="LEFT">
       <from reference="4" id="16-1"/>
       <to reference="b2" id="16-3"/>
+    </align><align drawDirection="UP" id="17">
+      <from reference="1" id="17-1"/>
+      <to reference="4" id="17-3"/>
     </align></diagram>
 </svg:svg>
