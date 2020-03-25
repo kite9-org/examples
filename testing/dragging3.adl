@@ -17,8 +17,10 @@
      
      
 
-  <g class="box" style="fill: #AA5500; " id="6">
+  <g style="fill: #AA5500; " class="box" id="6">
       <textarea id="6-1">Box 2</textarea>
+    </g><g class="box" style="fill: #AA5500; " id="9">
+      <textarea id="9-1">Box 2</textarea>
     </g><g class="box" id="2">
       <textarea id="2-1">e</textarea>
     </g><container class="solid" id="3" layout="grid">
@@ -26,14 +28,12 @@
        
        
        
-     <g style="fill: #AA5500; " class="box" id="9">
-      <textarea id="9-1">Box 2</textarea>
-    </g></container><g class="box" id="5">
+     </container><g class="box" id="5">
       <textarea id="5-1">b</textarea>
-    </g><align id="13" drawDirection="LEFT">
+    </g><align drawDirection="LEFT" id="13">
       <from reference="5" id="13-1"/>
       <to reference="6" id="13-3"/>
-    </align><link drawDirection="DOWN" id="8">
+    </align><link id="8" drawDirection="DOWN">
         <from reference="2" id="8-1"/>
         <to reference="5" id="8-3"/>
       </link></diagram>
