@@ -21,7 +21,7 @@
        <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
        
        
-     </container><g class="box" id="5">
+     <g class="box" id="5">
       <textarea id="5-1">Box</textarea>
-    </g></diagram>
+    </g></container></diagram>
 </svg:svg>
