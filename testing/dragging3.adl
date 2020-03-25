@@ -26,7 +26,9 @@
       <textarea id="6-1">c</textarea>
     </g><g class="box" id="5">
       <textarea id="5-1">b</textarea>
-    </g><g class="box" id="b2"><textarea id="t2">a</textarea></g></container><container class="solid" id="8">
+    </g><g class="box" id="b2"><textarea id="t2">a</textarea></g></container><g class="box" id="4">
+      <textarea id="4-1">Box</textarea>
+    </g><container class="solid" id="8">
         <g class="box" id="2">
       <textarea id="2-1">e</textarea>
     </g><g class="box" id="3">
