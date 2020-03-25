@@ -17,7 +17,7 @@
      
      
 
-  <g class="box" id="b2"><textarea id="t2">b2</textarea></g><g style="fill: #AA5500; " class="box" id="14">
+  <g class="box" id="b2"><textarea id="t2">b2</textarea></g><g class="box" style="fill: #AA5500; " id="14">
       <textarea id="14-1">Box 2</textarea>
     </g><g class="box" id="17">
       <textarea id="17-1">Box</textarea>
@@ -27,19 +27,19 @@
       <textarea id="2-1">Box</textarea>
     </g><g class="box" id="11">
       <textarea id="11-1">Box</textarea>
-    </g><link id="13" drawDirection="RIGHT">
+    </g><link drawDirection="RIGHT" id="13">
         <from reference="b2" id="13-1"/>
         <to reference="9" id="13-3"/>
       </link><link id="12">
         <from reference="14" id="12-1"/>
         <to reference="9" id="12-3"/>
-      </link><link drawDirection="UP" id="5">
+      </link><link id="5" drawDirection="UP">
         <from reference="2" id="5-1"/>
         <to reference="17" id="5-3"/>
-      </link><link drawDirection="DOWN" id="18">
+      </link><link id="18" drawDirection="DOWN">
         <from reference="11" id="18-1"/>
         <to reference="17" id="18-3"/>
-      </link><link drawDirection="RIGHT" id="4">
+      </link><link id="4" drawDirection="RIGHT">
         <from reference="14" id="4-1"/>
         <to reference="11" id="4-3"/>
       </link><link id="6">
@@ -51,8 +51,5 @@
       </link><link class="thick" id="8">
         <from reference="14" id="8-1"/>
         <to reference="b2" id="8-3"/>
-      </link><align drawDirection="LEFT" id="15">
-      <from reference="11" id="15-1"/>
-      <to reference="9" id="15-3"/>
-    </align></diagram>
+      </link></diagram>
 </svg:svg>
