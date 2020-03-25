@@ -17,7 +17,9 @@
      
      
 
-  <container id="bigbox" layout="horizontal">
+  <g class="box" id="12">
+      <textarea id="12-1">Box</textarea>
+    </g><container id="bigbox" layout="horizontal">
        
        
        
