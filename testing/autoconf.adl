@@ -26,11 +26,11 @@
       <textarea id="81-1">Thematics</textarea>
     </g></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="79-3"><g style="fill: #AA5500; " class="box" id="82">
       <textarea id="82-1">Box 2</textarea>
-    </g></cell></container><link id="84">
-        <from reference="30" id="84-1"/>
-        <to reference="30" shape="open-arrow" id="84-3"/>
-      </link><link id="85">
-        <from reference="80" id="85-1"/>
-        <to reference="30" shape="open-arrow" id="85-3"/>
+    </g></cell></container><link id="86">
+        <from reference="30" id="86-1"/>
+        <to reference="81" shape="open-arrow" id="86-3"/>
+      </link><link id="87">
+        <from reference="80" id="87-1"/>
+        <to reference="81" shape="open-arrow" id="87-3"/>
       </link></diagram>
 </svg:svg>
