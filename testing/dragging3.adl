@@ -27,9 +27,9 @@
     </g><g class="box" id="3">
       <textarea id="3-1">d</textarea>
     </g></container></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="16-2"><container class="solid" id="7">
-        <g class="box" id="b2"><textarea id="t2">a</textarea></g></container></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 2 2;&#10;" id="16-3"><g class="box" id="5">
+        </container></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 2 2;&#10;" id="16-3"><g class="box" id="5">
       <textarea id="5-1">b</textarea>
     </g></cell><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 1 1;&#10;" id="17"><g class="box" id="6">
       <textarea id="6-1">c</textarea>
-    </g></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="18"/></container></diagram>
+    </g></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="18"><g class="box" id="b2"><textarea id="t2">a</textarea></g></cell></container></diagram>
 </svg:svg>
