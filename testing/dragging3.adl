@@ -12,7 +12,9 @@
       <textarea id="5-1">b</textarea>
     </g><g class="box" id="2">
       <textarea id="2-1">Box</textarea>
-    </g><link drawDirection="LEFT" id="7">
+    </g><g class="box" id="10">
+      <textarea id="10-1">Box</textarea>
+    </g><link id="7" drawDirection="LEFT">
         <from reference="2" id="7-1"/>
         <to reference="5" id="7-3"/>
       </link></diagram>
