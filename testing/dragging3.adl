@@ -7,30 +7,26 @@
     
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
-
-     
-     
-     
-     
-     
-     
-     
-     
-
   <container id="bigbox">
-       <g class="box" id="b2"><textarea id="t2">a</textarea></g>
-       
-       
-     <g class="box" id="3">
+    
+    <g class="box" id="b2"><textarea id="t2">a</textarea></g>
+    
+    <g class="box" id="3">
       <textarea id="3-1">d</textarea>
-    </g><g class="box" style="fill: #AA5500; " id="4">
+    </g>
+    
+    <g class="box" style="fill: #AA5500; " id="4">
       <textarea id="4-1">Box 2</textarea>
-    </g><g class="box" id="2">
+    </g>
+    
+    <g class="box" id="2">
       <textarea id="2-1">e</textarea>
-    </g></container><g class="box" id="5">
+    </g>
+    
+  </container>
+    
+    <g class="box" id="5">
       <textarea id="5-1">b</textarea>
-    </g><align id="6">
-      <from reference="6" id="6-1"/>
-      <to reference="2" id="6-3"/>
-    </align></diagram>
+    </g>
+  </diagram>
 </svg:svg>
