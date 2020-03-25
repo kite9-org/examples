@@ -35,7 +35,7 @@
       <textarea id="10-1">Box</textarea>
     </g><g class="box" id="3">
       <textarea id="3-1">d</textarea>
-    </g><g style="fill: #AA5500; " class="box" id="4">
+    </g><g class="box" style="fill: #AA5500; " id="4">
       <textarea id="4-1">Box 2</textarea>
     </g></container></container></diagram>
 </svg:svg>
