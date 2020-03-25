@@ -18,7 +18,7 @@
      
 
   <container id="bigbox" layout="horizontal">
-       <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
+       <g class="box" id="b2"><textarea id="t2">a</textarea></g>
        
        
      <g class="box" id="5">
