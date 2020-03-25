@@ -17,10 +17,10 @@
      
      
 
-  <g class="box" id="5">
-      <textarea id="5-1">b</textarea>
-    </g><link drawDirection="LEFT" id="8">
+  <link id="8" drawDirection="LEFT">
         <from reference="6" id="8-1"/>
         <to reference="5" id="8-3"/>
-      </link></diagram>
+      </link><g class="box" id="5">
+      <textarea id="5-1">b</textarea>
+    </g></diagram>
 </svg:svg>
