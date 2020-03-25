@@ -8,7 +8,9 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-  <g class="box" id="2">
+  <g style="fill: #AA5500; " class="box" id="3">
+      <textarea id="3-1">Box 2</textarea>
+    </g><g class="box" id="2">
       <textarea id="2-1">Box</textarea>
     </g></diagram>
 </svg:svg>
