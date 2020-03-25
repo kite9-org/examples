@@ -19,7 +19,10 @@
 
   <g class="box" id="2">
       <textarea id="2-1">Box</textarea>
-    </g><g class="box" style="fill: #AA5500; " id="5">
+    </g><g style="fill: #AA5500; " class="box" id="5">
       <textarea id="5-1">Box 2</textarea>
-    </g></diagram>
+    </g><link drawDirection="DOWN" id="6">
+        <from reference="5" id="6-1"/>
+        <to reference="2" id="6-3"/>
+      </link></diagram>
 </svg:svg>
