@@ -8,12 +8,12 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-  <g class="box" id="10">
-      <textarea id="10-1">Box</textarea>
-    </g><g class="box" style="fill: #AA5500; " id="14">
+  <g class="box" style="fill: #AA5500; " id="14">
       <textarea id="14-1">Box 2</textarea>
     </g><g class="box" id="5">
       <textarea id="5-1">b</textarea>
+    </g><g class="box" id="10">
+      <textarea id="10-1">Box</textarea>
     </g><g class="box" id="2">
       <textarea id="2-1">Box</textarea>
     </g><link drawDirection="LEFT" id="7">
@@ -28,7 +28,7 @@
       </link><link drawDirection="UP" id="35">
         <from reference="10" id="35-1"/>
         <to reference="5" id="35-3"/>
-      </link><link id="38" drawDirection="UP">
+      </link><link id="38" drawDirection="DOWN">
         <from reference="10" id="38-1"/>
         <to reference="14" id="38-3"/>
       </link></diagram>
