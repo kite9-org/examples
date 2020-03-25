@@ -17,9 +17,9 @@
      
      
 
-  <g style="fill: #AA5500; " class="box" id="6">
+  <g class="box" style="fill: #AA5500; " id="6">
       <textarea id="6-1">Box 2</textarea>
-    </g><g class="box" style="fill: #AA5500; " id="9">
+    </g><g style="fill: #AA5500; " class="box" id="9">
       <textarea id="9-1">Box 2</textarea>
     </g><g class="box" id="2">
       <textarea id="2-1">e</textarea>
@@ -27,14 +27,13 @@
        
        
        
-     <cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 3 3;&#10;" id="16-1"><container class="solid" id="8">
-        </container></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 3 3;&#10;" id="16-3"/></container><container class="solid" id="3" layout="grid">
+     <cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 3 3;&#10;" id="16-3"/></container><container class="solid" id="3" layout="grid">
         <cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 0 0;&#10;" id="4-0"/><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 1 1;&#10;" id="4-1"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="4-2"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="4-3"/></container><g class="box" id="5">
       <textarea id="5-1">b</textarea>
-    </g><align id="12" drawDirection="DOWN">
+    </g><align drawDirection="DOWN" id="12">
       <from reference="2" id="12-1"/>
       <to reference="9" id="12-3"/>
-    </align><align drawDirection="LEFT" id="13">
+    </align><align id="13" drawDirection="LEFT">
       <from reference="5" id="13-1"/>
       <to reference="6" id="13-3"/>
     </align></diagram>
