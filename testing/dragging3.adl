@@ -10,12 +10,12 @@
 
   <g class="box" style="fill: #AA5500; " id="14">
       <textarea id="14-1">Box 2</textarea>
-    </g><g class="box" id="10">
-      <textarea id="10-1">Box</textarea>
     </g><g class="box" id="5">
       <textarea id="5-1">b</textarea>
     </g><g class="box" id="2">
       <textarea id="2-1">Box</textarea>
+    </g><g class="box" id="10">
+      <textarea id="10-1">Box</textarea>
     </g><link drawDirection="LEFT" id="7">
         <from reference="2" id="7-1"/>
         <to reference="5" id="7-3"/>
@@ -28,5 +28,8 @@
       </link><link id="28" drawDirection="UP">
         <from reference="23" id="28-1"/>
         <to reference="10" id="28-3"/>
+      </link><link drawDirection="UP" id="32">
+        <from reference="10" id="32-1"/>
+        <to reference="5" id="32-3"/>
       </link></diagram>
 </svg:svg>
