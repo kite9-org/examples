@@ -8,7 +8,9 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-     <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
+     <g class="box" id="8">
+      <textarea id="8-1">Box</textarea>
+    </g><g class="box" id="b1"><textarea id="t1">b1</textarea></g>
      
      
      
@@ -21,29 +23,29 @@
        
        <g class="box" id="b3"><textarea id="t3">b3</textarea></g>
      <container class="solid" id="5">
-        <g style="fill: #AA5500; " class="box" id="4">
+        <g class="box" style="fill: #AA5500; " id="4">
       <textarea id="4-1">Box 2</textarea>
-    </g></container><g class="box" style="fill: #AA5500; " id="1">
+    </g></container><g style="fill: #AA5500; " class="box" id="1">
       <textarea id="1-1">Box 2</textarea>
     </g><g class="box" id="6">
       <textarea id="6-1">Box</textarea>
     </g></container><g class="box" id="2">
       <textarea id="2-1">Box</textarea>
     </g><link r="r" id="link1">
-      <from reference="b1" class="arrow" id="link1-from"/>
-      <to class="arrow" reference="b3" id="link1-to"/>
+      <from class="arrow" reference="b1" id="link1-from"/>
+      <to reference="b3" class="arrow" id="link1-to"/>
      </link>
      
      
      <link id="link2">
-      <from reference="b1" class="hoverable selectable" id="link2-from"/>
-      <to class="hoverable selectable" reference="b2" id="link2-to"/>
+      <from class="hoverable selectable" reference="b1" id="link2-from"/>
+      <to reference="b2" class="hoverable selectable" id="link2-to"/>
      </link>
 
-  <align id="3" drawDirection="DOWN">
+  <align drawDirection="DOWN" id="3">
       <from reference="2" id="3-1"/>
       <to reference="b1" id="3-3"/>
-    </align><g style="fill: #AA5500; " class="box" id="2">
+    </align><g class="box" style="fill: #AA5500; " id="2">
       <textarea id="2-1">Box 2</textarea>
     </g></diagram>
 </svg:svg>
