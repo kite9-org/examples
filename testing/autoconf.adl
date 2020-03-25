@@ -21,39 +21,42 @@
       <textarea id="30-1">Box</textarea>
     </g><g class="box" id="40">
       <textarea id="40-1">Box</textarea>
-    </g><g class="box" id="b2"><textarea id="t2">b2</textarea></g><g class="box" style="fill: #AA5500; " id="14">
-      <textarea id="14-1">Box 2</textarea>
-    </g><g class="box" id="2">
+    </g><g class="box" id="b2"><textarea id="t2">b2</textarea></g><g class="box" id="2">
       <textarea id="2-1">Box</textarea>
+    </g><g style="fill: #AA5500; " class="box" id="14">
+      <textarea id="14-1">Box 2</textarea>
     </g><g class="box" id="9">
       <textarea id="9-1">Box</textarea>
     </g><g class="box" id="11">
       <textarea id="11-1">Box</textarea>
     </g><g class="box" id="17">
       <textarea id="17-1">Box</textarea>
-    </g><link drawDirection="RIGHT" id="13">
+    </g><link id="13" drawDirection="RIGHT">
         <from reference="b2" id="13-1"/>
         <to reference="9" id="13-3"/>
-      </link><link id="18" drawDirection="DOWN">
+      </link><link drawDirection="DOWN" id="18">
         <from reference="11" id="18-1"/>
         <to reference="17" id="18-3"/>
-      </link><link id="39" drawDirection="RIGHT">
+      </link><link drawDirection="RIGHT" id="39">
         <from reference="30" id="39-1"/>
         <to reference="b2" id="39-3"/>
-      </link><align id="56" drawDirection="DOWN">
+      </link><align drawDirection="DOWN" id="56">
       <from reference="40" id="56-1"/>
       <to reference="30" id="56-3"/>
-    </align><link id="57" drawDirection="LEFT">
+    </align><link drawDirection="LEFT" id="57">
         <from reference="11" id="57-1"/>
-        <to reference="9" shape="open-arrow" id="57-3"/>
-      </link><link id="5" drawDirection="RIGHT">
+        <to reference="9" id="57-3" shape="open-arrow"/>
+      </link><link drawDirection="RIGHT" id="5">
         <from reference="2" id="5-1"/>
         <to reference="17" id="5-3"/>
-      </link><align drawDirection="UP" id="65">
+      </link><align id="65" drawDirection="UP">
       <from reference="2" id="65-1"/>
       <to reference="b2" id="65-3"/>
-    </align><link class="thick" id="7" drawDirection="RIGHT">
+    </align><link class="thick" drawDirection="RIGHT" id="7">
         <from reference="14" id="7-1"/>
         <to reference="17" id="7-3"/>
-      </link></diagram>
+      </link><align drawDirection="UP" id="74">
+      <from reference="14" id="74-1"/>
+      <to reference="2" id="74-3"/>
+    </align></diagram>
 </svg:svg>
