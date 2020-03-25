@@ -14,7 +14,7 @@
       <textarea id="5-1">b</textarea>
     </g><g class="box" id="10">
       <textarea id="10-1">Box</textarea>
-    </g><link id="13" drawDirection="DOWN">
+    </g><link id="13" drawDirection="UP">
         <from reference="5" id="13-1"/>
         <to reference="14" id="13-3"/>
       </link></diagram>
