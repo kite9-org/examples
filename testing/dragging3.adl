@@ -28,7 +28,8 @@
       <textarea id="5-1">b</textarea>
     </g><g class="box" id="b2"><textarea id="t2">a</textarea></g></container><g class="box" id="3">
       <textarea id="3-1">d</textarea>
-    </g><g class="box" style="fill: #AA5500; " id="4">
+    </g><container class="solid" id="8">
+        </container><g style="fill: #AA5500; " class="box" id="4">
       <textarea id="4-1">Box 2</textarea>
     </g><g class="box" id="2">
       <textarea id="2-1">e</textarea>
