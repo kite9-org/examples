@@ -17,7 +17,7 @@
      
      
 
-  <g class="box" style="fill: #AA5500; " id="80">
+  <g style="fill: #AA5500; " class="box" id="80">
       <textarea id="80-1">Thematics</textarea>
     </g><container class="solid" id="78" layout="right">
         <g class="box" id="30">
@@ -25,5 +25,8 @@
     </g><container class="solid" id="94">
         </container></container><g class="box" id="95">
       <textarea id="95-1">Box</textarea>
-    </g></diagram>
+    </g><link id="108">
+        <from reference="30" id="108-1"/>
+        <to reference="80" shape="open-arrow" id="108-3"/>
+      </link></diagram>
 </svg:svg>
