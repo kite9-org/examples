@@ -17,25 +17,24 @@
      
      
 
-  <g class="box" style="fill: #AA5500; " id="6">
+  <g style="fill: #AA5500; " class="box" id="6">
       <textarea id="6-1">Box 2</textarea>
-    </g><g style="fill: #AA5500; " class="box" id="9">
+    </g><g class="box" style="fill: #AA5500; " id="9">
       <textarea id="9-1">Box 2</textarea>
     </g><g class="box" id="2">
       <textarea id="2-1">e</textarea>
-    </g><container class="solid" id="3" layout="grid">
-        <cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 0 0;&#10;" id="4-0"/><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 1 1;&#10;" id="4-1"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="4-2"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="4-3"/></container><g class="box" id="5">
+    </g><g class="box" id="5">
       <textarea id="5-1">b</textarea>
-    </g><align id="13" drawDirection="LEFT">
+    </g><align drawDirection="LEFT" id="13">
       <from reference="5" id="13-1"/>
       <to reference="6" id="13-3"/>
-    </align><link drawDirection="DOWN" id="8">
+    </align><link id="8" drawDirection="DOWN">
         <from reference="2" id="8-1"/>
         <to reference="5" id="8-3"/>
-      </link><link drawDirection="RIGHT" id="14">
+      </link><link id="14" drawDirection="RIGHT">
         <from reference="9" id="14-1"/>
         <to reference="2" id="14-3"/>
-      </link><link id="17" drawDirection="DOWN">
+      </link><link drawDirection="DOWN" id="17">
         <from reference="9" id="17-1"/>
         <to reference="6" id="17-3"/>
       </link></diagram>
