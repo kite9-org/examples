@@ -19,8 +19,5 @@
 
   <g class="box" id="5">
       <textarea id="5-1">b</textarea>
-    </g><link drawDirection="LEFT" id="4">
-        <from reference="2" id="4-1"/>
-        <to reference="5" id="4-3"/>
-      </link></diagram>
+    </g></diagram>
 </svg:svg>
