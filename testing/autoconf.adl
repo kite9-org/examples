@@ -23,19 +23,14 @@
       <textarea id="9-1">Box</textarea>
     </g><g class="box" id="11">
       <textarea id="11-1">Box</textarea>
-    </g><g class="box" id="17">
-      <textarea id="17-1">Box</textarea>
-    </g><link drawDirection="RIGHT" id="13">
+    </g><link id="13" drawDirection="RIGHT">
         <from reference="b2" id="13-1"/>
         <to reference="9" id="13-3"/>
-      </link><link id="18" drawDirection="DOWN">
-        <from reference="11" id="18-1"/>
-        <to reference="17" id="18-3"/>
-      </link><link id="39" drawDirection="RIGHT">
+      </link><link drawDirection="RIGHT" id="39">
         <from reference="30" id="39-1"/>
         <to reference="b2" id="39-3"/>
-      </link><link id="57" drawDirection="LEFT">
+      </link><link drawDirection="LEFT" id="57">
         <from reference="11" id="57-1"/>
-        <to reference="9" shape="open-arrow" id="57-3"/>
+        <to reference="9" id="57-3" shape="open-arrow"/>
       </link></diagram>
 </svg:svg>
