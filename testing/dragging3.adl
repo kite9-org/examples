@@ -25,5 +25,7 @@
       <textarea id="5-1">b</textarea>
     </g><g class="box" id="6">
       <textarea id="6-1">c</textarea>
+    </g><g class="box" id="2">
+      <textarea id="2-1">Box</textarea>
     </g></container></diagram>
 </svg:svg>
