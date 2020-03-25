@@ -14,19 +14,10 @@
       <textarea id="10-1">Box</textarea>
     </g><g class="box" id="2">
       <textarea id="2-1">Box</textarea>
-    </g><g style="fill: #AA5500; " class="box" id="14">
+    </g><g class="box" style="fill: #AA5500; " id="14">
       <textarea id="14-1">Box 2</textarea>
-    </g><link id="7" drawDirection="LEFT">
+    </g><link drawDirection="LEFT" id="7">
         <from reference="2" id="7-1"/>
         <to reference="5" id="7-3"/>
-      </link><link id="35" drawDirection="UP">
-        <from reference="10" id="35-1"/>
-        <to reference="5" id="35-3"/>
-      </link><link drawDirection="RIGHT" id="38">
-        <from reference="10" id="38-1"/>
-        <to reference="14" id="38-3"/>
-      </link><link id="50" drawDirection="LEFT">
-        <from reference="2" id="50-1"/>
-        <to reference="14" id="50-3"/>
       </link></diagram>
 </svg:svg>
