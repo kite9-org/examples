@@ -10,13 +10,13 @@
 
      
      
-     <container id="bigbox" layout="horizontal">
+     <g class="box" id="b1"><textarea id="t1">b1</textarea></g><container id="bigbox" layout="horizontal">
        
        
        <g class="box" id="b3"><textarea id="t3">b3</textarea></g>
      </container>
      
-     <g class="box" id="b1"><textarea id="t1">b1</textarea></g><g class="box" id="7">
+     <g class="box" id="7">
       <textarea id="7-1">Box</textarea>
     </g><g class="box" id="4">
       <textarea id="4-1">Box</textarea>
@@ -45,7 +45,7 @@
       </link><link drawDirection="RIGHT" id="23">
         <from reference="b1" id="23-1"/>
         <to reference="7" id="23-3"/>
-      </link><link r="r" drawDirection="UP" id="link1">
+      </link><link r="r" drawDirection="DOWN" id="link1">
       <from reference="b1" class="arrow" id="link1-from"/>
       <to class="arrow" reference="b3" id="link1-to"/>
      </link></diagram>
