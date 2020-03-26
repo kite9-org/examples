@@ -27,12 +27,12 @@
     </g><g class="box" id="b1"><textarea id="t1">b1</textarea></g><g class="box" id="b2"><textarea id="t2">b2</textarea></g><container class="solid" id="3" layout="grid">
         <g class="box" style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 1 1;&#10;" id="b3"><textarea id="t3">b3</textarea></g><cell style="kite9-occupies-x: 9 9;&#10;kite9-occupies-y: 1 1;&#10;" id="4-2"/><cell style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 3 3;&#10;" id="4-3"/></container>
 
-  <link drawDirection="UP" id="12">
-      <from class="hoverable selectable" reference="b1" id="12-1"/>
-      <to reference="24" class="hoverable selectable" id="12-3"/>
-     </link><link drawDirection="UP" id="12">
-      <from class="hoverable selectable" reference="24" id="12-1"/>
-      <to reference="b2" class="hoverable selectable" id="12-3"/>
+  <link drawDirection="UP" id="9">
+      <from class="hoverable selectable" reference="b1" id="9-1"/>
+      <to reference="24" class="hoverable selectable" id="9-3"/>
+     </link><link drawDirection="UP" id="9">
+      <from class="hoverable selectable" reference="24" id="9-1"/>
+      <to reference="b2" class="hoverable selectable" id="9-3"/>
      </link><align id="5" drawDirection="LEFT">
       <from reference="24" id="5-1"/>
       <to reference="b3" id="5-3"/>
