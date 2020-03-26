@@ -22,13 +22,13 @@
        
        
        
-     <cell style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 0 0;&#10;" id="2-0"/><cell style="kite9-occupies-x: 7 7;&#10;kite9-occupies-y: 0 0;&#10;" id="2"/><cell class="shaded bordered" style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 1 1;&#10;" id="17"/><cell style="kite9-occupies-x: 6 6;&#10;kite9-occupies-y: 2 2;&#10;" class="shaded bordered" id="18"/><cell style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 2 2;&#10;" class="shaded bordered" id="19"/><cell style="kite9-occupies-x: 6 6;&#10;kite9-occupies-y: 1 1;&#10;" id="20"/><cell style="kite9-occupies-x: 6 6;&#10;kite9-occupies-y: 0 0;&#10;" id="21"/><cell style="kite9-occupies-x: 7 7;&#10;kite9-occupies-y: 1 1;&#10;" id="22"/><cell style="kite9-occupies-x: 7 7;&#10;kite9-occupies-y: 2 2;&#10;" id="23"/></container></cell><cell style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 3 3;&#10;" id="4-3"/></container>
+     <cell style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 0 0;&#10;" id="2-0"/><cell style="kite9-occupies-x: 7 7;&#10;kite9-occupies-y: 0 0;&#10;" id="2"/><cell style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 1 1;&#10;" class="shaded bordered" id="17"/><cell class="shaded bordered" style="kite9-occupies-x: 6 6;&#10;kite9-occupies-y: 2 2;&#10;" id="18"/><cell class="shaded bordered" style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 2 2;&#10;" id="19"/><cell style="kite9-occupies-x: 6 6;&#10;kite9-occupies-y: 1 1;&#10;" id="20"/><cell style="kite9-occupies-x: 6 6;&#10;kite9-occupies-y: 0 0;&#10;" id="21"/><cell style="kite9-occupies-x: 7 7;&#10;kite9-occupies-y: 1 1;&#10;" id="22"/><cell style="kite9-occupies-x: 7 7;&#10;kite9-occupies-y: 2 2;&#10;" id="23"/></container></cell><cell style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 1 1;&#10;" id="4-3"/></container>
 
-  <g class="box" id="b1"><textarea id="t1">b1</textarea></g><link drawDirection="UP" id="9">
-      <from class="hoverable selectable" reference="b1" id="9-1"/>
-      <to reference="24" class="hoverable selectable" id="9-3"/>
-     </link><link drawDirection="UP" id="9">
-      <from class="hoverable selectable" reference="24" id="9-1"/>
-      <to reference="b2" class="hoverable selectable" id="9-3"/>
+  <g class="box" id="b1"><textarea id="t1">b1</textarea></g><link id="9" drawDirection="UP">
+      <from reference="b1" class="hoverable selectable" id="9-1"/>
+      <to class="hoverable selectable" reference="24" id="9-3"/>
+     </link><link id="9" drawDirection="UP">
+      <from reference="24" class="hoverable selectable" id="9-1"/>
+      <to class="hoverable selectable" reference="b2" id="9-3"/>
      </link></diagram>
 </svg:svg>
