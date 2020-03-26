@@ -21,23 +21,20 @@
     </g><g class="box" id="4">
       <textarea id="4-1">Box</textarea>
     </g><link r="r" id="link1">
-      <from reference="b1" class="arrow" id="link1-from"/>
-      <to class="arrow" reference="b3" id="link1-to"/>
+      <from class="arrow" reference="b1" id="link1-from"/>
+      <to reference="b3" class="arrow" id="link1-to"/>
      </link>
      
      
      
 
-  <link id="link2" drawDirection="RIGHT">
-      <from reference="b1" class="hoverable selectable" id="link2-from"/>
-      <to class="hoverable selectable" reference="b2" id="link2-to"/>
-     </link><link drawDirection="LEFT" id="6">
+  <link id="6" drawDirection="LEFT">
         <from reference="4" id="6-1"/>
         <to reference="b3" id="6-3"/>
-      </link><link id="14" drawDirection="UP">
+      </link><link drawDirection="UP" id="14">
         <from reference="7" id="14-1"/>
         <to reference="4" id="14-3"/>
-      </link><align drawDirection="RIGHT" id="19">
+      </link><align id="19" drawDirection="RIGHT">
       <from reference="b1" id="19-1"/>
       <to reference="7" id="19-3"/>
     </align></diagram>
