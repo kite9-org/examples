@@ -13,13 +13,11 @@
      <g class="box" id="b1"><textarea id="t1">b1</textarea></g><container id="bigbox" layout="horizontal">
        
        
-       <g class="box" id="b3"><textarea id="t3">b3</textarea></g>
+       
      </container>
      
      <g class="box" id="7">
       <textarea id="7-1">Box</textarea>
-    </g><g class="box" id="4">
-      <textarea id="4-1">Box</textarea>
     </g><g class="box" id="b2"><textarea id="t2">b2</textarea></g><g class="box" id="11">
       <textarea id="11-1">Box</textarea>
     </g>
@@ -27,26 +25,11 @@
      
      
 
-  <link drawDirection="LEFT" id="6">
-        <from reference="4" id="6-1"/>
-        <to reference="b3" id="6-3"/>
-      </link><link class="thick" drawDirection="DOWN" id="48">
-        <from reference="4" id="48-1"/>
-        <to reference="b2" id="48-3"/>
-      </link><link id="13">
-        <from reference="b2" id="13-1"/>
-        <to reference="b3" id="13-3"/>
-      </link><link id="14" drawDirection="DOWN">
-        <from reference="7" id="14-1"/>
-        <to reference="4" id="14-3"/>
-      </link><link id="22" drawDirection="LEFT">
+  <link drawDirection="LEFT" id="22">
         <from reference="11" id="22-1"/>
         <to reference="7" id="22-3"/>
-      </link><link drawDirection="RIGHT" id="23">
+      </link><link id="23" drawDirection="RIGHT">
         <from reference="b1" id="23-1"/>
         <to reference="7" id="23-3"/>
-      </link><link r="r" drawDirection="DOWN" id="link1">
-      <from reference="b1" class="arrow" id="link1-from"/>
-      <to class="arrow" reference="b3" id="link1-to"/>
-     </link></diagram>
+      </link></diagram>
 </svg:svg>
