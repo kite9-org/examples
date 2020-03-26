@@ -14,21 +14,21 @@
        
        
        
-     </container>
+     <g class="box" id="b2"><textarea id="t2">b2</textarea></g></container>
      
      <g class="box" id="7">
       <textarea id="7-1">Box</textarea>
-    </g><g class="box" id="b2"><textarea id="t2">b2</textarea></g><g class="box" id="11">
+    </g><g class="box" id="11">
       <textarea id="11-1">Box</textarea>
     </g>
      
      
      
 
-  <link drawDirection="LEFT" id="22">
+  <link id="22" drawDirection="LEFT">
         <from reference="11" id="22-1"/>
         <to reference="7" id="22-3"/>
-      </link><link id="23" drawDirection="RIGHT">
+      </link><link drawDirection="RIGHT" id="23">
         <from reference="b1" id="23-1"/>
         <to reference="7" id="23-3"/>
       </link></diagram>
