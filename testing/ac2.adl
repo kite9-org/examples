@@ -21,24 +21,24 @@
     </g><g class="box" id="b2"><textarea id="t2">b2</textarea></g><g class="box" id="4">
       <textarea id="4-1">Box</textarea>
     </g><link r="r" id="link1">
-      <from reference="b1" class="arrow" id="link1-from"/>
-      <to class="arrow" reference="b3" id="link1-to"/>
+      <from class="arrow" reference="b1" id="link1-from"/>
+      <to reference="b3" class="arrow" id="link1-to"/>
      </link>
      
      
      
 
-  <link id="14" drawDirection="UP">
+  <link drawDirection="UP" id="14">
         <from reference="7" id="14-1"/>
         <to reference="4" id="14-3"/>
-      </link><align drawDirection="RIGHT" id="19">
+      </link><align id="19" drawDirection="RIGHT">
       <from reference="b1" id="19-1"/>
       <to reference="7" id="19-3"/>
-    </align><link drawDirection="LEFT" id="6">
+    </align><link id="6" drawDirection="LEFT">
         <from reference="4" id="6-1"/>
         <to reference="b3" id="6-3"/>
-      </link><align drawDirection="DOWN" id="36">
-      <from reference="4" id="36-1"/>
-      <to reference="b2" id="36-3"/>
+      </link><align drawDirection="DOWN" id="39">
+      <from reference="4" id="39-1"/>
+      <to reference="b2" id="39-3"/>
     </align></diagram>
 </svg:svg>
