@@ -21,12 +21,12 @@
        
        
        
-     <cell style="kite9-occupies-x: 11 11;&#10;kite9-occupies-y: 0 0;&#10;" id="2-0"/><cell style="kite9-occupies-x: 10 10;&#10;kite9-occupies-y: 0 0;&#10;" id="2"/><cell style="kite9-occupies-x: 11 11;&#10;kite9-occupies-y: 2 2;&#10;" class="shaded bordered" id="19"/><cell style="kite9-occupies-x: 7 7;&#10;kite9-occupies-y: 0 0;&#10;" class="shaded bordered" id="18"><g class="box" id="b1"><textarea id="t1">b1</textarea></g><g class="box" id="24">
+     <cell style="kite9-occupies-x: 11 11;&#10;kite9-occupies-y: 0 0;&#10;" id="2-0"/><cell style="kite9-occupies-x: 10 10;&#10;kite9-occupies-y: 0 0;&#10;" id="2"/><cell class="shaded bordered" style="kite9-occupies-x: 7 7;&#10;kite9-occupies-y: 0 0;&#10;" id="18"><g class="box" id="b1"><textarea id="t1">b1</textarea></g><g class="box" id="24">
       <textarea id="24-1">Box</textarea>
     </g></cell><cell style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 0 0;&#10;" id="4-3"/><cell style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 1 1;&#10;" id="20"/><cell style="kite9-occupies-x: 8 8;&#10;kite9-occupies-y: 2 2;&#10;" id="21"/><cell style="kite9-occupies-x: 7 7;&#10;kite9-occupies-y: 1 1;&#10;" id="4-2"><container class="solid" id="3" layout="right">
         <g class="box" id="12">
       <textarea id="12-1">Box</textarea>
-    </g><g class="box" id="b2"><textarea id="t2">b2</textarea></g></container></cell><cell class="shaded bordered" style="kite9-occupies-x: 9 9;&#10;kite9-occupies-y: 0 0;&#10;" id="17"/><cell style="kite9-occupies-x: 9 9;&#10;kite9-occupies-y: 1 1;&#10;" id="22"/><cell style="kite9-occupies-x: 9 9;&#10;kite9-occupies-y: 2 2;&#10;" id="23"/></container><link id="6">
+    </g><g class="box" id="b2"><textarea id="t2">b2</textarea></g></container></cell><cell style="kite9-occupies-x: 9 9;&#10;kite9-occupies-y: 0 0;&#10;" class="shaded bordered" id="17"/><cell style="kite9-occupies-x: 9 9;&#10;kite9-occupies-y: 1 1;&#10;" id="22"/><cell style="kite9-occupies-x: 9 9;&#10;kite9-occupies-y: 2 2;&#10;" id="23"/><cell class="shaded bordered" style="kite9-occupies-x: 10 10;&#10;kite9-occupies-y: 1 1;&#10;" id="19"/></container><link id="6">
         <from reference="b1" id="6-1"/>
         <to reference="3" id="6-3"/>
       </link></diagram>
