@@ -10,12 +10,12 @@
 
      
      
-	 <process id="2" k9-format="inline">Process</process>
+	 <process k9-format="inline" id="2">Process</process>
 
 	 
 	 
 	 
-  <database id="3" k9-format="captioned">Terminal</database><delay k9-format="captioned" id="5">Delay</delay><link id="4">
+  <database k9-format="captioned" id="3">Terminal</database><delay id="5" k9-format="captioned">Delay</delay><link id="4">
         <from reference="2" id="4-1"/>
         <to reference="3--dep" id="4-3"/>
       </link></diagram>
