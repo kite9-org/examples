@@ -10,16 +10,19 @@
 
      
      
-	 <delay id="5" k9-format="captioned">Delay</delay><process k9-format="inline" id="2">Process</process>
+	 <delay k9-format="captioned" id="5">Delay</delay><process id="2" k9-format="inline">Process</process>
 
 	 
 	 
 	 
-  <database k9-format="captioned" id="3">Terminal</database><link id="4">
+  <delay id="11" k9-format="inline">Delay</delay><database id="3" k9-format="captioned">Terminal</database><link id="4">
         <from reference="2" id="4-1"/>
         <to reference="3--dep" id="4-3"/>
-      </link><align drawDirection="RIGHT" id="10">
+      </link><align id="10" drawDirection="RIGHT">
       <from reference="5--dep" id="10-1"/>
       <to reference="2" id="10-3"/>
-    </align></diagram>
+    </align><link drawDirection="UP" id="16">
+        <from reference="11" id="16-1"/>
+        <to reference="2" id="16-3"/>
+      </link></diagram>
 </svg:svg>
