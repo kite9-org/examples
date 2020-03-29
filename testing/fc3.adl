@@ -20,10 +20,7 @@
         <cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 1 1;&#10;" id="24-0"/><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 3 3;&#10;" id="24-1"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="25"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="28"/><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 2 2;&#10;" id="29"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 2 2;&#10;" id="30"/><cell style="kite9-occupies-x: 2 2;&#10;kite9-occupies-y: 1 1;&#10;" id="24-3"/><cell style="kite9-occupies-x: 2 2;&#10;kite9-occupies-y: 0 0;&#10;" id="24-2"/><cell style="kite9-occupies-x: 2 2;&#10;kite9-occupies-y: 2 2;&#10;" id="27"/><cell style="kite9-occupies-x: 2 2;&#10;kite9-occupies-y: 3 3;&#10;" id="26"/></container><link drawDirection="UP" id="22">
         <from reference="9" id="22-1"/>
         <to reference="1" id="22-3"/>
-      </link><align drawDirection="UP" id="41">
-      <from reference="3@dep" id="41-1"/>
-      <to reference="2" id="41-3"/>
-    </align><align id="48" drawDirection="RIGHT">
+      </link><align id="48" drawDirection="RIGHT">
       <from reference="9" id="48-1"/>
       <to reference="2" id="48-3"/>
     </align><align drawDirection="UP" id="16">
@@ -44,8 +41,8 @@
       </link><align drawDirection="LEFT" id="34">
       <from reference="24-3" id="34-1"/>
       <to reference="2" id="34-3"/>
-    </align><link id="6">
+    </align><link drawDirection="DOWN" id="6">
         <from reference="2" id="6-1"/>
-        <to reference="4" id="6-3"/>
+        <to reference="3@dep" id="6-3"/>
       </link></diagram>
 </svg:svg>
