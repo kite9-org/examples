@@ -8,25 +8,28 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-     <start id="1" k9-format="inline">Start</start>
+     <start k9-format="inline" id="1">Start</start>
      
-	 <process id="2" k9-format="inline">Process</process>
+	 <delay k9-format="inline" id="4">Delay</delay><process k9-format="inline" id="2">Process</process>
 
 	 
 	 
 	 
   <container class="solid" id="9">
-        </container><terminal id="3" k9-format="captioned">Terminal</terminal><delay id="4" k9-format="inline">Delay</delay><link id="22" drawDirection="UP">
+        </container><terminal k9-format="captioned" id="3">Terminal</terminal><link drawDirection="UP" id="22">
         <from reference="9" id="22-1"/>
         <to reference="1" id="22-3"/>
-      </link><link drawDirection="LEFT" id="11">
+      </link><link id="11" drawDirection="LEFT">
         <from reference="4" id="11-1"/>
         <to reference="2" id="11-3"/>
-      </link><align id="41" drawDirection="UP">
+      </link><align drawDirection="UP" id="41">
       <from reference="3@dep" id="41-1"/>
       <to reference="2" id="41-3"/>
-    </align><align drawDirection="RIGHT" id="48">
+    </align><align id="48" drawDirection="RIGHT">
       <from reference="9" id="48-1"/>
       <to reference="2" id="48-3"/>
+    </align><align drawDirection="UP" id="16">
+      <from reference="4" id="16-1"/>
+      <to reference="3@dep" id="16-3"/>
     </align></diagram>
 </svg:svg>
