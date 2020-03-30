@@ -15,11 +15,12 @@
 	 
 	 
 	 
-  <start k9-format="captioned" id="2">Start</start><terminator id="20" k9-format="captioned">Terminator</terminator><decision id="5" k9-format="captioned">Hungry?</decision><align id="10" drawDirection="UP">
+  <start id="2" k9-format="captioned">Start</start><input id="13" k9-format="captioned">Manual 
+			Input</input><terminator k9-format="captioned" id="20">Terminator</terminator><decision k9-format="captioned" id="5">Hungry?</decision><align drawDirection="UP" id="10">
       <from reference="5@dep" id="10-1"/>
       <to reference="2@dep" id="10-3"/>
-    </align><link id="22" drawDirection="LEFT">
+    </align><link drawDirection="LEFT" id="22">
         <from reference="5@dep" id="22-1"/>
-        <to reference="20@dep" shape="open-arrow" id="22-3"/>
+        <to reference="20@dep" id="22-3" shape="open-arrow"/>
       <label id="3" end="from">Yes</label></link></diagram>
 </svg:svg>
