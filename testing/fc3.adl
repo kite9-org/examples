@@ -15,7 +15,7 @@
 	 
 	 
 	 
-  <terminal id="3" k9-format="captioned">Terminal</terminal><decision k9-format="captioned" id="5">Decision</decision><start id="2" k9-format="captioned">Start</start><align drawDirection="UP" id="10">
+  <terminal k9-format="captioned" id="3">Terminal</terminal><decision id="5" k9-format="captioned">Hungry?</decision><start k9-format="captioned" id="2">Start</start><align id="10" drawDirection="UP">
       <from reference="5@dep" id="10-1"/>
       <to reference="2@dep" id="10-3"/>
     </align></diagram>
