@@ -10,11 +10,10 @@
 
      
      
-	 <delay id="9" k9-format="captioned">
-        </delay><database k9-format="captioned" id="5">Database Here</database>
+	 <database id="5" k9-format="captioned">Database Here</database>
 
 	 
 	 
 	 
-  <terminal id="3" k9-format="captioned">Terminal</terminal><preparation k9-format="captioned" id="6">Preparation</preparation></diagram>
+  <terminal k9-format="captioned" id="3">Terminal</terminal><preparation id="6" k9-format="captioned">Preparation</preparation></diagram>
 </svg:svg>
