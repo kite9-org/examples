@@ -8,9 +8,9 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-     <database id="5" k9-format="captioned">Database</database><reference id="17" k9-format="inline">Reference</reference><document k9-format="inline" id="11">Document</document><start k9-format="inline" id="1">Start</start>
+     <reference id="17" k9-format="inline">Reference</reference><document k9-format="inline" id="11">Document</document><start k9-format="inline" id="1">Start</start>
      
-	 <delay k9-format="inline" id="4">Delay</delay><process k9-format="inline" id="2">Process</process>
+	 <delay k9-format="inline" id="4">Delay</delay><database id="5" k9-format="captioned">Database</database><process k9-format="inline" id="2">Process</process>
 
 	 
 	 
@@ -53,8 +53,5 @@
       </link><align drawDirection="UP" id="10">
       <from reference="5@dep" id="10-1"/>
       <to reference="4" id="10-3"/>
-    </align><link drawDirection="UP" id="40">
-        <from reference="5@dep" id="40-1"/>
-        <to reference="17" id="40-3"/>
-      </link></diagram>
+    </align></diagram>
 </svg:svg>
