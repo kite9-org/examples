@@ -15,5 +15,5 @@
 	 
 	 
 	 
-  <terminal k9-format="captioned" id="3">Terminal</terminal></diagram>
+  <terminal id="3" k9-format="captioned">Terminal</terminal><start id="2" k9-format="captioned">Start</start></diagram>
 </svg:svg>
