@@ -15,11 +15,8 @@
 	 
 	 
 	 
-  <terminator id="20" k9-format="captioned">Terminator</terminator><decision id="5" k9-format="captioned">Hungry?</decision><terminal k9-format="captioned" id="3">Terminal</terminal><start k9-format="captioned" id="2">Start</start><align id="10" drawDirection="UP">
+  <terminator k9-format="captioned" id="20">Terminator</terminator><decision k9-format="captioned" id="5">Hungry?</decision><start id="2" k9-format="captioned">Start</start><align drawDirection="UP" id="10">
       <from reference="5@dep" id="10-1"/>
       <to reference="2@dep" id="10-3"/>
-    </align><link id="11" drawDirection="LEFT">
-        <from reference="5@dep" id="11-1"/>
-        <to reference="3@dep" shape="open-arrow" id="11-3"/>
-      <label id="15" end="from">New Label</label></link></diagram>
+    </align></diagram>
 </svg:svg>
