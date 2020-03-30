@@ -15,13 +15,13 @@
 	 
 	 
 	 
-  <start id="2" k9-format="captioned">Start</start><input id="13" k9-format="captioned">Manual 
-			Input</input><terminator k9-format="captioned" id="20">Terminators</terminator><manual id="4" k9-format="inline">Manual 
-			Operation</manual><decision k9-format="captioned" id="5">Hungry?</decision><align drawDirection="UP" id="10">
+  <start k9-format="captioned" id="2">Start</start><input k9-format="captioned" id="13">Manual 
+			Input</input><terminator id="20" k9-format="captioned">Terminators</terminator><manual k9-format="inline" id="4">Manual 
+			Operation</manual><database id="21" k9-format="inline">Database</database><decision id="5" k9-format="captioned">Hungry?</decision><align id="10" drawDirection="UP">
       <from reference="5@dep" id="10-1"/>
       <to reference="2@dep" id="10-3"/>
-    </align><link drawDirection="LEFT" id="22">
+    </align><link id="22" drawDirection="LEFT">
         <from reference="5@dep" id="22-1"/>
-        <to reference="20@dep" id="22-3" shape="open-arrow"/>
+        <to reference="20@dep" shape="open-arrow" id="22-3"/>
       <label id="3" end="from">Yes</label></link></diagram>
 </svg:svg>
