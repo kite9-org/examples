@@ -8,51 +8,45 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-     <document id="32" k9-format="inline">Document</document><reference k9-format="inline" id="17">Reference</reference><document id="11" k9-format="inline">Document</document><start id="1" k9-format="inline">Start</start>
+     <document k9-format="inline" id="32">Document</document><reference id="17" k9-format="inline">Reference</reference><document k9-format="inline" id="11">Document</document><start k9-format="inline" id="1">Start</start>
      
-	 <delay id="4" k9-format="inline">Delay</delay><delay id="9" k9-format="captioned">
-        </delay><database k9-format="captioned" id="5">Database</database><process id="2" k9-format="inline">Process</process>
+	 <delay k9-format="inline" id="4">Delay</delay><delay k9-format="captioned" id="9">
+        </delay><database id="5" k9-format="captioned">Database</database><process k9-format="inline" id="2">Process</process>
 
 	 
 	 
 	 
-  <terminal id="3" k9-format="captioned">Terminal</terminal><preparation k9-format="captioned" id="6">Preparation</preparation><predefined k9-format="inline" id="34">Predefined</predefined><stored id="47" k9-format="captioned">Stored</stored><delay id="43" k9-format="inline">Delay</delay><link id="22" drawDirection="UP">
+  <terminal k9-format="captioned" id="3">Terminal</terminal><preparation id="6" k9-format="captioned">Preparation</preparation><predefined id="34" k9-format="inline">Predefined</predefined><delay k9-format="inline" id="43">Delay</delay><link drawDirection="UP" id="22">
         <from reference="9" id="22-1"/>
         <to reference="1" id="22-3"/>
-      </link><align id="41" drawDirection="UP">
+      </link><align drawDirection="UP" id="41">
       <from reference="3@dep" id="41-1"/>
       <to reference="2" id="41-3"/>
-    </align><align id="16" drawDirection="UP">
+    </align><align drawDirection="UP" id="16">
       <from reference="4" id="16-1"/>
       <to reference="3@dep" id="16-3"/>
-    </align><link drawDirection="DOWN" id="15">
+    </align><link id="15" drawDirection="DOWN">
         <from reference="11" id="15-1"/>
         <to reference="1" id="15-3"/>
-      </link><link id="19" drawDirection="RIGHT">
+      </link><link drawDirection="RIGHT" id="19">
         <from reference="17" id="19-1"/>
         <to reference="4" id="19-3"/>
-      </link><align id="12" drawDirection="DOWN">
+      </link><align drawDirection="DOWN" id="12">
       <from reference="6@dep" id="12-1"/>
       <to reference="2" id="12-3"/>
-    </align><align id="10" drawDirection="UP">
+    </align><align drawDirection="UP" id="10">
       <from reference="5@dep" id="10-1"/>
       <to reference="4" id="10-3"/>
-    </align><link drawDirection="UP" id="53">
-        <from reference="43" id="53-1"/>
-        <to reference="47@dep" id="53-3"/>
-      </link><link drawDirection="RIGHT" id="44">
+    </align><link id="44" drawDirection="RIGHT">
         <from reference="32" id="44-1"/>
         <to reference="5@dep" id="44-3"/>
-      </link><align id="52" drawDirection="UP">
+      </link><align drawDirection="UP" id="52">
       <from reference="32" id="52-1"/>
       <to reference="17" id="52-3"/>
-    </align><align drawDirection="LEFT" id="14">
-      <from reference="47@dep" id="14-1"/>
-      <to reference="5@dep" id="14-3"/>
-    </align><align drawDirection="RIGHT" id="33">
+    </align><align id="33" drawDirection="RIGHT">
       <from reference="9@dep" id="33-1"/>
       <to reference="2" id="33-3"/>
-    </align><link id="39" drawDirection="UP">
+    </align><link drawDirection="UP" id="39">
         <from reference="34" id="39-1"/>
         <to reference="43" id="39-3"/>
       </link></diagram>
