@@ -15,25 +15,28 @@
 	 
 	 
 	 
-  <input k9-format="captioned" id="13">Manual 
-			Input</input><start k9-format="captioned" id="2">Start</start><document k9-format="captioned" id="6">Document</document><terminator id="20" k9-format="captioned">Terminators</terminator><manual k9-format="inline" id="4">Manual 
-			Operation</manual><decision id="5" k9-format="captioned">Hungry?</decision><database id="21" k9-format="inline">Database</database><align id="10" drawDirection="UP">
+  <input id="13" k9-format="captioned">Manual 
+			Input</input><start id="2" k9-format="captioned">Start</start><document id="6" k9-format="captioned">Document</document><terminator k9-format="captioned" id="20">Terminators</terminator><manual id="4" k9-format="inline">Manual 
+			Operation</manual><decision k9-format="captioned" id="5">Hungry?</decision><stored id="26" k9-format="inline">Stored</stored><database k9-format="inline" id="21">Database</database><align drawDirection="UP" id="10">
       <from reference="5@dep" id="10-1"/>
       <to reference="2@dep" id="10-3"/>
-    </align><link id="22" drawDirection="LEFT">
+    </align><link drawDirection="LEFT" id="22">
         <from reference="5@dep" id="22-1"/>
-        <to reference="20@dep" shape="open-arrow" id="22-3"/>
-      <label id="3" end="from">Yes</label></link><align id="8" drawDirection="LEFT">
+        <to reference="20@dep" id="22-3" shape="open-arrow"/>
+      <label id="3" end="from">Yes</label></link><align drawDirection="LEFT" id="8">
       <from reference="21" id="8-1"/>
       <to reference="4" id="8-3"/>
     </align><link id="9">
         <from reference="21" id="9-1"/>
         <to reference="5@dep" id="9-3"/>
-      </link><align id="15" drawDirection="LEFT">
+      </link><align drawDirection="LEFT" id="15">
       <from reference="13@dep" id="15-1"/>
       <to reference="21" id="15-3"/>
-    </align><align drawDirection="DOWN" id="25">
+    </align><align id="25" drawDirection="DOWN">
       <from reference="13@dep" id="25-1"/>
       <to reference="2@dep" id="25-3"/>
-    </align></diagram>
+    </align><link drawDirection="UP" id="37">
+        <from reference="26" id="37-1"/>
+        <to reference="20@dep" id="37-3"/>
+      </link></diagram>
 </svg:svg>
