@@ -15,11 +15,7 @@
 	 
 	 
 	 
-  <start k9-format="captioned" id="2">Start</start><decision id="5" k9-format="captioned">Hungry?</decision><database id="21" k9-format="inline">Database</database><link id="9">
-        <from reference="21" shape="open-arrow" id="9-1"/>
-        <to reference="5@dep" id="9-3"/>
-      <label id="6" end="to">Labelling the 
-end of the line</label></link><align drawDirection="DOWN" id="18">
+  <start id="2" k9-format="captioned">Start</start><decision k9-format="captioned" id="5">Hungry?</decision><database k9-format="inline" id="21">Database</database><align id="18" drawDirection="DOWN">
       <from reference="2@dep" id="18-1"/>
       <to reference="5@dep" id="18-3"/>
     </align></diagram>
