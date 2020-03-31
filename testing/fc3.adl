@@ -15,20 +15,23 @@
 	 
 	 
 	 
-  <start k9-format="captioned" id="2">Start</start><decision id="5" k9-format="captioned">Some Decision That Has To Be Made</decision><document id="21" k9-format="inline">Document</document><preparation id="3" k9-format="captioned">Preparation</preparation><database id="29" k9-format="inline">Database</database><database k9-format="captioned" id="9">Database</database><link id="23">
-        <from reference="21" id="23-1" shape="open-arrow"/>
+  <start id="2" k9-format="captioned">Start</start><decision k9-format="captioned" id="5">Some Decision That Has To Be Made</decision><document k9-format="inline" id="21">Document</document><preparation k9-format="captioned" id="3">Preparation</preparation><database k9-format="inline" id="29">Database</database><start id="14" k9-format="captioned">Start</start><database id="9" k9-format="captioned">Database</database><link id="23">
+        <from reference="21" shape="open-arrow" id="23-1"/>
         <to reference="5@dep" id="23-3"/>
       <label id="28" end="to">Yes</label></link><link id="31">
         <from reference="5@dep" id="31-1"/>
-        <to reference="29" shape="open-arrow" id="31-3"/>
-      <label id="33" end="from">No</label></link><link drawDirection="UP" id="8">
+        <to reference="29" id="31-3" shape="open-arrow"/>
+      <label id="33" end="from">No</label></link><link id="8" drawDirection="UP">
         <from reference="3@dep" id="8-1"/>
         <to reference="21" id="8-3"/>
-      </link><link id="13" drawDirection="LEFT">
+      </link><link drawDirection="LEFT" id="13">
         <from reference="9@dep" id="13-1"/>
-        <to reference="29" id="13-3" shape="barbed-arrow"/>
-      </link><link drawDirection="DOWN" id="34">
+        <to reference="29" shape="barbed-arrow" id="13-3"/>
+      </link><link id="34" drawDirection="DOWN">
         <from reference="2@dep" id="34-1"/>
-        <to reference="5@dep" shape="arrow" id="34-3"/>
+        <to reference="5@dep" id="34-3" shape="arrow"/>
+      </link><link drawDirection="DOWN" id="17">
+        <from reference="14@dep" id="17-1"/>
+        <to reference="29" shape="barbed-arrow" id="17-3"/>
       </link></diagram>
 </svg:svg>
