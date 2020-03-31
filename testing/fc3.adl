@@ -15,7 +15,7 @@
 	 
 	 
 	 
-  <database id="29" k9-format="inline">Database</database><start k9-format="captioned" id="2">Start</start><decision id="5" k9-format="captioned">Some Decision That Has To Be Made</decision><document id="21" k9-format="inline">Document</document><align drawDirection="DOWN" id="18">
+  <start id="2" k9-format="captioned">Start</start><decision k9-format="captioned" id="5">Some Decision That Has To Be Made</decision><document k9-format="inline" id="21">Document</document><database k9-format="inline" id="29">Database</database><align id="18" drawDirection="DOWN">
       <from reference="2@dep" id="18-1"/>
       <to reference="5@dep" id="18-3"/>
     </align><link id="23">
