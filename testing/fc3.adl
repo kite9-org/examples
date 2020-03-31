@@ -18,7 +18,7 @@
   <start id="2" k9-format="captioned">Start</start><off-page id="6" k9-format="captioned">Off-Page
 			Connector</off-page><preparation k9-format="captioned" id="3">Some bit of work
 done by some guys</preparation><container class="solid" id="4">
-        <delay id="7" k9-format="inline">Delay</delay><decision k9-format="captioned" id="5">Some Decision That Has To Be Made</decision><document k9-format="inline" id="21">Document</document><database id="9" k9-format="captioned">Database</database><database k9-format="inline" id="29">Database</database><label id="1">This part is the frunge wobbler</label></container><terminator id="36" k9-format="inline">Terminator</terminator><process k9-format="inline" id="10">Process</process><link id="23">
+        <decision k9-format="captioned" id="5">Some Decision That Has To Be Made</decision><delay id="7" k9-format="inline">Delay</delay><document k9-format="inline" id="21">Document</document><database id="9" k9-format="captioned">Database</database><database k9-format="inline" id="29">Database</database><label id="1">This part is the frunge wobbler</label></container><terminator id="36" k9-format="inline">Terminator</terminator><process k9-format="inline" id="10">Process</process><link id="23">
         <from reference="21" shape="open-arrow" id="23-1"/>
         <to reference="5@dep" id="23-3"/>
       <label id="28" end="to">Yes</label></link><link id="8" drawDirection="UP">
@@ -54,8 +54,8 @@ done by some guys</preparation><container class="solid" id="4">
       </link><link id="19">
         <from reference="7" id="19-1"/>
         <to reference="4" id="19-3"/>
-      </link><align drawDirection="RIGHT" id="14">
-      <from reference="7" id="14-1"/>
-      <to reference="21" id="14-3"/>
-    </align></diagram>
+      </link><link id="12">
+        <from reference="7" id="12-1"/>
+        <to reference="4" id="12-3"/>
+      </link></diagram>
 </svg:svg>
