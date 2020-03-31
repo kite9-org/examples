@@ -25,6 +25,9 @@ Database</database><label id="1">This part is the frunge wobbler</label></contai
       <label id="28" end="to">Yes</label></link><link id="8" drawDirection="UP">
         <from reference="3@dep" id="8-1"/>
         <to reference="21" id="8-3"/>
+      </link><link id="34" drawDirection="DOWN">
+        <from reference="2@dep" id="34-1"/>
+        <to reference="5@dep" id="34-3" shape="arrow"/>
       </link><link drawDirection="UP" id="13">
         <from reference="9@dep" id="13-1"/>
         <to reference="29" shape="barbed-arrow" id="13-3"/>
@@ -58,8 +61,8 @@ Database</database><label id="1">This part is the frunge wobbler</label></contai
       </link><align id="17" drawDirection="RIGHT">
       <from reference="7" id="17-1"/>
       <to reference="21" id="17-3"/>
-    </align><link id="34" drawDirection="DOWN">
-        <from reference="2@dep" id="34-1"/>
-        <to reference="5@dep" id="34-3" shape="arrow"/>
+    </align><link id="14">
+        <from reference="5@dep" id="14-1"/>
+        <to reference="4" id="14-3"/>
       </link></diagram>
 </svg:svg>
