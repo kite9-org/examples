@@ -15,7 +15,7 @@
 	 
 	 
 	 
-  <start id="2" k9-format="captioned">Start</start><decision k9-format="captioned" id="5">Some Decision That Has To Be Made</decision><document k9-format="inline" id="21">Document</document><preparation k9-format="captioned" id="3">Preparation</preparation><database k9-format="inline" id="29">Database</database><start id="14" k9-format="captioned">Start</start><database id="9" k9-format="captioned">Database</database><link id="23">
+  <start id="2" k9-format="captioned">Start</start><decision k9-format="captioned" id="5">Some Decision That Has To Be Made</decision><document k9-format="inline" id="21">Document</document><preparation k9-format="captioned" id="3">Some bit of work done by some guys</preparation><database k9-format="inline" id="29">Database</database><database id="9" k9-format="captioned">Database</database><link id="23">
         <from reference="21" shape="open-arrow" id="23-1"/>
         <to reference="5@dep" id="23-3"/>
       <label id="28" end="to">Yes</label></link><link id="31">
@@ -30,8 +30,5 @@
       </link><link id="34" drawDirection="DOWN">
         <from reference="2@dep" id="34-1"/>
         <to reference="5@dep" id="34-3" shape="arrow"/>
-      </link><link drawDirection="DOWN" id="17">
-        <from reference="14@dep" id="17-1"/>
-        <to reference="29" shape="barbed-arrow" id="17-3"/>
       </link></diagram>
 </svg:svg>
