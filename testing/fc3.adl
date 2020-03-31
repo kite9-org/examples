@@ -16,9 +16,9 @@
 	 
 	 
   <start k9-format="captioned" id="2">Start</start><off-page k9-format="captioned" id="6">Off-Page
-			Connector</off-page><delay k9-format="inline" id="7">Delay</delay><preparation id="3" k9-format="captioned">Some bit of work
+			Connector</off-page><preparation id="3" k9-format="captioned">Some bit of work
 done by some guys</preparation><container class="solid" id="4">
-        <decision id="5" k9-format="captioned">Some Decision That Has To Be Made</decision><document id="21" k9-format="inline">Document</document><database k9-format="captioned" id="9">Database</database><database id="29" k9-format="inline">Database</database><label id="1">This part is the frunge wobbler</label></container><terminator k9-format="inline" id="36">Terminator</terminator><process id="10" k9-format="inline">Process</process><link id="23">
+        <delay k9-format="inline" id="7">Delay</delay><decision id="5" k9-format="captioned">Some Decision That Has To Be Made</decision><document id="21" k9-format="inline">Document</document><database k9-format="captioned" id="9">Database</database><database id="29" k9-format="inline">Database</database><label id="1">This part is the frunge wobbler</label></container><terminator k9-format="inline" id="36">Terminator</terminator><process id="10" k9-format="inline">Process</process><link id="23">
         <from reference="21" id="23-1" shape="open-arrow"/>
         <to reference="5@dep" id="23-3"/>
       <label id="28" end="to">Yes</label></link><link drawDirection="UP" id="8">
@@ -51,8 +51,8 @@ done by some guys</preparation><container class="solid" id="4">
       </link><link id="15">
         <from reference="10" id="15-1"/>
         <to class="gap" reference="6@dep" id="15-3"/>
-      </link><align drawDirection="RIGHT" id="20">
-      <from reference="7" id="20-1"/>
-      <to reference="21" id="20-3"/>
-    </align></diagram>
+      </link><link id="19">
+        <from reference="7" id="19-1"/>
+        <to reference="4" id="19-3"/>
+      </link></diagram>
 </svg:svg>
