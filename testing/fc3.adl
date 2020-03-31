@@ -15,7 +15,7 @@
 	 
 	 
 	 
-  <start k9-format="captioned" id="2">Start</start><decision id="5" k9-format="captioned">Hungry?</decision><align drawDirection="DOWN" id="18">
+  <start id="2" k9-format="captioned">Start</start><decision k9-format="captioned" id="5">Some Decision That Has To Be Made</decision><align id="18" drawDirection="DOWN">
       <from reference="2@dep" id="18-1"/>
       <to reference="5@dep" id="18-3"/>
     </align></diagram>
