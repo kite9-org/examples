@@ -15,33 +15,34 @@
 	 
 	 
 	 
-  <start k9-format="captioned" id="2">Start</start><decision id="5" k9-format="captioned">Some Decision That Has To Be Made</decision><document id="21" k9-format="inline">Document</document><preparation id="3" k9-format="captioned">Some bit of work
-done by some guys</preparation><database k9-format="captioned" id="9">Database</database><terminator k9-format="inline" id="36">Terminator</terminator><database id="29" k9-format="inline">Database</database><link id="23">
-        <from reference="21" id="23-1" shape="open-arrow"/>
+  <start id="2" k9-format="captioned">Start</start><preparation k9-format="captioned" id="3">Some bit of work
+done by some guys</preparation><container class="solid" id="4">
+        <decision k9-format="captioned" id="5">Some Decision That Has To Be Made</decision><document k9-format="inline" id="21">Document</document><database id="9" k9-format="captioned">Database</database><database k9-format="inline" id="29">Database</database></container><terminator id="36" k9-format="inline">Terminator</terminator><link id="23">
+        <from reference="21" shape="open-arrow" id="23-1"/>
         <to reference="5@dep" id="23-3"/>
-      <label id="28" end="to">Yes</label></link><link drawDirection="UP" id="8">
+      <label id="28" end="to">Yes</label></link><link id="8" drawDirection="UP">
         <from reference="3@dep" id="8-1"/>
         <to reference="21" id="8-3"/>
-      </link><link drawDirection="DOWN" id="34">
+      </link><link id="34" drawDirection="DOWN">
         <from reference="2@dep" id="34-1"/>
-        <to reference="5@dep" shape="arrow" id="34-3"/>
-      </link><link id="13" drawDirection="UP">
+        <to reference="5@dep" id="34-3" shape="arrow"/>
+      </link><link drawDirection="UP" id="13">
         <from reference="9@dep" id="13-1"/>
-        <to reference="29" id="13-3" shape="barbed-arrow"/>
-      </link><align drawDirection="LEFT" id="22">
+        <to reference="29" shape="barbed-arrow" id="13-3"/>
+      </link><align id="22" drawDirection="LEFT">
       <from reference="9@dep" id="22-1"/>
       <to reference="21" id="22-3"/>
-    </align><link id="31" drawDirection="RIGHT">
+    </align><link drawDirection="RIGHT" id="31">
         <from reference="5@dep" id="31-1"/>
-        <to reference="29" shape="open-arrow" id="31-3"/>
+        <to reference="29" id="31-3" shape="open-arrow"/>
       <label id="33" end="from">No</label></link><link id="35">
         <from reference="9@dep" id="35-1"/>
-        <to reference="3@dep" shape="barbed-arrow" id="35-3"/>
-      </link><link id="44" drawDirection="DOWN">
+        <to reference="3@dep" id="35-3" shape="barbed-arrow"/>
+      </link><link drawDirection="DOWN" id="44">
         <from reference="3@dep" id="44-1"/>
-        <to reference="36" id="44-3" shape="barbed-arrow"/>
+        <to reference="36" shape="barbed-arrow" id="44-3"/>
       </link><link id="46">
         <from reference="29" id="46-1"/>
-        <to reference="36" shape="barbed-arrow" id="46-3"/>
+        <to reference="36" id="46-3" shape="barbed-arrow"/>
       </link></diagram>
 </svg:svg>
