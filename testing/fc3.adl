@@ -57,8 +57,8 @@ done by some guys</preparation><container class="solid" id="4">
       </link><link id="12">
         <from reference="7" id="12-1"/>
         <to reference="4" id="12-3"/>
-      </link><link id="16">
-        <from reference="7" id="16-1"/>
-        <to reference="4" id="16-3"/>
-      </link></diagram>
+      </link><align drawDirection="RIGHT" id="17">
+      <from reference="7" id="17-1"/>
+      <to reference="21" id="17-3"/>
+    </align></diagram>
 </svg:svg>
