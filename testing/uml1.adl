@@ -8,9 +8,7 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-	<interface id="i1">Listener</interface>
-
-     <class id="c">
+	<class id="c">
      	<stereotype id="c2">owner</stereotype>
      	<class-name id="c3">Some Class</class-name>
      	<properties id="c4">
@@ -19,7 +17,9 @@
      	<methods id="c6">
      		<method id="c7">call me</method>
      	</methods>
-     </class>
+     </class><interface id="i1">Listener</interface>
+
+     
      
 	 <interface id="3">Interface</interface><uml-container id="c8">
 	 	<package id="p1"><label>A Package</label></package>
@@ -36,11 +36,11 @@
 	 	<to reference="uc1" id="l1-to"/>
 	 </link>
 	 
-	 <link drawDirection="UP" id="l3">
+	 <link id="l3" drawDirection="UP">
 	 	<from reference="c" id="l3-from"/>
 	 	<to reference="i1" id="l3-to"/>
 	 </link>
-  <link id="l2" drawDirection="LEFT">
+  <link drawDirection="LEFT" id="l2">
 	 	<from reference="c5" id="l2-from"/>
 	 	<to reference="p1" id="l2-to"/>
 	 </link><link id="2">
