@@ -36,12 +36,12 @@
 	 	<to reference="uc1" id="l1-to"/>
 	 </link>
 	 
-	 <link id="l3" drawDirection="UP">
+	 <link drawDirection="UP" id="l3">
 	 	<from reference="c" id="l3-from"/>
 	 	<to reference="i1" id="l3-to"/>
 	 </link>
-  <link drawDirection="LEFT" id="l2">
-	 	<from reference="c" id="l2-from"/>
+  <link id="l2" drawDirection="LEFT">
+	 	<from reference="c7" id="l2-from"/>
 	 	<to reference="p1" id="l2-to"/>
 	 </link></diagram>
 </svg:svg>
