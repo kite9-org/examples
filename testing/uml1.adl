@@ -43,8 +43,8 @@
   <link drawDirection="LEFT" id="l2">
 	 	<from reference="c7" id="l2-from"/>
 	 	<to reference="p1" id="l2-to"/>
-	 </link><align drawDirection="LEFT" id="4">
-      <from reference="c5" id="4-1"/>
-      <to reference="c8" id="4-3"/>
-    </align></diagram>
+	 </link><link id="2">
+        <from reference="c5" id="2-1"/>
+        <to reference="c" id="2-3"/>
+      </link></diagram>
 </svg:svg>
