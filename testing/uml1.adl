@@ -8,7 +8,9 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-	<class id="c">
+	<interface id="i1">Listener</interface>
+
+     <class id="c">
      	<stereotype id="c2">owner</stereotype>
      	<class-name id="c3">Some Class</class-name>
      	<properties id="c4">
@@ -17,22 +19,9 @@
      	<methods id="c6">
      		<method id="c7">call me</method>
      	</methods>
-     </class><interface id="i1">Listener</interface>
-
+     </class>
      
-     
-	 <interface id="3">Interface</interface><class id="6" k9-type="large">
-				<stereotype>Stereotype</stereotype>
-				<class-name>Class</class-name>
-				<properties>
-					<property>property1</property>
-					<property>property2</property>
-				</properties>
-				<methods>
-					<method>method1</method>
-					<method>method2</method>
-				</methods>
-			</class><uml-container id="c8">
+	 <interface id="3">Interface</interface><uml-container id="c8">
 	 	<package id="p1"><label>A Package</label></package>
 	 	<component id="co1"><label>Connect Me</label></component>
 	 	<label id="l1">Some Container</label>
@@ -40,7 +29,18 @@
 	 
 	 <actor id="a1">The Actor</actor>
 	 
-	 <use-case id="uc1">Hungry</use-case>
+	 <class id="2" k9-type="large">
+				<stereotype id="2-1">Stereotype</stereotype>
+				<class-name id="2-3">Class</class-name>
+				<properties id="2-5">
+					<property id="2-5-1">property1</property>
+					<property id="2-5-3">property2</property>
+				</properties>
+				<methods id="2-7">
+					<method id="2-7-1">method1</method>
+					<method id="2-7-3">method2</method>
+				</methods>
+			</class><use-case id="uc1">Hungry</use-case>
 	 
 	 <link id="l1">
 	 	<from reference="a1" id="l1-from"/>
@@ -51,14 +51,8 @@
 	 	<from reference="c" id="l3-from"/>
 	 	<to reference="i1" id="l3-to"/>
 	 </link>
-  <link drawDirection="LEFT" id="l2">
-	 	<from reference="c5" id="l2-from"/>
+  <link drawDirection="DOWN" id="l2">
+	 	<from reference="c7" id="l2-from"/>
 	 	<to reference="p1" id="l2-to"/>
-	 </link><link id="2">
-        <from reference="c5" id="2-1"/>
-        <to reference="c" id="2-3"/>
-      </link><link id="5">
-        <from reference="c5" id="5-1"/>
-        <to reference="uc1" id="5-3"/>
-      </link></diagram>
+	 </link></diagram>
 </svg:svg>
