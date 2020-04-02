@@ -21,7 +21,18 @@
 
      
      
-	 <interface id="3">Interface</interface><uml-container id="c8">
+	 <interface id="3">Interface</interface><class id="6" k9-type="large">
+				<stereotype>Stereotype</stereotype>
+				<class-name>Class</class-name>
+				<properties>
+					<property>property1</property>
+					<property>property2</property>
+				</properties>
+				<methods>
+					<method>method1</method>
+					<method>method2</method>
+				</methods>
+			</class><uml-container id="c8">
 	 	<package id="p1"><label>A Package</label></package>
 	 	<component id="co1"><label>Connect Me</label></component>
 	 	<label id="l1">Some Container</label>
@@ -36,11 +47,11 @@
 	 	<to reference="uc1" id="l1-to"/>
 	 </link>
 	 
-	 <link drawDirection="UP" id="l3">
+	 <link id="l3" drawDirection="UP">
 	 	<from reference="c" id="l3-from"/>
 	 	<to reference="i1" id="l3-to"/>
 	 </link>
-  <link id="l2" drawDirection="LEFT">
+  <link drawDirection="LEFT" id="l2">
 	 	<from reference="c5" id="l2-from"/>
 	 	<to reference="p1" id="l2-to"/>
 	 </link><link id="2">
