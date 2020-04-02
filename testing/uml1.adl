@@ -47,14 +47,14 @@
 	 	<to reference="uc1" id="l1-to"/>
 	 </link>
 	 
-	 <link drawDirection="UP" id="l3">
+	 <link id="l3" drawDirection="UP">
 	 	<from reference="c" id="l3-from"/>
 	 	<to reference="i1" id="l3-to"/>
 	 </link>
-  <link id="l2" drawDirection="DOWN">
+  <link drawDirection="DOWN" id="l2">
 	 	<from reference="c7" id="l2-from"/>
 	 	<to reference="p1" id="l2-to"/>
-	 </link><align drawDirection="DOWN" id="6">
+	 </link><align id="6" drawDirection="DOWN">
       <from reference="p1" id="6-1"/>
       <to reference="co1" id="6-3"/>
     </align><link id="5">
