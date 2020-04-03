@@ -12,7 +12,14 @@
 
      
      
-	 <property id="c5">A Property</property><interface id="3">Interface</interface><uml-container id="c8">
+	 <class id="c">
+     	<stereotype id="c2">owner</stereotype>
+     	<class-name id="c3">Some Class</class-name>
+     	<properties id="c4">
+     		<property id="c5">A Property</property>
+     	</properties>
+     	
+     </class><interface id="3">Interface</interface><uml-container id="c8">
 	 	<package id="p1"><label>A Package</label></package>
 	 	<component id="co1"><label>Connect Me</label></component>
 	 	<label id="l1">Some Container</label>
