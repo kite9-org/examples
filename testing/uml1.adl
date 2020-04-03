@@ -14,7 +14,7 @@
      
 	 <uml-container id="c8">
 	 	<label>A Package</label>
-	 	<component id="co1"><label>Connect Me</label></component>
+	 	<component id="co1"><label>Connect Me</label><component id="2"><label id="2-0">Component</label></component></component>
 	 	
 	 </uml-container>
 	 
