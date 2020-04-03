@@ -25,5 +25,8 @@
 	 
 	 
 	 
-  </diagram>
+  <link id="2">
+        <from reference="co1" id="2-1"/>
+        <to reference="c8" id="2-3"/>
+      </link></diagram>
 </svg:svg>
