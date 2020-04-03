@@ -14,7 +14,7 @@
      
 	 <uml-container id="c8">
 	 	<label>A Package</label>
-	 	<component id="co1"><label>Connect Me</label><component id="2"><label id="2-0">Component</label></component></component>
+	 	<component id="co1"><label>Connect Me</label></component>
 	 	
 	 </uml-container>
 	 
@@ -27,7 +27,7 @@
 	 
   <class id="2" k9-type="small">
 				<class-name>Class</class-name>
-			</class><class id="4" k9-type="large">
+			</class><component id="2"><label id="2-0">Component</label></component><class id="4" k9-type="large">
 				<stereotype id="4-1">Stereotype</stereotype>
 				<class-name id="4-3">Class</class-name>
 				<properties id="4-5">
