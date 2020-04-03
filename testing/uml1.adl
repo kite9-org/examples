@@ -12,18 +12,7 @@
 
      
      
-	 <property id="c5">A Property</property><interface id="3">Interface</interface><class id="2" k9-type="large">
-				<stereotype id="2-1">Stereotype</stereotype>
-				<class-name id="2-3">Class</class-name>
-				<properties id="2-5">
-					<property id="2-5-1">property1</property>
-					<property id="2-5-3">property2</property>
-				</properties>
-				<methods id="2-7">
-					<method id="2-7-1">method1</method>
-					<method id="2-7-3">method2</method>
-				</methods>
-			</class><uml-container id="c8">
+	 <property id="c5">A Property</property><interface id="3">Interface</interface><uml-container id="c8">
 	 	<package id="p1"><label>A Package</label></package>
 	 	<component id="co1"><label>Connect Me</label></component>
 	 	<label id="l1">Some Container</label>
@@ -39,14 +28,8 @@
 	 </link>
 	 
 	 
-  <align drawDirection="DOWN" id="6">
+  <align id="6" drawDirection="DOWN">
       <from reference="p1" id="6-1"/>
       <to reference="co1" id="6-3"/>
-    </align><link id="5">
-        <from reference="2-5-1" id="5-1"/>
-        <to reference="3@dep" id="5-3"/>
-      </link><link id="7">
-        <from reference="2-7-1" id="7-1"/>
-        <to reference="3@dep" id="7-3"/>
-      </link></diagram>
+    </align></diagram>
 </svg:svg>
