@@ -16,9 +16,7 @@
      	<properties id="c4">
      		<property id="c5">A Property</property>
      	</properties>
-     	<methods id="c6">
-     		<method id="c7">call me</method>
-     	</methods>
+     	<method id="c7">call me</method>
      </class>
      
 	 <interface id="3">Interface</interface><uml-container id="c8">
@@ -48,10 +46,10 @@
 	 </link>
 	 
 	 
-  <link drawDirection="DOWN" id="l2">
+  <link id="l2" drawDirection="DOWN">
 	 	<from reference="c7" id="l2-from"/>
 	 	<to reference="p1" id="l2-to"/>
-	 </link><align id="6" drawDirection="DOWN">
+	 </link><align drawDirection="DOWN" id="6">
       <from reference="p1" id="6-1"/>
       <to reference="co1" id="6-3"/>
     </align><link id="5">
