@@ -25,8 +25,8 @@
 	 
 	 
 	 
-  <link id="2">
-        <from reference="co1" id="2-1"/>
-        <to reference="c8" id="2-3"/>
-      </link></diagram>
+  <align drawDirection="RIGHT" id="3">
+      <from reference="co1" id="3-1"/>
+      <to reference="a1@dep" id="3-3"/>
+    </align></diagram>
 </svg:svg>
