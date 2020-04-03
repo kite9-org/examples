@@ -25,9 +25,9 @@
 	 
 	 
 	 
-  <class id="2" k9-type="small">
+  <component id="2"><label id="2-0">Component</label></component><class id="2" k9-type="small">
 				<class-name>Class</class-name>
-			</class><component id="2"><label id="2-0">Component</label></component><class id="4" k9-type="large">
+			</class><class id="4" k9-type="large">
 				<stereotype id="4-1">Stereotype</stereotype>
 				<class-name id="4-3">Class</class-name>
 				<properties id="4-5">
