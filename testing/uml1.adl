@@ -36,5 +36,11 @@
 					<method id="4-7-1">method1</method>
 					<method id="4-7-3">method2</method>
 				</methods>
-			</class></diagram>
+			</class><link id="6">
+        <from reference="co1" id="6-1"/>
+        <to reference="4-5-3" id="6-3"/>
+      </link><link id="7">
+        <from reference="4-5-3" id="7-1"/>
+        <to reference="4-5-3" id="7-3"/>
+      </link></diagram>
 </svg:svg>
