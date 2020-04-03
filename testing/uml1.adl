@@ -25,5 +25,16 @@
 	 
 	 
 	 
-  </diagram>
+  <class id="4" k9-type="large">
+				<stereotype id="4-1">Stereotype</stereotype>
+				<class-name id="4-3">Class</class-name>
+				<properties id="4-5">
+					<property id="4-5-1">property1</property>
+					<property id="4-5-3">property2</property>
+				</properties>
+				<methods id="4-7">
+					<method id="4-7-1">method1</method>
+					<method id="4-7-3">method2</method>
+				</methods>
+			</class></diagram>
 </svg:svg>
