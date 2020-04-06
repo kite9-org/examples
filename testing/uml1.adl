@@ -7,15 +7,15 @@
     
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
-	 <uml-container id="c8" layout="down">
+	 <class id="1" k9-type="small">
+				<class-name>Class</class-name>
+			</class><uml-container id="c8" layout="down">
 	 	<label>A Package</label>
 	 	<component id="co1"><label>Connect Me</label></component><container class="solid" id="5">
         <use-case id="3">Use Case</use-case><component id="2"><label id="2-0">Component</label></component></container>
 	 	
 	 </uml-container>
-  <class id="1" k9-type="small">
-				<class-name>Class</class-name>
-			</class><class id="4" k9-type="large">
+  <class id="4" k9-type="large">
 				<stereotype id="4-1">stereo mike</stereotype>
 				<class-name id="4-3">Elephant</class-name>
 				<properties id="4-5">
