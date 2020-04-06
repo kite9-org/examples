@@ -7,24 +7,11 @@
     
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
-
-	
-
-     
-     
 	 <uml-container id="c8">
 	 	<label>A Package</label>
 	 	<component id="co1"><label>Connect Me</label></component>
 	 	
 	 </uml-container>
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
   <container class="solid" id="5">
         <component id="2"><label id="2-0">Component</label></component></container><class id="2" k9-type="small">
 				<class-name>Class</class-name>
@@ -39,14 +26,18 @@
 					<method id="4-7-1">method1</method>
 					<method id="4-7-3">method2</method>
 				</methods>
-			</class><link id="6">
+			</class>
+   <link id="6">
         <from reference="co1" id="6-1"/>
         <to reference="2" id="6-3"/>
-      </link><link id="7">
+      </link>
+    <link id="7">
         <from reference="4-5-3" id="7-1"/>
         <to reference="4-5-3" id="7-3"/>
-      </link><align drawDirection="UP" id="13">
+      </link>
+   <align id="13" drawDirection="UP">
       <from reference="2" id="13-1"/>
       <to reference="3" id="13-3"/>
-    </align></diagram>
+    </align>
+</diagram>
 </svg:svg>
