@@ -13,7 +13,7 @@
 	 	
 	 </uml-container>
   <container class="solid" id="5">
-        <component id="2"><label id="2-0">Component</label></component></container><class id="2" k9-type="small">
+        <component id="2"><label id="2-0">Component</label></component></container><class id="1" k9-type="small">
 				<class-name>Class</class-name>
 			</class><use-case id="3">Use Case</use-case><class id="4" k9-type="large">
 				<stereotype id="4-1">Stereotype</stereotype>
@@ -35,15 +35,12 @@
         <from reference="4-5-3" id="7-1"/>
         <to reference="4-5-3" id="7-3"/>
       </link>
-   <align id="13" drawDirection="UP">
+   <align drawDirection="UP" id="13">
       <from reference="2" id="13-1"/>
       <to reference="3" id="13-3"/>
     </align>
-<link id="7">
-        <from reference="4-7-1" id="7-1"/>
-        <to reference="2" id="7-3"/>
-      </link><link id="8">
-        <from reference="co1" id="8-1"/>
-        <to reference="2" id="8-3"/>
+<link id="9">
+        <from reference="4-7-1" id="10"/>
+        <to reference="2" id="11"/>
       </link></diagram>
 </svg:svg>
