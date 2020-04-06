@@ -43,12 +43,12 @@
         <from reference="4-5-3" id="14"/>
         <to reference="3" id="15"/>
       </link><link id="20">
-        <from reference="co1" id="20-1"/>
+        <from reference="c8" id="20-1"/>
         <to reference="4" id="20-3"/>
-      </link><align id="21-0" drawDirection="RIGHT">
+      </link><align drawDirection="RIGHT" id="21-0">
       <from reference="2" id="21-0-1"/>
       <to reference="3" id="21-0-3"/>
-    </align><link drawDirection="DOWN" id="12">
+    </align><link id="12" drawDirection="DOWN">
         <from reference="1" id="12-1"/>
         <to reference="co1" id="12-3"/>
       </link></diagram>
