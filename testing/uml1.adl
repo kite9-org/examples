@@ -9,8 +9,8 @@
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 	 <uml-container id="c8" layout="down">
 	 	<label>A Package</label>
-	 	<container class="solid" id="5">
-        <use-case id="3">Use Case</use-case><component id="2"><label id="2-0">Component</label></component></container><component id="co1"><label>Connect Me</label></component>
+	 	<component id="co1"><label>Connect Me</label></component><container class="solid" id="5">
+        <use-case id="3">Use Case</use-case><component id="2"><label id="2-0">Component</label></component></container>
 	 	
 	 </uml-container>
   <class id="1" k9-type="small">
@@ -48,7 +48,7 @@
       </link><link id="17">
         <from reference="3" id="17-1"/>
         <to reference="co1" id="17-3"/>
-      </link><align drawDirection="DOWN" id="13">
+      </link><align id="13" drawDirection="DOWN">
       <from reference="2" id="13-1"/>
       <to reference="3" id="13-3"/>
     </align></diagram>
