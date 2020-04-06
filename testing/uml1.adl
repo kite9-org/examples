@@ -43,7 +43,7 @@
         <from reference="4-5-3" id="14"/>
         <to reference="3" id="15"/>
       </link><link id="20">
-        <from reference="c8" id="20-1"/>
+        <from reference="2" id="20-1"/>
         <to reference="4" id="20-3"/>
       </link><align drawDirection="RIGHT" id="21-0">
       <from reference="2" id="21-0-1"/>
