@@ -16,8 +16,8 @@
   <class id="1" k9-type="small">
 				<class-name>Class</class-name>
 			</class><class id="4" k9-type="large">
-				<stereotype id="4-1">Stereotype</stereotype>
-				<class-name id="4-3">Class</class-name>
+				<stereotype id="4-1">hhh</stereotype>
+				<class-name id="4-3">hhh</class-name>
 				<properties id="4-5">
 					<property id="4-5-1">property1</property>
 					<property id="4-5-3">property2</property>
