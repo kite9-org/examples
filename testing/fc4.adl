@@ -16,7 +16,7 @@
 	 
 	 
   <container class="solid" id="4" layout="left">
-        <process id="2" k9-format="inline-text">Processing</process><terminal id="3" k9-format="captioned">Terminal</terminal><input id="26" k9-format="captioned">Manual 
+        <terminal id="3" k9-format="captioned">Terminal</terminal><process id="2" k9-format="inline-text">Processing</process><input id="26" k9-format="captioned">Manual 
 			Input</input></container><container class="dotted" id="8" layout="right">
         <start id="1" k9-format="inline-text">Start</start></container><delay k9-format="captioned" id="15">Delay</delay><delay id="13" k9-format="captioned">Delay</delay><link id="19" drawDirection="UP">
         <from reference="15@dep" id="19-1"/>
@@ -24,8 +24,8 @@
       </link><align drawDirection="LEFT" id="23">
       <from reference="13@dep" id="23-1"/>
       <to reference="1" id="23-3"/>
-    </align><link id="22">
-        <from reference="2" id="22-1"/>
-        <to reference="3" id="22-3"/>
-      </link></diagram>
+    </align><align drawDirection="RIGHT" id="24">
+      <from reference="2" id="24-1"/>
+      <to reference="1" id="24-3"/>
+    </align></diagram>
 </svg:svg>
