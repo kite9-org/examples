@@ -12,9 +12,9 @@
 	 	<component id="co1"><label>Connect Me</label></component><container class="solid" id="5">
         <use-case id="3">Use Case</use-case><component id="2"><label id="2-0">Component</label></component></container>
 	 	
-	 </uml-container><actor id="8">Actor</actor><container class="solid" id="1">
+	 </uml-container><container class="solid" id="1">
 				<class-name>Class</class-name>
-			</container>
+			<actor id="8">Actor</actor></container>
   <link id="13">
         <from reference="4-5-3" id="7-1"/>
         <to reference="4-5-3" id="7-3"/>
@@ -51,8 +51,8 @@
       </link><link id="14">
         <from reference="7@dep" id="14-1"/>
         <to reference="1" id="14-3"/>
-      </link><align drawDirection="DOWN" id="19">
-      <from reference="8@dep" id="19-1"/>
-      <to reference="c8" id="19-3"/>
-    </align></diagram>
+      </link><link id="18">
+        <from reference="8@dep" id="18-1"/>
+        <to reference="1" id="18-3"/>
+      </link></diagram>
 </svg:svg>
