@@ -10,26 +10,27 @@
 
      
      
-	 <process k9-format="inline-text" id="2">Processing</process>
+	 <process id="2" k9-format="inline-text">Processing</process>
 
 	 
 	 
 	 
   <container class="solid" id="4" layout="left">
-        <terminal k9-format="captioned" id="3">Terminal</terminal></container><container class="dotted" id="8" layout="right">
-        <start k9-format="inline-text" id="1">Start</start></container><delay id="15" k9-format="captioned">Delay</delay><delay k9-format="captioned" id="13">Delay</delay><align id="6" drawDirection="UP">
+        <terminal id="3" k9-format="captioned">Terminal</terminal><input id="26" k9-format="captioned">Manual 
+			Input</input></container><container class="dotted" id="8" layout="right">
+        <start id="1" k9-format="inline-text">Start</start></container><delay k9-format="captioned" id="15">Delay</delay><delay id="13" k9-format="captioned">Delay</delay><align drawDirection="UP" id="6">
       <from reference="3@dep" id="6-1"/>
       <to reference="2" id="6-3"/>
-    </align><align drawDirection="DOWN" id="9">
+    </align><align id="9" drawDirection="DOWN">
       <from reference="1" id="9-1"/>
       <to reference="2" id="9-3"/>
-    </align><link drawDirection="UP" id="19">
+    </align><link id="19" drawDirection="UP">
         <from reference="15@dep" id="19-1"/>
         <to reference="13@dep" id="19-3"/>
-      </link><align id="23" drawDirection="LEFT">
+      </link><align drawDirection="LEFT" id="23">
       <from reference="13@dep" id="23-1"/>
       <to reference="1" id="23-3"/>
-    </align><align drawDirection="LEFT" id="25">
+    </align><align id="25" drawDirection="LEFT">
       <from reference="15@dep" id="25-1"/>
       <to reference="3@dep" id="25-3"/>
     </align></diagram>
