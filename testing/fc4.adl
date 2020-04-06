@@ -10,20 +10,17 @@
 
      
      
-	 <process k9-format="inline-text" id="2">Processing</process>
+	 
 
 	 
 	 
 	 
-  <container class="solid" id="4" layout="left">
+  <process k9-format="inline-text" id="2">Processing</process><container class="solid" id="4" layout="left">
         <terminal k9-format="captioned" id="3">Terminal</terminal><input k9-format="captioned" id="26">Manual 
 			Input</input></container><container class="dotted" id="8" layout="right">
         <start k9-format="inline-text" id="1">Start</start></container><delay id="15" k9-format="captioned">Delay</delay><delay k9-format="captioned" id="13">Delay</delay><align id="6" drawDirection="UP">
       <from reference="3@dep" id="6-1"/>
       <to reference="2" id="6-3"/>
-    </align><align drawDirection="DOWN" id="9">
-      <from reference="1" id="9-1"/>
-      <to reference="2" id="9-3"/>
     </align><link drawDirection="UP" id="19">
         <from reference="15@dep" id="19-1"/>
         <to reference="13@dep" id="19-3"/>
@@ -33,8 +30,8 @@
     </align><align drawDirection="LEFT" id="25">
       <from reference="15@dep" id="25-1"/>
       <to reference="3@dep" id="25-3"/>
-    </align><align drawDirection="RIGHT" id="33">
-      <from reference="26@dep" id="33-1"/>
-      <to reference="3@dep" id="33-3"/>
+    </align><align drawDirection="LEFT" id="9">
+      <from reference="1" id="9-1"/>
+      <to reference="2" id="9-3"/>
     </align></diagram>
 </svg:svg>
