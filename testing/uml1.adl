@@ -28,14 +28,14 @@
 				</methods>
 			</class>
    <link id="6">
-        <from reference="1" id="6-1"/>
+        <from reference="co1" id="6-1"/>
         <to reference="2" id="6-3"/>
       </link>
     <link id="7">
         <from reference="4-5-3" id="7-1"/>
         <to reference="4-5-3" id="7-3"/>
       </link>
-   <align id="13" drawDirection="UP">
+   <align drawDirection="UP" id="13">
       <from reference="2" id="13-1"/>
       <to reference="3" id="13-3"/>
     </align>
