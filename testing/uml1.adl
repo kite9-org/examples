@@ -7,7 +7,7 @@
     
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
-	 <uml-container id="c8">
+	 <use-case id="3">Use Case</use-case><uml-container id="c8">
 	 	<label>A Package</label>
 	 	<component id="co1"><label>Connect Me</label></component>
 	 	
@@ -15,7 +15,7 @@
   <container class="solid" id="5">
         <component id="2"><label id="2-0">Component</label></component></container><class id="1" k9-type="small">
 				<class-name>Class</class-name>
-			</class><use-case id="3">Use Case</use-case><class id="4" k9-type="large">
+			</class><class id="4" k9-type="large">
 				<stereotype id="4-1">Stereotype</stereotype>
 				<class-name id="4-3">Class</class-name>
 				<properties id="4-5">
@@ -35,7 +35,10 @@
         <from reference="4-5-3" id="7-1"/>
         <to reference="4-5-3" id="7-3"/>
       </link>
-   
+   <align id="13" drawDirection="UP">
+      <from reference="2" id="13-1"/>
+      <to reference="3" id="13-3"/>
+    </align>
 <link id="9">
         <from reference="4-7-1" id="10"/>
         <to reference="2" id="11"/>
@@ -45,8 +48,8 @@
       </link><link id="8">
         <from reference="4-5-3" id="14"/>
         <to reference="3" id="15"/>
-      </link><align id="13" drawDirection="LEFT">
-      <from reference="2" id="13-1"/>
-      <to reference="3" id="13-3"/>
-    </align></diagram>
+      </link><link id="17">
+        <from reference="3" id="17-1"/>
+        <to reference="co1" id="17-3"/>
+      </link></diagram>
 </svg:svg>
