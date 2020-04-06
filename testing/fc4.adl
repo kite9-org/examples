@@ -15,8 +15,9 @@
 	 
 	 
 	 
-  <container class="solid" id="4" layout="left">
-        <terminal id="3" k9-format="captioned">Terminal</terminal></container><align drawDirection="UP" id="6">
+  <terminal id="3" k9-format="captioned">Terminal</terminal><container class="solid" id="4" layout="left">
+        </container><container class="dotted" id="8" layout="right">
+        </container><align drawDirection="UP" id="6">
       <from reference="3@dep" id="6-1"/>
       <to reference="2" id="6-3"/>
     </align><align id="9" drawDirection="DOWN">
