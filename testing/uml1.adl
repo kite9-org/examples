@@ -25,10 +25,7 @@
 					<property id="4-5-1">property1</property>
 					<property id="4-5-3">property2</property>
 				</properties>
-				<methods id="4-7">
-					<method id="4-7-1">method1</method>
-					<method id="4-7-3">method2</method>
-				</methods>
+				
 			</class>
    <link id="6">
         <from reference="co1" id="6-1"/>
@@ -36,16 +33,13 @@
       </link>
     
    
-<link id="9">
-        <from reference="4-7-1" id="10"/>
-        <to reference="2" id="11"/>
-      </link><link id="20">
+<link id="20">
         <from reference="2" id="20-1"/>
         <to reference="4" id="20-3"/>
-      </link><align id="21-0" drawDirection="RIGHT">
+      </link><align drawDirection="RIGHT" id="21-0">
       <from reference="2" id="21-0-1"/>
       <to reference="3" id="21-0-3"/>
-    </align><link drawDirection="DOWN" id="12">
+    </align><link id="12" drawDirection="DOWN">
         <from reference="1" id="12-1"/>
         <to reference="co1" id="12-3"/>
       </link><link id="14">
@@ -54,8 +48,5 @@
       </link><link id="18">
         <from reference="8@dep" id="18-1"/>
         <to reference="1" id="18-3"/>
-      </link><align id="24" drawDirection="DOWN">
-      <from reference="8@dep" id="24-1"/>
-      <to reference="c8" id="24-3"/>
-    </align></diagram>
+      </link></diagram>
 </svg:svg>
