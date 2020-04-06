@@ -10,17 +10,17 @@
 
      
      
-	 <process id="2" k9-format="inline-text">Process</process>
+	 <process k9-format="inline-text" id="2">Processing</process>
 
 	 
 	 
 	 
   <container class="solid" id="4" layout="left">
-        <terminal id="3" k9-format="captioned">Terminal</terminal></container><container class="dotted" id="8" layout="right">
-        <start id="1" k9-format="inline-text">Start</start></container><align drawDirection="UP" id="6">
+        <terminal k9-format="captioned" id="3">Terminal</terminal></container><container class="dotted" id="8" layout="right">
+        <start k9-format="inline-text" id="1">Start</start></container><align id="6" drawDirection="UP">
       <from reference="3@dep" id="6-1"/>
       <to reference="2" id="6-3"/>
-    </align><align id="9" drawDirection="DOWN">
+    </align><align drawDirection="DOWN" id="9">
       <from reference="1" id="9-1"/>
       <to reference="2" id="9-3"/>
     </align></diagram>
