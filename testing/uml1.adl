@@ -7,7 +7,7 @@
     
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
-	 <interface id="7">Interface</interface><container class="solid" id="1">
+	 <interface id="7">Interface</interface><actor id="8">Actor</actor><container class="solid" id="1">
 				<class-name>Class</class-name>
 			</container><uml-container id="c8" layout="down">
 	 	<label>A Package</label>
@@ -15,7 +15,10 @@
         <use-case id="3">Use Case</use-case><component id="2"><label id="2-0">Component</label></component></container>
 	 	
 	 </uml-container>
-  <class id="4" k9-type="large">
+  <link id="1">
+        <from reference="4-5-3" id="7-1"/>
+        <to reference="4-5-3" id="7-3"/>
+      </link><class id="4" k9-type="large">
 				<stereotype id="4-1">stereo mike</stereotype>
 				<class-name id="4-3">Elephant</class-name>
 				<properties id="4-5">
@@ -27,10 +30,7 @@
 					<method id="4-7-3">method2</method>
 				</methods>
 			</class>
-   <link id="8">
-        <from reference="4-5-3" id="7-1"/>
-        <to reference="4-5-3" id="7-3"/>
-      </link><link id="6">
+   <link id="6">
         <from reference="co1" id="6-1"/>
         <to reference="2" id="6-3"/>
       </link>
@@ -42,10 +42,10 @@
       </link><link id="20">
         <from reference="2" id="20-1"/>
         <to reference="4" id="20-3"/>
-      </link><align id="21-0" drawDirection="RIGHT">
+      </link><align drawDirection="RIGHT" id="21-0">
       <from reference="2" id="21-0-1"/>
       <to reference="3" id="21-0-3"/>
-    </align><link drawDirection="DOWN" id="12">
+    </align><link id="12" drawDirection="DOWN">
         <from reference="1" id="12-1"/>
         <to reference="co1" id="12-3"/>
       </link><link id="14">
