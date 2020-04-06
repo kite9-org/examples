@@ -12,9 +12,9 @@
 	 	<component id="co1"><label>Connect Me</label></component><container class="solid" id="5">
         <component id="2"><label id="2-0">Component</label></component></container>
 	 	
-	 </uml-container><container class="solid" id="1">
+	 </uml-container><class id="1" k9-type="large">
 				<class-name>Class</class-name>
-			<actor id="8">Actorkjhk jkhkj </actor></container>
+			<actor id="8">Actorkjhk jkhkj </actor></class>
   <link id="13">
         <from reference="4-5-3" id="7-1"/>
         <to reference="4-5-3" id="7-3"/>
@@ -36,16 +36,16 @@
 <link id="20">
         <from reference="2" id="20-1"/>
         <to reference="4" id="20-3"/>
-      </link><align id="21-0" drawDirection="RIGHT">
+      </link><align drawDirection="RIGHT" id="21-0">
       <from reference="2" id="21-0-1"/>
       <to reference="3" id="21-0-3"/>
-    </align><link drawDirection="DOWN" id="12">
+    </align><link id="12" drawDirection="DOWN">
         <from reference="1" id="12-1"/>
         <to reference="co1" id="12-3"/>
       </link><link id="18">
         <from reference="8@dep" id="18-1"/>
         <to reference="1" id="18-3"/>
-      </link><link id="14" drawDirection="DOWN">
+      </link><link drawDirection="DOWN" id="14">
         <from reference="7@dep" id="14-1"/>
         <to reference="1" id="14-3"/>
       </link><link id="27">
