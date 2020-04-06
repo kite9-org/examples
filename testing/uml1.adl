@@ -45,11 +45,14 @@
       </link><link id="8">
         <from reference="4-5-3" id="14"/>
         <to reference="3" id="15"/>
+      </link><link id="17">
+        <from reference="3" id="17-1"/>
+        <to reference="co1" id="17-3"/>
       </link><align drawDirection="LEFT" id="13">
       <from reference="2" id="13-1"/>
       <to reference="3" id="13-3"/>
-    </align><link drawDirection="UP" id="17">
-        <from reference="3" id="17-1"/>
-        <to reference="co1" id="17-3"/>
+    </align><link id="31">
+        <from reference="3" id="31-1"/>
+        <to reference="c8" id="31-3"/>
       </link></diagram>
 </svg:svg>
