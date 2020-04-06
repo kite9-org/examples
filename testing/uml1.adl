@@ -35,10 +35,7 @@
         <from reference="4-5-3" id="7-1"/>
         <to reference="4-5-3" id="7-3"/>
       </link>
-   <align drawDirection="UP" id="13">
-      <from reference="2" id="13-1"/>
-      <to reference="3" id="13-3"/>
-    </align>
+   
 <link id="9">
         <from reference="4-7-1" id="10"/>
         <to reference="2" id="11"/>
@@ -48,5 +45,8 @@
       </link><link id="8">
         <from reference="4-5-3" id="14"/>
         <to reference="3" id="15"/>
-      </link></diagram>
+      </link><align id="13" drawDirection="LEFT">
+      <from reference="2" id="13-1"/>
+      <to reference="3" id="13-3"/>
+    </align></diagram>
 </svg:svg>
