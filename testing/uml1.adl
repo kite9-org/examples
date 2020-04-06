@@ -7,9 +7,9 @@
     
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
-	 <interface id="7">Interface</interface><class id="1" k9-type="large">
+	 <interface id="7">Interface</interface><container class="solid" id="1">
 				<class-name>Class</class-name>
-			</class><uml-container id="c8" layout="down">
+			</container><uml-container id="c8" layout="down">
 	 	<label>A Package</label>
 	 	<component id="co1"><label>Connect Me</label></component><container class="solid" id="5">
         <use-case id="3">Use Case</use-case><component id="2"><label id="2-0">Component</label></component></container>
@@ -42,10 +42,10 @@
       </link><link id="20">
         <from reference="2" id="20-1"/>
         <to reference="4" id="20-3"/>
-      </link><align drawDirection="RIGHT" id="21-0">
+      </link><align id="21-0" drawDirection="RIGHT">
       <from reference="2" id="21-0-1"/>
       <to reference="3" id="21-0-3"/>
-    </align><link id="12" drawDirection="DOWN">
+    </align><link drawDirection="DOWN" id="12">
         <from reference="1" id="12-1"/>
         <to reference="co1" id="12-3"/>
       </link><link id="14">
