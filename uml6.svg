@@ -13,7 +13,7 @@
     >
     
   <script xlink:actuate="onLoad" xlink:type="simple" id="adl:markup" xlink:show="other" type="text/adl-svg+xml;base64" xmlns:xlink="http://www.w3.org/1999/xlink"
-    >PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnOnN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb250ZW50U2NyaXB0VHlwZT0idGV4dC9lY21hc2NyaXB0IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCIgdmVyc2lvbj0iMS4wIj4KICA8c3ZnOmRlZnM+CiAgICA8c3ZnOnN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWw6c3BhY2U9InByZXNlcnZlIj4gCiAgICAgICBAaW1wb3J0IHVybCgiL3B1YmxpYy90ZW1wbGF0ZXMvdW1sL3VtbC5jc3MiKTsKICAgICAgIEBpbXBvcnQgdXJsKCIvcHVibGljL2NvbnRleHQvZWRpdG9yL2VkaXRvci5jc3MiKTsKICAgIDwvc3ZnOnN0eWxlPgogICAgCiAgPC9zdmc6ZGVmcz4KICA8ZGlhZ3JhbSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9ImRpYSI+CgoJCgogICAgIDx1c2UtY2FzZSBpZD0idWMxIj5IdW5ncnk8L3VzZS1jYXNlPjxhY3RvciB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9IjEiPkxpc3RlbmVyICBUaGlzIGlzIGEgdGhpbmc8L2FjdG9yPjxjbGFzcyBpZD0iYyI+CiAgICAgCTxzdGVyZW90eXBlIGlkPSJjMiI+b3duZXI8L3N0ZXJlb3R5cGU+CiAgICAgCTxjbGFzcy1uYW1lIGlkPSJjMyI+U29tZSBDbGFzczwvY2xhc3MtbmFtZT4KICAgICAJPHByb3BlcnRpZXMgaWQ9ImM0Ij4KICAgICAJCTxwcm9wZXJ0eSBpZD0iYzUiPkEgUHJvcGVydHk8L3Byb3BlcnR5PgogICAgIAk8L3Byb3BlcnRpZXM+CiAgICAgCTxtZXRob2RzIGlkPSJjNiI+CiAgICAgCQk8bWV0aG9kIGlkPSJjNyI+Y2FsbCBtZTwvbWV0aG9kPgogICAgIAk8L21ldGhvZHM+CiAgICAgPC9jbGFzcz4KICAgICAKCSA8dW1sLWNvbnRhaW5lciBpZD0iYzgiPgoJIAk8Y2xhc3MgeG1sbnM9Imh0dHA6Ly93d3cua2l0ZTkub3JnL3NjaGVtYS9hZGwiIGlkPSI0Ij4KICAgICAJPHN0ZXJlb3R5cGUgaWQ9IjQtMSI+b3duZXI8L3N0ZXJlb3R5cGU+CiAgICAgCTxjbGFzcy1uYW1lIGlkPSI0LTMiPlNvbWUgQ2xhc3M8L2NsYXNzLW5hbWU+CiAgICAgCTxwcm9wZXJ0aWVzIGlkPSI0LTUiPgogICAgIAkJPHByb3BlcnR5IGlkPSI0LTUtMSI+QSBQcm9wZXJ0eTwvcHJvcGVydHk+CiAgICAgCTwvcHJvcGVydGllcz4KICAgICAJPG1ldGhvZHMgaWQ9IjQtNyI+CiAgICAgCQk8bWV0aG9kIGlkPSI0LTctMSI+Y2FsbCBtZTwvbWV0aG9kPgogICAgIAk8L21ldGhvZHM+CiAgICAgPC9jbGFzcz48bGFiZWw+QSBQYWNrYWdlPC9sYWJlbD4KCSAJCgkgCQoJIDx1c2UtY2FzZSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9IjIiPkh1bmdyeTwvdXNlLWNhc2U+PC91bWwtY29udGFpbmVyPgoJIAoJIAoJIAoJIAoJIAoJIDxsYWJlbD5Db25uZWN0IE1lPC9sYWJlbD4KCSAKCSAKICA8YWN0b3IgaWQ9ImExIj5MaXN0ZW5lciAgVGhpcyBpcyBhIHRoaW5nPC9hY3Rvcj48YWxpZ24gZHJhd0RpcmVjdGlvbj0iUklHSFQiIGlkPSI2LTAiPgoJCQkJPGZyb20gcmVmZXJlbmNlPSJ1YzEiIGlkPSI2LTAtMSIvPgoJCQkJPHRvIHJlZmVyZW5jZT0iYyIgaWQ9IjYtMC0zIi8+CgkJCTwvYWxpZ24+PC9kaWFncmFtPgo8L3N2Zzpzdmc+</script
+    >PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnOnN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb250ZW50U2NyaXB0VHlwZT0idGV4dC9lY21hc2NyaXB0IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCIgdmVyc2lvbj0iMS4wIj4KICA8c3ZnOmRlZnM+CiAgICA8c3ZnOnN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWw6c3BhY2U9InByZXNlcnZlIj4gCiAgICAgICBAaW1wb3J0IHVybCgiL3B1YmxpYy90ZW1wbGF0ZXMvdW1sL3VtbC5jc3MiKTsKICAgICAgIEBpbXBvcnQgdXJsKCIvcHVibGljL2NvbnRleHQvZWRpdG9yL2VkaXRvci5jc3MiKTsKICAgIDwvc3ZnOnN0eWxlPgogICAgCiAgPC9zdmc6ZGVmcz4KICA8ZGlhZ3JhbSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9ImRpYSI+CgoJCgogICAgIDx1c2UtY2FzZSBpZD0idWMxIj5IdW5ncnk8L3VzZS1jYXNlPjxhY3RvciB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9IjEiPkxpc3RlbmVyICBUaGlzIGlzIGEgdGhpbmc8L2FjdG9yPjxjbGFzcyBpZD0iYyI+CiAgICAgCTxzdGVyZW90eXBlIGlkPSJjMiI+b3duZXI8L3N0ZXJlb3R5cGU+CiAgICAgCTxjbGFzcy1uYW1lIGlkPSJjMyI+U29tZSBDbGFzczwvY2xhc3MtbmFtZT4KICAgICAJPHByb3BlcnRpZXMgaWQ9ImM0Ij4KICAgICAJCTxwcm9wZXJ0eSBpZD0iYzUiPkEgUHJvcGVydHk8L3Byb3BlcnR5PgogICAgIAk8L3Byb3BlcnRpZXM+CiAgICAgCTxtZXRob2RzIGlkPSJjNiI+CiAgICAgCQk8bWV0aG9kIGlkPSJjNyI+Y2FsbCBtZTwvbWV0aG9kPgogICAgIAk8L21ldGhvZHM+CiAgICAgPC9jbGFzcz4KICAgICAKCSA8dW1sLWNvbnRhaW5lciBpZD0iYzgiPgoJIAk8Y2xhc3MgeG1sbnM9Imh0dHA6Ly93d3cua2l0ZTkub3JnL3NjaGVtYS9hZGwiIGlkPSI0Ij4KICAgICAJPHN0ZXJlb3R5cGUgaWQ9IjQtMSI+b3duZXI8L3N0ZXJlb3R5cGU+CiAgICAgCTxjbGFzcy1uYW1lIGlkPSI0LTMiPlNvbWUgQ2xhc3M8L2NsYXNzLW5hbWU+CiAgICAgCTxwcm9wZXJ0aWVzIGlkPSI0LTUiPgogICAgIAkJPHByb3BlcnR5IGlkPSI0LTUtMSI+QSBQcm9wZXJ0eTwvcHJvcGVydHk+CiAgICAgCTwvcHJvcGVydGllcz4KICAgICAJPG1ldGhvZHMgaWQ9IjQtNyI+CiAgICAgCQk8bWV0aG9kIGlkPSI0LTctMSI+Y2FsbCBtZTwvbWV0aG9kPgogICAgIAk8L21ldGhvZHM+CiAgICAgPC9jbGFzcz48bGFiZWw+QSBQYWNrYWdlPC9sYWJlbD4KCSAJCgkgCQoJIDx1c2UtY2FzZSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9IjIiPkh1bmdyeTwvdXNlLWNhc2U+PC91bWwtY29udGFpbmVyPgoJIAoJIAoJIAoJIAoJIAoJIDxsYWJlbD5Db25uZWN0IE1lPC9sYWJlbD4KCSAKCSAKICA8YWN0b3IgaWQ9ImExIj5MaXN0ZW5lciAgVGhpcyBpcyBhIHRoaW5nPC9hY3Rvcj48YWxpZ24gaWQ9IjYtMCIgZHJhd0RpcmVjdGlvbj0iUklHSFQiPgoJCQkJPGZyb20gcmVmZXJlbmNlPSJ1YzEiIGlkPSI2LTAtMSIvPgoJCQkJPHRvIHJlZmVyZW5jZT0iYyIgaWQ9IjYtMC0zIi8+CgkJCTwvYWxpZ24+PGFsaWduIGRyYXdEaXJlY3Rpb249IlJJR0hUIiBpZD0iMy0wIj4KCQkJCTxmcm9tIHJlZmVyZW5jZT0iYyIgaWQ9IjMtMC0xIi8+CgkJCQk8dG8gcmVmZXJlbmNlPSIxIiBpZD0iMy0wLTMiLz4KCQkJPC9hbGlnbj48YWxpZ24gZHJhd0RpcmVjdGlvbj0iUklHSFQiIGlkPSIzLTEiPgoJCQkJPGZyb20gcmVmZXJlbmNlPSIxIiBpZD0iMy0xLTEiLz4KCQkJCTx0byByZWZlcmVuY2U9ImM4IiBpZD0iMy0xLTMiLz4KCQkJPC9hbGlnbj48YWxpZ24gZHJhd0RpcmVjdGlvbj0iUklHSFQiIGlkPSIzLTIiPgoJCQkJPGZyb20gcmVmZXJlbmNlPSJjOCIgaWQ9IjMtMi0xIi8+CgkJCQk8dG8gcmVmZXJlbmNlPSJhMSIgaWQ9IjMtMi0zIi8+CgkJCTwvYWxpZ24+PC9kaWFncmFtPgo8L3N2Zzpzdmc+</script
   ></defs
   >
   <g k9-contains="connected" k9-rounding="0px" k9-shape="rect" k9-texture="background" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 15.0 15.0 15.0 15.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: diagram; rect-pos: [0.0,0.0]; rect-size: [572.0,173.0]; " id="dia" k9-ui="layout xml label" k9-elem="diagram"
@@ -30,7 +30,7 @@
 
 	
 
-     <g transform="translate(15.0,89.0)" k9-palette="connected" k9-shape="use-case" k9-texture="solid" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 10.0 10.0 10.0 10.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [15.0,89.0]; rect-size: [53.0,30.0]; " id="uc1" k9-format="inline-text" k9-ui="drag edit delete align connect insert autoconnect" k9-elem="use-case"
+     <g transform="translate(15.0,65.0)" k9-palette="connected" k9-shape="use-case" k9-texture="solid" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 10.0 10.0 10.0 10.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [15.0,65.0]; rect-size: [53.0,30.0]; " id="uc1" k9-format="inline-text" k9-ui="drag edit delete align connect insert autoconnect" k9-elem="use-case"
       >
 		<g k9-info="" k9-indicator="pulse" k9-elem="back"
         >
@@ -38,7 +38,7 @@
           />
 	</g
           >
-		<g k9-ui="orphan edit" k9-elem="textarea" k9-shape="textarea" transform="translate(9.2,9.5)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [25.0,99.0]; rect-size: [33.0,10.0]; "
+		<g k9-ui="orphan edit" k9-elem="textarea" k9-shape="textarea" transform="translate(9.2,9.5)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [25.0,75.0]; rect-size: [33.0,10.0]; "
           ><g fill="rgb(51,51,0)" font-size="10px" font-family="'metropolis'" stroke="rgb(51,51,0)"
             ><text x="0" xml:space="preserve" y="8.45" stroke="none"
               ><tspan
@@ -50,16 +50,16 @@
           ></g
           >
 	</g
-          ><g transform="translate(152.0,50.0)" k9-palette="connected" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [152.0,50.0]; rect-size: [114.0,60.0]; " id="1" k9-format="portrait-text" k9-ui="drag delete edit align cascade connect autoconnect" k9-elem="actor"
+          ><g transform="translate(152.0,15.0)" k9-palette="connected" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [152.0,15.0]; rect-size: [114.0,130.0]; " id="1" k9-format="portrait-text" k9-ui="drag delete edit align cascade connect autoconnect" k9-elem="actor"
           >
 		<g k9-info="" k9-indicator="pulse" k9-elem="back"
             >
-		<rect rx="5px" ry="5px" x="0" width="114.0" height="60.0" y="0"
+		<rect rx="5px" ry="5px" x="0" width="114.0" height="130.0" y="0"
               />
 	</g
               >
 
-		<g k9-elem="depiction" k9-texture="solid" k9-shape="actor" transform="translate(42.0,5.0)" k9-info="position: none; margin: 5.0 5.0 5.0 5.0; padding: 10.0 10.0 10.0 10.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [194.0,55.0]; rect-size: [30.0,30.0]; "
+		<g k9-elem="depiction" k9-texture="solid" k9-shape="actor" transform="translate(42.0,28.0)" k9-info="position: none; margin: 5.0 5.0 5.0 5.0; padding: 10.0 10.0 10.0 10.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [194.0,43.0]; rect-size: [30.0,30.0]; "
               >
 			<g k9-info="" k9-indicator="pulse" k9-elem="back"
                 >
@@ -71,7 +71,7 @@
                   >
 		</g
                   >
-		<g k9-elem="caption" k9-texture="none" k9-shape="rect" transform="translate(.0,40.0)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 5.0 5.0 5.0 5.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [152.0,90.0]; rect-size: [114.0,20.0]; "
+		<g k9-elem="caption" k9-texture="none" k9-shape="rect" transform="translate(.0,87.0)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 5.0 5.0 5.0 5.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [152.0,102.0]; rect-size: [114.0,20.0]; "
                   >
 			<g k9-info="" k9-indicator="pulse" k9-elem="back"
                     >
@@ -79,7 +79,7 @@
                       />
 	</g
                       >
-			<g k9-ui="text" k9-elem="textarea" k9-shape="textarea" transform="translate(4.3,4.5)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [157.0,95.0]; rect-size: [104.0,10.0]; "
+			<g k9-ui="text" k9-elem="textarea" k9-shape="textarea" transform="translate(4.3,4.5)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [157.0,107.0]; rect-size: [104.0,10.0]; "
                       ><g fill="rgb(51,51,0)" font-size="10px" font-family="'metropolis'" stroke="rgb(51,51,0)"
                         ><text x="0" xml:space="preserve" y="8.45" stroke="none"
                           ><tspan
@@ -101,16 +101,16 @@
 		</g
                       >
 	</g
-                      ><g transform="translate(78.0,63.0)" k9-palette="connected" k9-shape="rect" k9-texture="solid" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 5.0 5.0 5.0 5.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [78.0,63.0]; rect-size: [64.0,82.0]; " id="c" k9-ui="drag contain delete align connect autoconnect copy replace-connected cascade" k9-elem="class"
+                      ><g transform="translate(78.0,15.0)" k9-palette="connected" k9-shape="rect" k9-texture="solid" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 5.0 5.0 5.0 5.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [78.0,15.0]; rect-size: [64.0,130.0]; " id="c" k9-ui="drag contain delete align connect autoconnect copy replace-connected cascade" k9-elem="class"
                       >
 		<g k9-info="" k9-indicator="pulse" k9-elem="back"
                         >
-		<rect x="0" width="64.0" height="82.0" y="0"
+		<rect x="0" width="64.0" height="130.0" y="0"
                           />
 	</g
                           >
 		
-     	<g transform="translate(20.6,4.6)" k9-shape="stereotype" k9-info="position: none; margin: 0.0 0.0 5.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [99.0,68.0]; rect-size: [23.0,8.0]; " id="c2" k9-format="textarea" k9-ui="orphan edit" k9-elem="stereotype"
+     	<g transform="translate(20.6,4.6)" k9-shape="stereotype" k9-info="position: none; margin: 0.0 0.0 5.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [99.0,20.0]; rect-size: [23.0,8.0]; " id="c2" k9-format="textarea" k9-ui="orphan edit" k9-elem="stereotype"
                           ><g fill="rgb(102,102,102)" font-size="8px" font-family="'metropolis'" stroke="rgb(102,102,102)"
                             ><text x="0" xml:space="preserve" y="6.76" stroke="none"
                               ><tspan
@@ -121,7 +121,7 @@
                             ></g
                           ></g
                           >
-     	<g transform="translate(4.5,17.5)" k9-shape="class-name" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [83.0,81.0]; rect-size: [54.0,9.0]; " id="c3" k9-format="textarea" k9-ui="orphan edit" k9-elem="class-name"
+     	<g transform="translate(4.5,17.5)" k9-shape="class-name" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [83.0,33.0]; rect-size: [54.0,9.0]; " id="c3" k9-format="textarea" k9-ui="orphan edit" k9-elem="class-name"
                           ><g fill="rgb(51,51,0)" font-size="10px" font-family="'metropolis'" stroke="rgb(51,51,0)"
                             ><text x="0" xml:space="preserve" y="8.45" stroke="none"
                               ><tspan
@@ -134,20 +134,20 @@
                             ></g
                           ></g
                           >
-     	<g transform="translate(5.0,27.0)" k9-shape="rect" k9-texture="none" k9-child="/public/examples/uml/uml-template.xml#property" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [83.0,90.0]; rect-size: [54.0,25.0]; " id="c4" k9-ui="delete orphan cascade" k9-elem="properties"
+     	<g transform="translate(5.0,27.0)" k9-shape="rect" k9-texture="none" k9-child="/public/examples/uml/uml-template.xml#property" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [83.0,42.0]; rect-size: [54.0,73.0]; " id="c4" k9-ui="delete orphan cascade" k9-elem="properties"
                           >
 	 
 		<g k9-info="" k9-indicator="pulse" k9-elem="back"
                             >
-		<rect x="0" width="54.0" height="25.0" y="0"
+		<rect x="0" width="54.0" height="73.0" y="0"
                               />
 	</g
                               >
-		<g k9-ui="orphan" k9-elem="divider" k9-shape="divider" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [83.0,90.0]; rect-size: [54.0,15.0]; "
+		<g k9-ui="orphan" k9-elem="divider" k9-shape="divider" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [83.0,42.0]; rect-size: [54.0,63.0]; "
                               >
 		<g k9-info="" k9-elem="back"
                                 >
-		<path d="    M 0 7.5    H 54.0"
+		<path d="    M 0 31.5    H 54.0"
                                   />
 	</g
                                   >
@@ -155,7 +155,7 @@
                                   >
 
 		
-     		<g k9-ui="delete edit connect copy" k9-elem="property" id="c5" transform="translate(-.3,14.6)" k9-info="position: none; margin: 0.0 0.0 2.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: LEFT; vert: CENTER; rectangular: connected; rect-pos: [83.0,105.0]; rect-size: [41.0,8.0]; "
+     		<g k9-ui="delete edit connect copy" k9-elem="property" id="c5" transform="translate(-.3,62.6)" k9-info="position: none; margin: 0.0 0.0 2.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: LEFT; vert: CENTER; rectangular: connected; rect-pos: [83.0,105.0]; rect-size: [41.0,8.0]; "
                                   ><g fill="rgb(51,51,0)" font-size="8px" font-family="'metropolis'" stroke="rgb(51,51,0)"
                                     ><text x="0" xml:space="preserve" y="6.76" stroke="none"
                                       ><tspan
@@ -171,7 +171,7 @@
      			
 	</g
                                   >
-     	<g transform="translate(5.0,52.0)" k9-shape="rect" k9-texture="none" k9-child="/public/examples/uml/uml-template.xml#method" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [83.0,115.0]; rect-size: [54.0,25.0]; " id="c6" k9-ui="delete orphan cascade" k9-elem="methods"
+     	<g transform="translate(5.0,100.0)" k9-shape="rect" k9-texture="none" k9-child="/public/examples/uml/uml-template.xml#method" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [83.0,115.0]; rect-size: [54.0,25.0]; " id="c6" k9-ui="delete orphan cascade" k9-elem="methods"
                                   >
 		<g k9-info="" k9-indicator="pulse" k9-elem="back"
                                     >
@@ -412,16 +412,16 @@
                                                                               >
 	 
 	 
-  <g transform="translate(443.0,50.0)" k9-palette="connected" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [443.0,50.0]; rect-size: [114.0,60.0]; " id="a1" k9-format="portrait-text" k9-ui="drag delete edit align cascade connect autoconnect" k9-elem="actor"
+  <g transform="translate(443.0,15.0)" k9-palette="connected" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [443.0,15.0]; rect-size: [114.0,130.0]; " id="a1" k9-format="portrait-text" k9-ui="drag delete edit align cascade connect autoconnect" k9-elem="actor"
                                                                               >
 		<g k9-info="" k9-indicator="pulse" k9-elem="back"
                                                                                 >
-		<rect rx="5px" ry="5px" x="0" width="114.0" height="60.0" y="0"
+		<rect rx="5px" ry="5px" x="0" width="114.0" height="130.0" y="0"
                                                                                   />
 	</g
                                                                                   >
 
-		<g k9-elem="depiction" k9-texture="solid" k9-shape="actor" transform="translate(42.0,5.0)" k9-info="position: none; margin: 5.0 5.0 5.0 5.0; padding: 10.0 10.0 10.0 10.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [485.0,55.0]; rect-size: [30.0,30.0]; "
+		<g k9-elem="depiction" k9-texture="solid" k9-shape="actor" transform="translate(42.0,28.0)" k9-info="position: none; margin: 5.0 5.0 5.0 5.0; padding: 10.0 10.0 10.0 10.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [485.0,43.0]; rect-size: [30.0,30.0]; "
                                                                                   >
 			<g k9-info="" k9-indicator="pulse" k9-elem="back"
                                                                                     >
@@ -433,7 +433,7 @@
                                                                                       >
 		</g
                                                                                       >
-		<g k9-elem="caption" k9-texture="none" k9-shape="rect" transform="translate(.0,40.0)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 5.0 5.0 5.0 5.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [443.0,90.0]; rect-size: [114.0,20.0]; "
+		<g k9-elem="caption" k9-texture="none" k9-shape="rect" transform="translate(.0,87.0)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 5.0 5.0 5.0 5.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [443.0,102.0]; rect-size: [114.0,20.0]; "
                                                                                       >
 			<g k9-info="" k9-indicator="pulse" k9-elem="back"
                                                                                         >
@@ -441,7 +441,7 @@
                                                                                           />
 	</g
                                                                                           >
-			<g k9-ui="text" k9-elem="textarea" k9-shape="textarea" transform="translate(4.3,4.5)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [448.0,95.0]; rect-size: [104.0,10.0]; "
+			<g k9-ui="text" k9-elem="textarea" k9-shape="textarea" transform="translate(4.3,4.5)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [448.0,107.0]; rect-size: [104.0,10.0]; "
                                                                                           ><g fill="rgb(51,51,0)" font-size="10px" font-family="'metropolis'" stroke="rgb(51,51,0)"
                                                                                             ><text x="0" xml:space="preserve" y="8.45" stroke="none"
                                                                                               ><tspan
@@ -467,7 +467,7 @@
                                                                                           >
     <g k9-info="" k9-indicator="bar stroke" k9-elem="align-grab"
                                                                                             >
-      <path d="M68 104 L78 104" k9-animate="link"
+      <path d="M68 80 L78 80" k9-animate="link"
                                                                                               />
     </g
                                                                                               >
@@ -477,162 +477,219 @@
 			
     <g k9-info="" k9-indicator="stroke" k9-elem="align-body"
                                                                                               >
-      <path d="M68 104 L78 104" k9-animate="link"
+      <path d="M68 80 L78 80" k9-animate="link"
                                                                                                 />
     </g
                                                                                                 >
   </g
+                                                                                                ><g k9-ui="delete cascade" k9-elem="align" id="3-0" drawDirection="RIGHT" k9-info="link: ['c','1']; direction: RIGHT; "
                                                                                                 >
-  </g
-                                                                                                >
-<defs
-                                                                                                >
-    <marker refX="3" refY="3" fill="none" orient="auto" id="indicator-arrow" markerHeight="15" preserveAspectRatio="xMidYMid meet" stroke="none" markerWidth="15"
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="align-grab"
                                                                                                   >
-        <path d="M0,0 L3,3 L0,6" k9-indicator="stroke"
+      <path d="M142 80 L152 80" k9-animate="link"
                                                                                                     />
+    </g
+                                                                                                    >
+    
+				
+				
+			
+    <g k9-info="" k9-indicator="stroke" k9-elem="align-body"
+                                                                                                    >
+      <path d="M142 80 L152 80" k9-animate="link"
+                                                                                                      />
+    </g
+                                                                                                      >
+  </g
+                                                                                                      ><g k9-ui="delete cascade" k9-elem="align" id="3-1" drawDirection="RIGHT" k9-info="link: ['1','c8']; direction: RIGHT; "
+                                                                                                      >
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="align-grab"
+                                                                                                        >
+      <path d="M266 80 L276 80" k9-animate="link"
+                                                                                                          />
+    </g
+                                                                                                          >
+    
+				
+				
+			
+    <g k9-info="" k9-indicator="stroke" k9-elem="align-body"
+                                                                                                          >
+      <path d="M266 80 L276 80" k9-animate="link"
+                                                                                                            />
+    </g
+                                                                                                            >
+  </g
+                                                                                                            ><g k9-ui="delete cascade" k9-elem="align" id="3-2" drawDirection="RIGHT" k9-info="link: ['c8','a1']; direction: RIGHT; "
+                                                                                                            >
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="align-grab"
+                                                                                                              >
+      <path d="M433 80 L443 80" k9-animate="link"
+                                                                                                                />
+    </g
+                                                                                                                >
+    
+				
+				
+			
+    <g k9-info="" k9-indicator="stroke" k9-elem="align-body"
+                                                                                                                >
+      <path d="M433 80 L443 80" k9-animate="link"
+                                                                                                                  />
+    </g
+                                                                                                                  >
+  </g
+                                                                                                                  >
+  </g
+                                                                                                                  >
+<defs
+                                                                                                                  >
+    <marker refX="3" refY="3" fill="none" orient="auto" id="indicator-arrow" markerHeight="15" preserveAspectRatio="xMidYMid meet" stroke="none" markerWidth="15"
+                                                                                                                    >
+        <path d="M0,0 L3,3 L0,6" k9-indicator="stroke"
+                                                                                                                      />
     </marker
-                                                                                                    >
+                                                                                                                      >
   </defs
-                                                                                                    ><defs
-                                                                                                    >
+                                                                                                                      ><defs
+                                                                                                                      >
 
     <!-- Link Ends -->
     
     <marker id="-start-marker" preserveAspectRatio="xMidYMid meet"
-                                                                                                      >
+                                                                                                                        >
     </marker
-                                                                                                      >
+                                                                                                                        >
 
     <marker id="-end-marker" preserveAspectRatio="xMidYMid meet"
-                                                                                                      >
+                                                                                                                        >
     </marker
-                                                                                                      >
+                                                                                                                        >
 
     <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-start-marker" markerWidth="6" refX="3"
-                                                                                                      >
-      <circle r="2" class="circle-marker" cx="3" cy="3"
-                                                                                                        />
-    </marker
-                                                                                                        >
-
-    <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-end-marker" markerWidth="6" refX="3"
-                                                                                                        >
-      <circle r="2" class="circle-marker" cx="3" cy="3"
-                                                                                                          />
-    </marker
-                                                                                                          >
-
-    <marker refX="2" refY="3" orient="auto" id="diamond-start-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
-                                                                                                          >
-      <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"
-                                                                                                            />
-    </marker
-                                                                                                            >
-
-    <marker refX="6" refY="3" orient="auto" id="diamond-end-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
-                                                                                                            >
-      <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"
-                                                                                                              />
-    </marker
-                                                                                                              >
-
-    <marker refX="5" refY="3" orient="auto" id="open-diamond-start-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
-                                                                                                              >
-      <path class="open-diamond-marker" d="         M0,3 L3,1 L6,3 L5,3 L3,1.66 L1,3             L3,4.33 L5,3 L6,3 L3,5 L0,3"
-                                                                                                                />
-    </marker
-                                                                                                                >
-
-    <marker refX="1" refY="3" orient="auto" id="open-diamond-end-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
-                                                                                                                >
-      <path class="open-diamond-marker" d="         M6,3 L3,1 L0,3 L1,3 L3,1.66 L5,3             L3,4.33 L1,3 L0,3 L3,5 L6,3"
-                                                                                                                  />
-    </marker
-                                                                                                                  >
-
-    <marker refX="4" refY="4" orient="auto" id="barbed-arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                  >
-      <path class="barbed-arrow-marker" d="M2,2 L6,4 L2,6 L4,4 L2,2"
-                                                                                                                    />
-    </marker
-                                                                                                                    >
-
-    <marker refX="4" refY="4" orient="auto" id="barbed-arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                    >
-      <path class="barbed-arrow-marker" d="M6,2 L2,4 L6,6 L4,4 L6,2"
-                                                                                                                      />
-    </marker
-                                                                                                                      >
-
-    <marker refX="1" refY="4" orient="auto" id="open-arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                      >
-       <path class="open-arrow-marker" d="         M6,4 L1,2 L1,3 L4,4 L1,5 L1,6 L6,4         M2,3 h-1 v2 h1z"
-                                                                                                                        />
-    </marker
                                                                                                                         >
-
-    <marker refX="6" refY="4" orient="auto" id="open-arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
-                                                                                                                        >
-      <path class="open-arrow-marker" d="         M1,4 L6,2 L6,3 L3,4 L6,5 L6,6 L1,4         M5,3 h1 v2 h-1z"
+      <circle r="2" class="circle-marker" cx="3" cy="3"
                                                                                                                           />
     </marker
                                                                                                                           >
 
-    <marker refX="4" refY="4" orient="auto" id="arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+    <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-end-marker" markerWidth="6" refX="3"
                                                                                                                           >
-      <polygon class="arrow-marker" points="2,4 6,2 6,6"
+      <circle r="2" class="circle-marker" cx="3" cy="3"
                                                                                                                             />
     </marker
                                                                                                                             >
 
-    <marker refX="4" refY="4" orient="auto" id="arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+    <marker refX="2" refY="3" orient="auto" id="diamond-start-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
                                                                                                                             >
-      <polygon class="arrow-marker" points="6,4 2,2 2,6"
+      <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"
                                                                                                                               />
     </marker
                                                                                                                               >
-    
-    <marker refX="5" refY="4" orient="auto" id="crow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+
+    <marker refX="6" refY="3" orient="auto" id="diamond-end-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
                                                                                                                               >
-       <path class="crow-marker" d="          M1,4 L4,1 l0.66 0.66 L2.3,4z          M1,4 L4,7 l0.66 -0.66 L2.3,4z"
-                                                                                                                                />       
+      <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"
+                                                                                                                                />
     </marker
                                                                                                                                 >
-    
-    <marker refX="1" refY="4" orient="auto" id="crow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+
+    <marker refX="5" refY="3" orient="auto" id="open-diamond-start-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
                                                                                                                                 >
-       <path class="crow-marker" d="          M5,4 L2,1 l-0.66 0.66 L3.66,4z          M5,4 L2,7 l-0.66 -0.66 L3.66,4z"
-                                                                                                                                  />       
+      <path class="open-diamond-marker" d="         M0,3 L3,1 L6,3 L5,3 L3,1.66 L1,3             L3,4.33 L5,3 L6,3 L3,5 L0,3"
+                                                                                                                                  />
     </marker
                                                                                                                                   >
-    
-    <marker refX="2" refY="2" orient="auto" id="square-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+
+    <marker refX="1" refY="3" orient="auto" id="open-diamond-end-marker" markerHeight="6" preserveAspectRatio="xMidYMid meet" markerWidth="8"
                                                                                                                                   >
-       <rect x="0" width="4" height="4" y="0" class="square-marker"
-                                                                                                                                    />       
+      <path class="open-diamond-marker" d="         M6,3 L3,1 L0,3 L1,3 L3,1.66 L5,3             L3,4.33 L1,3 L0,3 L3,5 L6,3"
+                                                                                                                                    />
     </marker
                                                                                                                                     >
-    
-    <marker refX="2" refY="2" orient="auto" id="square-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+
+    <marker refX="4" refY="4" orient="auto" id="barbed-arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
                                                                                                                                     >
-       <rect x="0" width="4" height="4" y="0" class="square-marker"
-                                                                                                                                      />       
+      <path class="barbed-arrow-marker" d="M2,2 L6,4 L2,6 L4,4 L2,2"
+                                                                                                                                      />
     </marker
                                                                                                                                       >
 
+    <marker refX="4" refY="4" orient="auto" id="barbed-arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+                                                                                                                                      >
+      <path class="barbed-arrow-marker" d="M6,2 L2,4 L6,6 L4,4 L6,2"
+                                                                                                                                        />
+    </marker
+                                                                                                                                        >
+
+    <marker refX="1" refY="4" orient="auto" id="open-arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+                                                                                                                                        >
+       <path class="open-arrow-marker" d="         M6,4 L1,2 L1,3 L4,4 L1,5 L1,6 L6,4         M2,3 h-1 v2 h1z"
+                                                                                                                                          />
+    </marker
+                                                                                                                                          >
+
+    <marker refX="6" refY="4" orient="auto" id="open-arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+                                                                                                                                          >
+      <path class="open-arrow-marker" d="         M1,4 L6,2 L6,3 L3,4 L6,5 L6,6 L1,4         M5,3 h1 v2 h-1z"
+                                                                                                                                            />
+    </marker
+                                                                                                                                            >
+
+    <marker refX="4" refY="4" orient="auto" id="arrow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+                                                                                                                                            >
+      <polygon class="arrow-marker" points="2,4 6,2 6,6"
+                                                                                                                                              />
+    </marker
+                                                                                                                                              >
+
+    <marker refX="4" refY="4" orient="auto" id="arrow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+                                                                                                                                              >
+      <polygon class="arrow-marker" points="6,4 2,2 2,6"
+                                                                                                                                                />
+    </marker
+                                                                                                                                                >
+    
+    <marker refX="5" refY="4" orient="auto" id="crow-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+                                                                                                                                                >
+       <path class="crow-marker" d="          M1,4 L4,1 l0.66 0.66 L2.3,4z          M1,4 L4,7 l0.66 -0.66 L2.3,4z"
+                                                                                                                                                  />       
+    </marker
+                                                                                                                                                  >
+    
+    <marker refX="1" refY="4" orient="auto" id="crow-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+                                                                                                                                                  >
+       <path class="crow-marker" d="          M5,4 L2,1 l-0.66 0.66 L3.66,4z          M5,4 L2,7 l-0.66 -0.66 L3.66,4z"
+                                                                                                                                                    />       
+    </marker
+                                                                                                                                                    >
+    
+    <marker refX="2" refY="2" orient="auto" id="square-end-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+                                                                                                                                                    >
+       <rect x="0" width="4" height="4" y="0" class="square-marker"
+                                                                                                                                                      />       
+    </marker
+                                                                                                                                                      >
+    
+    <marker refX="2" refY="2" orient="auto" id="square-start-marker" markerHeight="7" preserveAspectRatio="xMidYMid meet" markerWidth="7"
+                                                                                                                                                      >
+       <rect x="0" width="4" height="4" y="0" class="square-marker"
+                                                                                                                                                        />       
+    </marker
+                                                                                                                                                        >
+
   <script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                                                                      >document.params = { 'align-template-uri' : 'http://k9-server:8080/public/templates/links/common-links.adl#align', 
+                                                                                                                                                        >document.params = { 'align-template-uri' : 'http://k9-server:8080/public/templates/links/common-links.adl#align', 
  'link-template-uri' : 'http://k9-server:8080/public/templates/links/common-links.adl#l1', 
  'label-template-uri' : 'http://k9-server:8080/public/templates/labels/common-labels.adl#label', 
  'cell-template-uri' : 'http://k9-server:8080/public/templates/grid/common-grid.adl#t1', 
  'palettes' : ['http://k9-server:8080/public/templates/links/common-links', 'link end', 'http://k9-server:8080/public/templates/uml/palette', 'connected', 'http://k9-server:8080/public/templates/common/containers/palette', 'connected'] 
  } 
 </script
-                                                                                                                                      ><script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" type="module" xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                                                                      >
+                                                                                                                                                        ><script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" type="module" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                                                                                        >
 import "http://k9-server:8080/public/context/editor/editor.js";
 </script
-                                                                                                                                    ></defs
-                                                                                                                                  ></svg
-                                                                                                                                >
+                                                                                                                                                      ></defs
+                                                                                                                                                    ></svg
+                                                                                                                                                  >
