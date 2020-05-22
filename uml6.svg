@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
           'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
-<svg contentScriptType="text/ecmascript" width="466.0px" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentStyleType="text/css" height="173.0px" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0"
+<svg contentScriptType="text/ecmascript" width="385.0px" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentStyleType="text/css" height="173.0px" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0"
 >
   <defs
   >
@@ -13,14 +13,14 @@
     >
     
   <script xlink:actuate="onLoad" xlink:type="simple" id="adl:markup" xlink:show="other" type="text/adl-svg+xml;base64" xmlns:xlink="http://www.w3.org/1999/xlink"
-    >PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnOnN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb250ZW50U2NyaXB0VHlwZT0idGV4dC9lY21hc2NyaXB0IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCIgdmVyc2lvbj0iMS4wIj4KICA8c3ZnOmRlZnM+CiAgICA8c3ZnOnN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWw6c3BhY2U9InByZXNlcnZlIj4gCiAgICAgICBAaW1wb3J0IHVybCgiL3B1YmxpYy90ZW1wbGF0ZXMvdW1sL3VtbC5jc3MiKTsKICAgICAgIEBpbXBvcnQgdXJsKCIvcHVibGljL2NvbnRleHQvZWRpdG9yL2VkaXRvci5jc3MiKTsKICAgIDwvc3ZnOnN0eWxlPgogICAgCiAgPC9zdmc6ZGVmcz4KICA8ZGlhZ3JhbSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9ImRpYSI+CgoJCgogICAgIDx1c2UtY2FzZSBpZD0idWMxIj5IdW5ncnk8L3VzZS1jYXNlPjxjbGFzcyBpZD0iYyI+CiAgICAgCTxzdGVyZW90eXBlIGlkPSJjMiI+b3duZXI8L3N0ZXJlb3R5cGU+CiAgICAgCTxjbGFzcy1uYW1lIGlkPSJjMyI+U29tZSBDbGFzczwvY2xhc3MtbmFtZT4KICAgICAJPHByb3BlcnRpZXMgaWQ9ImM0Ij4KICAgICAJCTxwcm9wZXJ0eSBpZD0iYzUiPkEgUHJvcGVydHk8L3Byb3BlcnR5PgogICAgIAk8L3Byb3BlcnRpZXM+CiAgICAgCTxtZXRob2RzIGlkPSJjNiI+CiAgICAgCQk8bWV0aG9kIGlkPSJjNyI+Y2FsbCBtZTwvbWV0aG9kPgogICAgIAk8L21ldGhvZHM+CiAgICAgPC9jbGFzcz4KICAgICAKCSA8dW1sLWNvbnRhaW5lciBpZD0iYzgiPgoJIAk8Y2xhc3MgeG1sbnM9Imh0dHA6Ly93d3cua2l0ZTkub3JnL3NjaGVtYS9hZGwiIGlkPSI0Ij4KICAgICAJPHN0ZXJlb3R5cGUgaWQ9IjQtMSI+b3duZXI8L3N0ZXJlb3R5cGU+CiAgICAgCTxjbGFzcy1uYW1lIGlkPSI0LTMiPlNvbWUgQ2xhc3M8L2NsYXNzLW5hbWU+CiAgICAgCTxwcm9wZXJ0aWVzIGlkPSI0LTUiPgogICAgIAkJPHByb3BlcnR5IGlkPSI0LTUtMSI+QSBQcm9wZXJ0eTwvcHJvcGVydHk+CiAgICAgCTwvcHJvcGVydGllcz4KICAgICAJPG1ldGhvZHMgaWQ9IjQtNyI+CiAgICAgCQk8bWV0aG9kIGlkPSI0LTctMSI+Y2FsbCBtZTwvbWV0aG9kPgogICAgIAk8L21ldGhvZHM+CiAgICAgPC9jbGFzcz48bGFiZWw+QSBQYWNrYWdlPC9sYWJlbD4KCSAJCgkgCTxsYWJlbCBpZD0ibDEiPlNvbWUgQ29udGFpbmVyPC9sYWJlbD4KCSA8L3VtbC1jb250YWluZXI+CgkgCgkgCgkgCgkgCgkgCgkgPGxhYmVsPkNvbm5lY3QgTWU8L2xhYmVsPjxhY3RvciBpZD0iYTEiPkxpc3RlbmVyICBUaGlzIGlzIGEgdGhpbmc8L2FjdG9yPgoJIAoJIAogIDwvZGlhZ3JhbT4KPC9zdmc6c3ZnPg==</script
+    >PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnOnN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb250ZW50U2NyaXB0VHlwZT0idGV4dC9lY21hc2NyaXB0IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCIgdmVyc2lvbj0iMS4wIj4KICA8c3ZnOmRlZnM+CiAgICA8c3ZnOnN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWw6c3BhY2U9InByZXNlcnZlIj4gCiAgICAgICBAaW1wb3J0IHVybCgiL3B1YmxpYy90ZW1wbGF0ZXMvdW1sL3VtbC5jc3MiKTsKICAgICAgIEBpbXBvcnQgdXJsKCIvcHVibGljL2NvbnRleHQvZWRpdG9yL2VkaXRvci5jc3MiKTsKICAgIDwvc3ZnOnN0eWxlPgogICAgCiAgPC9zdmc6ZGVmcz4KICA8ZGlhZ3JhbSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9ImRpYSI+CgoJCgogICAgIDx1c2UtY2FzZSBpZD0idWMxIj5IdW5ncnk8L3VzZS1jYXNlPjxjbGFzcyBpZD0iYyI+CiAgICAgCTxzdGVyZW90eXBlIGlkPSJjMiI+b3duZXI8L3N0ZXJlb3R5cGU+CiAgICAgCTxjbGFzcy1uYW1lIGlkPSJjMyI+U29tZSBDbGFzczwvY2xhc3MtbmFtZT4KICAgICAJPHByb3BlcnRpZXMgaWQ9ImM0Ij4KICAgICAJCTxwcm9wZXJ0eSBpZD0iYzUiPkEgUHJvcGVydHk8L3Byb3BlcnR5PgogICAgIAk8L3Byb3BlcnRpZXM+CiAgICAgCTxtZXRob2RzIGlkPSJjNiI+CiAgICAgCQk8bWV0aG9kIGlkPSJjNyI+Y2FsbCBtZTwvbWV0aG9kPgogICAgIAk8L21ldGhvZHM+CiAgICAgPC9jbGFzcz4KICAgICAKCSA8dW1sLWNvbnRhaW5lciBpZD0iYzgiPgoJIAk8Y2xhc3MgeG1sbnM9Imh0dHA6Ly93d3cua2l0ZTkub3JnL3NjaGVtYS9hZGwiIGlkPSI0Ij4KICAgICAJPHN0ZXJlb3R5cGUgaWQ9IjQtMSI+b3duZXI8L3N0ZXJlb3R5cGU+CiAgICAgCTxjbGFzcy1uYW1lIGlkPSI0LTMiPlNvbWUgQ2xhc3M8L2NsYXNzLW5hbWU+CiAgICAgCTxwcm9wZXJ0aWVzIGlkPSI0LTUiPgogICAgIAkJPHByb3BlcnR5IGlkPSI0LTUtMSI+QSBQcm9wZXJ0eTwvcHJvcGVydHk+CiAgICAgCTwvcHJvcGVydGllcz4KICAgICAJPG1ldGhvZHMgaWQ9IjQtNyI+CiAgICAgCQk8bWV0aG9kIGlkPSI0LTctMSI+Y2FsbCBtZTwvbWV0aG9kPgogICAgIAk8L21ldGhvZHM+CiAgICAgPC9jbGFzcz48bGFiZWw+QSBQYWNrYWdlPC9sYWJlbD4KCSAJCgkgCQoJIDwvdW1sLWNvbnRhaW5lcj4KCSAKCSAKCSAKCSAKCSAKCSA8bGFiZWw+Q29ubmVjdCBNZTwvbGFiZWw+PGFjdG9yIGlkPSJhMSI+TGlzdGVuZXIgIFRoaXMgaXMgYSB0aGluZzwvYWN0b3I+CgkgCgkgCiAgPC9kaWFncmFtPgo8L3N2Zzpzdmc+</script
   ></defs
   >
-  <g k9-contains="connected" k9-rounding="0px" k9-shape="rect" k9-texture="background" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 15.0 15.0 15.0 15.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: diagram; rect-pos: [0.0,0.0]; rect-size: [466.0,173.0]; " id="dia" k9-ui="layout xml label" k9-elem="diagram"
+  <g k9-contains="connected" k9-rounding="0px" k9-shape="rect" k9-texture="background" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 15.0 15.0 15.0 15.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: diagram; rect-pos: [0.0,0.0]; rect-size: [385.0,173.0]; " id="dia" k9-ui="layout xml label" k9-elem="diagram"
   >
     <g k9-info="" k9-indicator="pulse" k9-elem="back"
     >
-		<rect x="0" width="466.0" height="173.0" y="0"
+		<rect x="0" width="385.0" height="173.0" y="0"
       />
 	</g
       >
@@ -160,22 +160,22 @@
 	</g
                               >
      
-	 <g k9-contains="connected" transform="translate(152.0,15.0)" k9-palette="connected" k9-rounding="15px" k9-shape="uml-container" k9-texture="outline" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 20.0 20.0 10.0 10.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [152.0,15.0]; rect-size: [175.0,130.0]; " id="c8" k9-ui="drag delete align connect layout label" k9-elem="uml-container"
+	 <g k9-contains="connected" transform="translate(152.0,15.0)" k9-palette="connected" k9-rounding="15px" k9-shape="uml-container" k9-texture="outline" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 20.0 20.0 10.0 10.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [152.0,15.0]; rect-size: [94.0,130.0]; " id="c8" k9-ui="drag delete align connect layout label" k9-elem="uml-container"
                               >
     <g k9-info="" k9-indicator="pulse" k9-elem="back"
                                 >
-		<rect x="0" width="170" height="125" y="5"
+		<rect x="0" width="89" height="125" y="5"
                                   />
-		<path d="    M 0, 5     l 5 -5    H 175.0    V 125    l -5 5    V 5    H 0    z"
+		<path d="    M 0, 5     l 5 -5    H 94.0    V 125    l -5 5    V 5    H 0    z"
                                   />
-		<path d="    M 170 5    l 5 -5"
+		<path d="    M 89 5    l 5 -5"
                                   />
 	</g
                                   >
     <g k9-info="" k9-elem="indicator"
                                   />
     
-	 	<g transform="translate(91.0,20.0)" k9-palette="connected" k9-shape="rect" k9-texture="solid" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 5.0 5.0 5.0 5.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [243.0,35.0]; rect-size: [64.0,82.0]; " id="4" k9-ui="drag contain delete align connect autoconnect copy replace-connected cascade" k9-elem="class"
+	 	<g transform="translate(10.0,20.0)" k9-palette="connected" k9-shape="rect" k9-texture="solid" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 5.0 5.0 5.0 5.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [162.0,35.0]; rect-size: [64.0,82.0]; " id="4" k9-ui="drag contain delete align connect autoconnect copy replace-connected cascade" k9-elem="class"
                                   >
 		<g k9-info="" k9-indicator="pulse" k9-elem="back"
                                     >
@@ -184,7 +184,7 @@
 	</g
                                       >
 		
-     	<g transform="translate(20.6,4.6)" k9-shape="stereotype" k9-info="position: none; margin: 0.0 0.0 5.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [264.0,40.0]; rect-size: [23.0,8.0]; " id="4-1" k9-format="textarea" k9-ui="orphan edit" k9-elem="stereotype"
+     	<g transform="translate(20.6,4.6)" k9-shape="stereotype" k9-info="position: none; margin: 0.0 0.0 5.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [183.0,40.0]; rect-size: [23.0,8.0]; " id="4-1" k9-format="textarea" k9-ui="orphan edit" k9-elem="stereotype"
                                       ><g fill="rgb(102,102,102)" font-size="8px" font-family="'metropolis'" stroke="rgb(102,102,102)"
                                         ><text x="0" xml:space="preserve" y="6.76" stroke="none"
                                           ><tspan
@@ -195,7 +195,7 @@
                                         ></g
                                       ></g
                                       >
-     	<g transform="translate(4.5,17.5)" k9-shape="class-name" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [248.0,53.0]; rect-size: [54.0,9.0]; " id="4-3" k9-format="textarea" k9-ui="orphan edit" k9-elem="class-name"
+     	<g transform="translate(4.5,17.5)" k9-shape="class-name" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [167.0,53.0]; rect-size: [54.0,9.0]; " id="4-3" k9-format="textarea" k9-ui="orphan edit" k9-elem="class-name"
                                       ><g fill="rgb(51,51,0)" font-size="10px" font-family="'metropolis'" stroke="rgb(51,51,0)"
                                         ><text x="0" xml:space="preserve" y="8.45" stroke="none"
                                           ><tspan
@@ -208,7 +208,7 @@
                                         ></g
                                       ></g
                                       >
-     	<g transform="translate(5.0,27.0)" k9-shape="rect" k9-texture="none" k9-child="/public/examples/uml/uml-template.xml#property" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [248.0,62.0]; rect-size: [54.0,25.0]; " id="4-5" k9-ui="delete orphan cascade" k9-elem="properties"
+     	<g transform="translate(5.0,27.0)" k9-shape="rect" k9-texture="none" k9-child="/public/examples/uml/uml-template.xml#property" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [167.0,62.0]; rect-size: [54.0,25.0]; " id="4-5" k9-ui="delete orphan cascade" k9-elem="properties"
                                       >
 	 
 		<g k9-info="" k9-indicator="pulse" k9-elem="back"
@@ -217,7 +217,7 @@
                                           />
 	</g
                                           >
-		<g k9-ui="orphan" k9-elem="divider" k9-shape="divider" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [248.0,62.0]; rect-size: [54.0,15.0]; "
+		<g k9-ui="orphan" k9-elem="divider" k9-shape="divider" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [167.0,62.0]; rect-size: [54.0,15.0]; "
                                           >
 		<g k9-info="" k9-elem="back"
                                             >
@@ -229,7 +229,7 @@
                                               >
 
 		
-     		<g k9-ui="delete edit connect copy" k9-elem="property" id="4-5-1" transform="translate(-.3,14.6)" k9-info="position: none; margin: 0.0 0.0 2.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: LEFT; vert: CENTER; rectangular: connected; rect-pos: [248.0,77.0]; rect-size: [41.0,8.0]; "
+     		<g k9-ui="delete edit connect copy" k9-elem="property" id="4-5-1" transform="translate(-.3,14.6)" k9-info="position: none; margin: 0.0 0.0 2.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: LEFT; vert: CENTER; rectangular: connected; rect-pos: [167.0,77.0]; rect-size: [41.0,8.0]; "
                                               ><g fill="rgb(51,51,0)" font-size="8px" font-family="'metropolis'" stroke="rgb(51,51,0)"
                                                 ><text x="0" xml:space="preserve" y="6.76" stroke="none"
                                                   ><tspan
@@ -245,7 +245,7 @@
      			
 	</g
                                               >
-     	<g transform="translate(5.0,52.0)" k9-shape="rect" k9-texture="none" k9-child="/public/examples/uml/uml-template.xml#method" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [248.0,87.0]; rect-size: [54.0,25.0]; " id="4-7" k9-ui="delete orphan cascade" k9-elem="methods"
+     	<g transform="translate(5.0,52.0)" k9-shape="rect" k9-texture="none" k9-child="/public/examples/uml/uml-template.xml#method" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [167.0,87.0]; rect-size: [54.0,25.0]; " id="4-7" k9-ui="delete orphan cascade" k9-elem="methods"
                                               >
 		<g k9-info="" k9-indicator="pulse" k9-elem="back"
                                                 >
@@ -253,7 +253,7 @@
                                                   />
 	</g
                                                   >
-		<g k9-ui="orphan" k9-elem="divider" k9-shape="divider" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [248.0,87.0]; rect-size: [54.0,15.0]; "
+		<g k9-ui="orphan" k9-elem="divider" k9-shape="divider" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MAXIMIZE MAXIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [167.0,87.0]; rect-size: [54.0,15.0]; "
                                                   >
 		<g k9-info="" k9-elem="back"
                                                     >
@@ -265,7 +265,7 @@
                                                       >
 
 		
-     		<g k9-ui="delete edit connect copy" k9-elem="method" id="4-7-1" transform="translate(-.4,14.6)" k9-info="position: none; margin: 0.0 0.0 2.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: LEFT; vert: CENTER; rectangular: connected; rect-pos: [248.0,102.0]; rect-size: [26.0,8.0]; "
+     		<g k9-ui="delete edit connect copy" k9-elem="method" id="4-7-1" transform="translate(-.4,14.6)" k9-info="position: none; margin: 0.0 0.0 2.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: LEFT; vert: CENTER; rectangular: connected; rect-pos: [167.0,102.0]; rect-size: [26.0,8.0]; "
                                                       ><g fill="rgb(51,51,0)" font-size="8px" font-family="'metropolis'" stroke="rgb(51,51,0)"
                                                         ><text x="0" xml:space="preserve" y="6.76" stroke="none"
                                                           ><tspan
@@ -283,7 +283,7 @@
                                                       >
      
 	</g
-                                                      ><g k9-ui="delete orphan edit" k9-elem="label" k9-texture="none" k9-palette="label" transform="translate(10.0,112.0)" k9-info="position: none; margin: 4.0 4.0 4.0 4.0; padding: 4.0 4.0 4.0 4.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: label; rect-pos: [162.0,127.0]; rect-size: [58.0,18.0]; "
+                                                      ><g k9-ui="delete orphan edit" k9-elem="label" k9-texture="none" k9-palette="label" transform="translate(13.0,112.0)" k9-info="position: none; margin: 4.0 4.0 4.0 4.0; padding: 4.0 4.0 4.0 4.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: label; rect-pos: [165.0,127.0]; rect-size: [58.0,18.0]; "
                                                       >
     <g k9-info="" k9-indicator="pulse" k9-elem="back"
                                                         >
@@ -291,7 +291,7 @@
                                                           />
 	</g
                                                           >
-    <g k9-elem="front" style="kite9-type: text; " transform="translate(3.7,3.5)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [166.0,131.0]; rect-size: [50.0,10.0]; "
+    <g k9-elem="front" style="kite9-type: text; " transform="translate(3.7,3.5)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [169.0,131.0]; rect-size: [50.0,10.0]; "
                                                           ><g fill="rgb(51,51,0)" font-size="10px" font-family="'metropolis'" stroke="rgb(51,51,0)"
                                                             ><text x="0" xml:space="preserve" y="8.45" stroke="none"
                                                               ><tspan
@@ -307,136 +307,114 @@
   </g
                                                           >
 	 	
-	 	<g transform="translate(72.0,112.0)" k9-palette="label" k9-texture="none" k9-info="position: none; margin: 4.0 4.0 4.0 4.0; padding: 4.0 4.0 4.0 4.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: label; rect-pos: [224.0,127.0]; rect-size: [83.0,18.0]; " id="l1" k9-ui="delete orphan edit" k9-elem="label"
+	 	
+	 
+  </g
+                                                          >
+	 
+	 
+	 
+	 
+	 
+	 <g k9-ui="delete orphan edit" k9-elem="label" k9-texture="none" k9-palette="label" transform="translate(161.0,155.0)" k9-info="position: none; margin: 4.0 4.0 4.0 4.0; padding: 4.0 4.0 4.0 4.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: label; rect-pos: [161.0,155.0]; rect-size: [64.0,18.0]; "
                                                           >
     <g k9-info="" k9-indicator="pulse" k9-elem="back"
                                                             >
-		<rect rx="5px" ry="5px" x="0" width="83.0" height="18.0" y="0"
+		<rect rx="5px" ry="5px" x="0" width="64.0" height="18.0" y="0"
                                                               />
 	</g
                                                               >
-    <g k9-elem="front" style="kite9-type: text; " transform="translate(3.5,3.5)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [228.0,131.0]; rect-size: [75.0,10.0]; "
+    <g k9-elem="front" style="kite9-type: text; " transform="translate(3.5,3.5)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [165.0,159.0]; rect-size: [56.0,10.0]; "
                                                               ><g fill="rgb(51,51,0)" font-size="10px" font-family="'metropolis'" stroke="rgb(51,51,0)"
                                                                 ><text x="0" xml:space="preserve" y="8.45" stroke="none"
                                                                   ><tspan
-                                                                    >S</tspan
+                                                                    >C</tspan
                                                                     ><tspan
-                                                                    >ome </tspan
+                                                                    >onnect </tspan
                                                                     ><tspan
-                                                                    >Container</tspan
+                                                                    >Me</tspan
                                                                   ></text
                                                                 ></g
                                                               ></g
                                                               >
   </g
+                                                              ><g transform="translate(256.0,50.0)" k9-palette="connected" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [256.0,50.0]; rect-size: [114.0,60.0]; " id="a1" k9-format="portrait-text" k9-ui="drag delete edit align cascade connect autoconnect" k9-elem="actor"
                                                               >
-	 
-  </g
-                                                              >
-	 
-	 
-	 
-	 
-	 
-	 <g k9-ui="delete orphan edit" k9-elem="label" k9-texture="none" k9-palette="label" transform="translate(201.0,155.0)" k9-info="position: none; margin: 4.0 4.0 4.0 4.0; padding: 4.0 4.0 4.0 4.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: label; rect-pos: [201.0,155.0]; rect-size: [64.0,18.0]; "
-                                                              >
-    <g k9-info="" k9-indicator="pulse" k9-elem="back"
+		<g k9-info="" k9-indicator="pulse" k9-elem="back"
                                                                 >
-		<rect rx="5px" ry="5px" x="0" width="64.0" height="18.0" y="0"
+		<rect rx="5px" ry="5px" x="0" width="114.0" height="60.0" y="0"
                                                                   />
 	</g
                                                                   >
-    <g k9-elem="front" style="kite9-type: text; " transform="translate(3.5,3.5)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [205.0,159.0]; rect-size: [56.0,10.0]; "
-                                                                  ><g fill="rgb(51,51,0)" font-size="10px" font-family="'metropolis'" stroke="rgb(51,51,0)"
-                                                                    ><text x="0" xml:space="preserve" y="8.45" stroke="none"
-                                                                      ><tspan
-                                                                        >C</tspan
-                                                                        ><tspan
-                                                                        >onnect </tspan
-                                                                        ><tspan
-                                                                        >Me</tspan
-                                                                      ></text
-                                                                    ></g
-                                                                  ></g
+
+		<g k9-elem="depiction" k9-texture="solid" k9-shape="actor" transform="translate(42.0,5.0)" k9-info="position: none; margin: 5.0 5.0 5.0 5.0; padding: 10.0 10.0 10.0 10.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [298.0,55.0]; rect-size: [30.0,30.0]; "
                                                                   >
-  </g
-                                                                  ><g transform="translate(337.0,50.0)" k9-palette="connected" k9-info="position: none; margin: 10.0 10.0 10.0 10.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [337.0,50.0]; rect-size: [114.0,60.0]; " id="a1" k9-format="portrait-text" k9-ui="drag delete edit align cascade connect autoconnect" k9-elem="actor"
-                                                                  >
-		<g k9-info="" k9-indicator="pulse" k9-elem="back"
+			<g k9-info="" k9-indicator="pulse" k9-elem="back"
                                                                     >
-		<rect rx="5px" ry="5px" x="0" width="114.0" height="60.0" y="0"
+		<ellipse rx="5" ry="5" cx="15" cy="5"
+                                                                      />
+		<path xmlns="http://www.w3.org/2000/svg" d="M 5 10     H 25     v 7     h -5     L 25 30.0     h -7     L 15 22     L 13 30.0    h -7    L 10 17    h -5    z"
                                                                       />
 	</g
                                                                       >
-
-		<g k9-elem="depiction" k9-texture="solid" k9-shape="actor" transform="translate(42.0,5.0)" k9-info="position: none; margin: 5.0 5.0 5.0 5.0; padding: 10.0 10.0 10.0 10.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [379.0,55.0]; rect-size: [30.0,30.0]; "
+		</g
+                                                                      >
+		<g k9-elem="caption" k9-texture="none" k9-shape="rect" transform="translate(.0,40.0)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 5.0 5.0 5.0 5.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [256.0,90.0]; rect-size: [114.0,20.0]; "
                                                                       >
 			<g k9-info="" k9-indicator="pulse" k9-elem="back"
                                                                         >
-		<ellipse rx="5" ry="5" cx="15" cy="5"
-                                                                          />
-		<path xmlns="http://www.w3.org/2000/svg" d="M 5 10     H 25     v 7     h -5     L 25 30.0     h -7     L 15 22     L 13 30.0    h -7    L 10 17    h -5    z"
-                                                                          />
-	</g
-                                                                          >
-		</g
-                                                                          >
-		<g k9-elem="caption" k9-texture="none" k9-shape="rect" transform="translate(.0,40.0)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 5.0 5.0 5.0 5.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [337.0,90.0]; rect-size: [114.0,20.0]; "
-                                                                          >
-			<g k9-info="" k9-indicator="pulse" k9-elem="back"
-                                                                            >
 		<rect x="0" width="114.0" height="20.0" y="0"
-                                                                              />
+                                                                          />
 	</g
-                                                                              >
-			<g k9-ui="text" k9-elem="textarea" k9-shape="textarea" transform="translate(4.3,4.5)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [342.0,95.0]; rect-size: [104.0,10.0]; "
-                                                                              ><g fill="rgb(51,51,0)" font-size="10px" font-family="'metropolis'" stroke="rgb(51,51,0)"
-                                                                                ><text x="0" xml:space="preserve" y="8.45" stroke="none"
-                                                                                  ><tspan
-                                                                                    >L</tspan
-                                                                                    ><tspan
-                                                                                    >istener </tspan
-                                                                                    ><tspan
-                                                                                    >This </tspan
-                                                                                    ><tspan
-                                                                                    >is </tspan
-                                                                                    ><tspan
-                                                                                    >a </tspan
-                                                                                    ><tspan
-                                                                                    >thing</tspan
-                                                                                  ></text
-                                                                                ></g
-                                                                              ></g
-                                                                              >
+                                                                          >
+			<g k9-ui="text" k9-elem="textarea" k9-shape="textarea" transform="translate(4.3,4.5)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [261.0,95.0]; rect-size: [104.0,10.0]; "
+                                                                          ><g fill="rgb(51,51,0)" font-size="10px" font-family="'metropolis'" stroke="rgb(51,51,0)"
+                                                                            ><text x="0" xml:space="preserve" y="8.45" stroke="none"
+                                                                              ><tspan
+                                                                                >L</tspan
+                                                                                ><tspan
+                                                                                >istener </tspan
+                                                                                ><tspan
+                                                                                >This </tspan
+                                                                                ><tspan
+                                                                                >is </tspan
+                                                                                ><tspan
+                                                                                >a </tspan
+                                                                                ><tspan
+                                                                                >thing</tspan
+                                                                              ></text
+                                                                            ></g
+                                                                          ></g
+                                                                          >
 		</g
-                                                                              >
+                                                                          >
 	</g
-                                                                              >
+                                                                          >
 	 
 	 
   
   </g
-                                                                              >
+                                                                          >
 <defs
-                                                                              >
+                                                                          >
     <marker refX="3" refY="3" fill="none" orient="auto" id="indicator-arrow" markerHeight="15" preserveAspectRatio="xMidYMid meet" stroke="none" markerWidth="15"
-                                                                                >
+                                                                            >
         <path d="M0,0 L3,3 L0,6" k9-indicator="stroke"
-                                                                                  />
+                                                                              />
     </marker
-                                                                                  >
+                                                                              >
   <script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                  >document.params = { 'align-template-uri' : 'http://k9-server:8080/public/templates/links/common-links.adl#align', 
+                                                                              >document.params = { 'align-template-uri' : 'http://k9-server:8080/public/templates/links/common-links.adl#align', 
  'link-template-uri' : 'http://k9-server:8080/public/templates/links/common-links.adl#l1', 
  'label-template-uri' : 'http://k9-server:8080/public/templates/labels/common-labels.adl#label', 
  'cell-template-uri' : 'http://k9-server:8080/public/templates/grid/common-grid.adl#t1', 
  'palettes' : ['http://k9-server:8080/public/templates/links/common-links', 'link end', 'http://k9-server:8080/public/templates/uml/palette', 'connected', 'http://k9-server:8080/public/templates/common/containers/palette', 'connected'] 
  } 
 </script
-                                                                                  ><script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" type="module" xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                  >
+                                                                              ><script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" type="module" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                              >
 import "http://k9-server:8080/public/context/editor/editor.js";
 </script
-                                                                                ></defs
-                                                                              ></svg
-                                                                            >
+                                                                            ></defs
+                                                                          ></svg
+                                                                        >
