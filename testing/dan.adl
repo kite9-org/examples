@@ -45,11 +45,11 @@
 				<agent-artifact id="2">Agent</agent-artifact><internal-model-artifact id="3">Internal Model
 				</internal-model-artifact></container></group><risk class="invisibility" id="4">Invisibility Risk</risk><link id="5">
 				<from reference="id_0" id="5-1"/>
-				<to reference="4" id="5-3" shape="barbed-arrow"/>
+				<to reference="4" shape="barbed-arrow" id="5-3"/>
 			</link><link id="6">
 				<from reference="4" id="6-1"/>
-				<to reference="3" shape="barbed-arrow" id="6-3"/>
-			</link><align drawDirection="RIGHT" id="11">
+				<to reference="3" id="6-3" shape="barbed-arrow"/>
+			</link><align id="11" drawDirection="RIGHT">
 				<from reference="4" id="11-1"/>
 				<to reference="2" id="11-3"/>
 			</align></diagram>
