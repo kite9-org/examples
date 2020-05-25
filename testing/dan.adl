@@ -35,5 +35,6 @@
     
     
 
-  <agent-artifact id="2">Agent</agent-artifact></diagram>
+  <agent-artifact id="2">Agent</agent-artifact><internal-model-artifact id="3">Internal Model
+				</internal-model-artifact></diagram>
 </svg:svg>
