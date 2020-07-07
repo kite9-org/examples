@@ -41,13 +41,13 @@
     
 
   <link id="id_5">
-      <from class="space" reference="praco" id="e5"/>
+      <from reference="praco" class="space" id="e5"/>
       <to reference="id_6" id="e6"/>
-    </link><align id="8" drawDirection="UP">
+    </link><link id="id_3">
+      <from reference="id_2" id="e3"/>
+      <to shape="arrow" id="e4" reference="praco" class="space"/>
+    </link><align id="8">
 				<from reference="id_10" id="8-1"/>
 				<to reference="id_6" id="8-3"/>
-			</align><link id="id_3">
-      <from reference="id_2" id="e3"/>
-      <to shape="arrow" id="e4" class="space" reference="praco"/>
-    </link></diagram>
+			</align></diagram>
 </svg:svg>
