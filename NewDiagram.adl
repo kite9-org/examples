@@ -31,9 +31,9 @@
       Project
       Goal
     </risk></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="3-2"><container class="solid" id="5" layout="right">
-        <action id="praco">Practice</action></container></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="3-3"/></container><link id="id_3" drawDirection="RIGHT">
+        </container></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="3-3"><action id="praco">Practice</action></cell></container><link drawDirection="RIGHT" id="id_3">
       <from reference="id_2" id="e3"/>
-      <to shape="arrow" id="e4" reference="praco" class="space"/>
+      <to shape="arrow" id="e4" class="space" reference="praco"/>
     </link>
 
     
@@ -44,9 +44,9 @@
     
 
   <link id="id_5">
-      <from reference="praco" class="space" id="e5"/>
+      <from class="space" reference="praco" id="e5"/>
       <to reference="id_6" id="e6"/>
-    </link><align drawDirection="UP" id="8">
+    </link><align id="8" drawDirection="UP">
 				<from reference="id_10" id="8-1"/>
 				<to reference="id_6" id="8-3"/>
 			</align></diagram>
