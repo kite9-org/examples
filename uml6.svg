@@ -1,54 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="805.0px" zoomAndPan="magnify" contentStyleType="text/css" height="611.0px" preserveAspectRatio="xMidYMid meet" version="1.0"><metadata xmlns:md="http://www.kite9.org/schema/adl-metadata"><md:notification>Edit by Rob Moffat</md:notification><md:author><md:id>568673</md:id><md:name>Rob Moffat</md:name><md:icon>https://avatars2.githubusercontent.com/u/568673?v=4</md:icon><md:page>https://github.com/robmoffat</md:page></md:author><md:self>https://www.kite9.org/github-content/kite9-org/examples/uml6.svg?media=editor&amp;media=editor&amp;media=editor&amp;media=editor&amp;media=editor</md:self></metadata>
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="619.0px" zoomAndPan="magnify" contentStyleType="text/css" height="533.0px" preserveAspectRatio="xMidYMid meet" version="1.0"><metadata xmlns:md="http://www.kite9.org/schema/adl-metadata"><md:notification>Edit by Rob Moffat</md:notification><md:author><md:id>568673</md:id><md:name>Rob Moffat</md:name><md:icon>https://avatars2.githubusercontent.com/u/568673?v=4</md:icon><md:page>https://github.com/robmoffat</md:page></md:author><md:self>https://www.kite9.org/github-content/kite9-org/examples/uml6.svg?media=editor&amp;media=editor&amp;media=editor&amp;media=editor&amp;media=editor&amp;media=editor</md:self></metadata>
   <defs>
     <style type="text/css" xml:space="preserve"> 
        @import url("/public/templates/uml/uml.css");
        @import url("/public/context/editor/editor.css");
     </style>
     
-  <script xlink:actuate="onLoad" xlink:type="simple" id="adl:markup" xlink:show="other" type="text/adl-svg+xml;base64" xmlns:xlink="http://www.w3.org/1999/xlink">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnOnN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb250ZW50U2NyaXB0VHlwZT0idGV4dC9lY21hc2NyaXB0IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCIgdmVyc2lvbj0iMS4wIj4KICA8c3ZnOmRlZnM+CiAgICA8c3ZnOnN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWw6c3BhY2U9InByZXNlcnZlIj4gCiAgICAgICBAaW1wb3J0IHVybCgiL3B1YmxpYy90ZW1wbGF0ZXMvdW1sL3VtbC5jc3MiKTsKICAgICAgIEBpbXBvcnQgdXJsKCIvcHVibGljL2NvbnRleHQvZWRpdG9yL2VkaXRvci5jc3MiKTsKICAgIDwvc3ZnOnN0eWxlPgogICAgCiAgPC9zdmc6ZGVmcz4KICA8ZGlhZ3JhbSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9ImRpYSI+CgoJCgogICAgIDxncm91cCBpZD0iNiI+CgogICAgICA8L2dyb3VwPjxncm91cCBpZD0iNSI+CgogICAgICA8L2dyb3VwPgogICAgIAoJIDx1c2UtY2FzZSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9IjIiPkh1bmdyeSBIb3JzZTwvdXNlLWNhc2U+CgkgCgkgCgkgCgkgCgkgCgkgPGxhYmVsPkNvbm5lY3QgTWU8L2xhYmVsPgoJIAoJIAogIDwvZGlhZ3JhbT4KPC9zdmc6c3ZnPg==</script></defs>
-  <g k9-contains="connected" k9-rounding="0pt" k9-shape="rect" k9-texture="background" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 266.66668701171875 266.66668701171875 266.66668701171875 266.66668701171875; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: diagram; rect-pos: [0.0,0.0]; rect-size: [805.0,611.0]; " id="dia" k9-ui="layout xml label" k9-elem="diagram">
+  <script xlink:actuate="onLoad" xlink:type="simple" id="adl:markup" xlink:show="other" type="text/adl-svg+xml;base64" xmlns:xlink="http://www.w3.org/1999/xlink">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnOnN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjb250ZW50U2NyaXB0VHlwZT0idGV4dC9lY21hc2NyaXB0IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCIgdmVyc2lvbj0iMS4wIj4KICA8c3ZnOmRlZnM+CiAgICA8c3ZnOnN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWw6c3BhY2U9InByZXNlcnZlIj4gCiAgICAgICBAaW1wb3J0IHVybCgiL3B1YmxpYy90ZW1wbGF0ZXMvdW1sL3VtbC5jc3MiKTsKICAgICAgIEBpbXBvcnQgdXJsKCIvcHVibGljL2NvbnRleHQvZWRpdG9yL2VkaXRvci5jc3MiKTsKICAgIDwvc3ZnOnN0eWxlPgogICAgCiAgPC9zdmc6ZGVmcz4KICA8ZGlhZ3JhbSB4bWxucz0iaHR0cDovL3d3dy5raXRlOS5vcmcvc2NoZW1hL2FkbCIgaWQ9ImRpYSI+CgoJCgogICAgIAogICAgIAoJIAoJIAoJIAoJIAoJIAoJIAoJIDxsYWJlbD5Db25uZWN0IE1lPC9sYWJlbD4KCSAKCSAKICA8L2RpYWdyYW0+Cjwvc3ZnOnN2Zz4=</script></defs>
+  <g k9-contains="connected" k9-rounding="0pt" k9-shape="rect" k9-texture="background" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 266.66668701171875 266.66668701171875 266.66668701171875 266.66668701171875; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: diagram; rect-pos: [0.0,0.0]; rect-size: [619.0,533.0]; " id="dia" k9-ui="layout xml label" k9-elem="diagram">
     <g k9-info="" k9-indicator="pulse" k9-elem="back">
-		<rect x="0" width="805.0" height="611.0" y="0"/>
+		<rect x="0" width="619.0" height="533.0" y="0"/>
 	</g>
     <g k9-info="" k9-elem="indicator"/>
     
 
 	
 
-     <g k9-contains="connected" transform="translate(266.0,266.0)" k9-palette="connected" k9-rounding="15pt" k9-texture="none" k9-info="position: none; margin: 26.666667938232422 26.666667938232422 26.666667938232422 26.666667938232422; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [266.0,266.0]; rect-size: [53.0,53.0]; " id="6" k9-ui="drag delete align connect layout" k9-elem="group">
-    <g k9-info="" k9-indicator="pulse stroke" k9-elem="back">
-		<rect rx="15pt" ry="15pt" x="0" width="53.0" height="53.0" y="0"/>
-	</g>
-    <g k9-info="" k9-elem="indicator"/>
-    
-
-      
-  </g><g k9-contains="connected" transform="translate(345.0,266.0)" k9-palette="connected" k9-rounding="15pt" k9-texture="none" k9-info="position: none; margin: 26.666667938232422 26.666667938232422 26.666667938232422 26.666667938232422; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [345.0,266.0]; rect-size: [53.0,53.0]; " id="5" k9-ui="drag delete align connect layout" k9-elem="group">
-    <g k9-info="" k9-indicator="pulse stroke" k9-elem="back">
-		<rect rx="15pt" ry="15pt" x="0" width="53.0" height="53.0" y="0"/>
-	</g>
-    <g k9-info="" k9-elem="indicator"/>
-    
-
-      
-  </g>
-     
-	 <g transform="translate(424.0,279.0)" k9-palette="connected" k9-shape="use-case" k9-texture="solid" k9-info="position: none; margin: 13.333333969116211 13.333333969116211 13.333333969116211 13.333333969116211; padding: 13.333333969116211 13.333333969116211 13.333333969116211 13.333333969116211; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [424.0,279.0]; rect-size: [115.0,41.0]; " id="2" k9-format="inline-text" k9-ui="drag edit delete align connect insert autoconnect" k9-elem="use-case">
-		<g k9-info="" k9-indicator="pulse" k9-elem="back">
-		<ellipse rx="57.5" ry="20.5" cx="57.5" cy="20.5"/>
-	</g>
-		<g k9-ui="orphan edit" k9-elem="textarea" k9-shape="textarea" transform="translate(11.7,14.0)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [437.0,292.0]; rect-size: [89.0,15.0]; "><g fill="rgb(51,51,0)" font-size="13.3333px" stroke="rgb(51,51,0)"><text x="0" xml:space="preserve" y="11.3333" stroke="none"><tspan>H</tspan><tspan>ungry </tspan><tspan>Horse</tspan></text></g></g>
-	</g>
-	 
-	 
-	 
-	 
-	 
-	 <g k9-ui="delete orphan edit" k9-elem="label" k9-texture="none" k9-palette="label" transform="translate(359.0,345.0)" k9-info="position: none; margin: 5.333333492279053 5.333333492279053 5.333333492279053 5.333333492279053; padding: 5.333333492279053 5.333333492279053 5.333333492279053 5.333333492279053; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: label; rect-pos: [359.0,345.0]; rect-size: [87.0,266.0]; ">
+     <g k9-ui="delete orphan edit" k9-elem="label" k9-texture="none" k9-palette="label" transform="translate(266.0,267.0)" k9-info="position: none; margin: 5.333333492279053 5.333333492279053 5.333333492279053 5.333333492279053; padding: 5.333333492279053 5.333333492279053 5.333333492279053 5.333333492279053; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: label; rect-pos: [266.0,267.0]; rect-size: [87.0,266.0]; ">
     <g k9-info="" k9-indicator="pulse" k9-elem="back">
 		<rect rx="5pt" ry="5pt" x="0" width="87.0" height="266.0" y="0"/>
 	</g>
-    <g k9-elem="front" style="kite9-type: text; " transform="translate(4.2,127.0)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [364.0,471.0]; rect-size: [77.0,15.0]; "><g fill="rgb(51,51,0)" font-size="13.3333px" stroke="rgb(51,51,0)"><text x="0" xml:space="preserve" y="11.3333" stroke="none"><tspan>C</tspan><tspan>onnect </tspan><tspan>Me</tspan></text></g></g>
+    <g k9-elem="front" style="kite9-type: text; " transform="translate(4.2,127.0)" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [271.0,393.0]; rect-size: [77.0,15.0]; "><g fill="rgb(51,51,0)" font-size="13.3333px" stroke="rgb(51,51,0)"><text x="0" xml:space="preserve" y="11.3333" stroke="none"><tspan>C</tspan><tspan>onnect </tspan><tspan>Me</tspan></text></g></g>
   </g>
 	 
 	 
