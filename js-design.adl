@@ -35,7 +35,7 @@
 			</class><class id="10" k9-type="small">
 				<class-name id="10-0">ensure</class-name>
 			</class><label id="6-0">bundles</label></package></group><package id="11"><class id="23" k9-type="small">
-				<class-name id="23-0">Class</class-name>
+				<class-name id="23-0">command</class-name>
 			</class><label id="11-0">classes</label></package><package id="12"><label id="12-0">behaviours</label></package><package id="13"><class id="18" k9-type="small">
 				<class-name id="18-0">editor</class-name>
 			</class><class id="19" k9-type="small">
@@ -45,20 +45,20 @@
 			</class><label id="13-0">templates</label></package><link id="14">
 				<from reference="11" id="14-0"/>
 				
-			<to reference="6" id="14-1" shape="barbed-arrow"/></link><link id="15">
+			<to reference="6" shape="barbed-arrow" id="14-1"/></link><link id="15">
 				<from reference="11" id="15-0"/>
 				
-			<to reference="2" id="15-1" shape="barbed-arrow"/></link><link id="16">
+			<to reference="2" shape="barbed-arrow" id="15-1"/></link><link id="16">
 				<from reference="12" id="16-0"/>
-				<to reference="11" id="16-1" shape="barbed-arrow"/>
+				<to reference="11" shape="barbed-arrow" id="16-1"/>
 			</link><link id="17">
 				<from reference="13" id="17-0"/>
-				<to reference="12" shape="barbed-arrow" id="17-1"/>
+				<to reference="12" id="17-1" shape="barbed-arrow"/>
 			</link><link id="21">
 				<from reference="19" id="21-0"/>
-				<to reference="18" id="21-1" shape="barbed-arrow"/>
+				<to reference="18" shape="barbed-arrow" id="21-1"/>
 			</link><link id="22">
 				<from reference="20" id="22-0"/>
-				<to reference="18" id="22-1" shape="barbed-arrow"/>
+				<to reference="18" shape="barbed-arrow" id="22-1"/>
 			</link></diagram>
 </svg:svg>
