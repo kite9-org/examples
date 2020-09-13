@@ -32,5 +32,7 @@
 				<class-name id="7-0">screen</class-name>
 			</class><class id="8" k9-type="small">
 				<class-name id="8-0">api</class-name>
+			</class><class id="10" k9-type="small">
+				<class-name id="10-0">Class</class-name>
 			</class><label id="6-0">bundles</label></package></group></diagram>
 </svg:svg>
