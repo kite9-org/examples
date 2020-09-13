@@ -34,5 +34,5 @@
 				<class-name id="8-0">api</class-name>
 			</class><class id="10" k9-type="small">
 				<class-name id="10-0">ensure</class-name>
-			</class><label id="6-0">bundles</label></package></group><package id="11"><label id="11-0">classes</label></package><package id="12"><label id="12-0">Package</label></package></diagram>
+			</class><label id="6-0">bundles</label></package></group><package id="11"><label id="11-0">classes</label></package><package id="12"><label id="12-0">behaviours</label></package></diagram>
 </svg:svg>
