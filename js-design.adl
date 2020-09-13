@@ -9,16 +9,7 @@
 
 	
 
-     <class id="c">
-     	<stereotype id="c2">owner</stereotype>
-     	<class-name id="c3">Some Class</class-name>
-     	<properties id="c4">
-     		<property id="c5">A Property</property>
-     	</properties>
-     	<methods id="c6">
-     		<method id="c7">call me</method>
-     	</methods>
-     </class>
+     
      
 	 <uml-container id="c8">
 	 	<package id="p1"><label>A Package</label></package>
@@ -34,10 +25,7 @@
 	 	<from reference="a1" id="l1-from"/>
 	 	<to reference="uc1" id="l1-to"/>
 	 </link>
-	 <link id="l2">
-	 	<from reference="c4" id="l2-from"/>
-	 	<to reference="p1" id="l2-to"/>
-	 </link>
+	 
 	 
   </diagram>
 </svg:svg>
