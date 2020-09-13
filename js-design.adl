@@ -36,9 +36,9 @@
 				<class-name id="10-0">ensure</class-name>
 			</class><label id="6-0">bundles</label></package></group><package id="11"><label id="11-0">classes</label></package><package id="12"><label id="12-0">behaviours</label></package><package id="13"><label id="13-0">templates</label></package><link id="14">
 				<from reference="11" id="14-0"/>
-				<to reference="6" id="14-1"/>
-			</link><link id="15">
+				
+			<to reference="6" id="14-1" shape="barbed-arrow"/></link><link id="15">
 				<from reference="11" id="15-0"/>
-				<to reference="2" id="15-1"/>
-			</link></diagram>
+				
+			<to reference="2" id="15-1" shape="barbed-arrow"/></link></diagram>
 </svg:svg>
