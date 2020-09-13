@@ -20,7 +20,9 @@
 	 
 	 
 	 
-  <package id="2"><class id="3" k9-type="small">
+  <group id="9">
+
+      <package id="2"><class id="3" k9-type="small">
 				<class-name id="3-0">Anime</class-name>
 			</class><class id="4" k9-type="small">
 				<class-name id="4-0">Normform</class-name>
@@ -30,5 +32,5 @@
 				<class-name id="7-0">screen</class-name>
 			</class><class id="8" k9-type="small">
 				<class-name id="8-0">api</class-name>
-			</class><label id="6-0">Package</label></package></diagram>
+			</class><label id="6-0">Package</label></package></group></diagram>
 </svg:svg>
