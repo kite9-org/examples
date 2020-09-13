@@ -28,5 +28,7 @@
 				<class-name id="5-0">hint</class-name>
 			</class><label id="2-0">external</label></package><package id="6"><class id="7" k9-type="small">
 				<class-name id="7-0">screen</class-name>
+			</class><class id="8" k9-type="small">
+				<class-name id="8-0">Class</class-name>
 			</class><label id="6-0">Package</label></package></diagram>
 </svg:svg>
