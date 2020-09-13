@@ -20,7 +20,5 @@
 	 
 	 
 	 
-  <package id="2"><class id="3" k9-type="small">
-				<class-name>Class</class-name>
-			</class><label id="2-0">external</label></package></diagram>
+  <package id="2"><label id="2-0">external</label></package></diagram>
 </svg:svg>
