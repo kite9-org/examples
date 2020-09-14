@@ -11,7 +11,7 @@
 
     
 
-    <risk class="methodology" id="id_0"> Software Methodology<vote id="2" from="robmoffat"/></risk><arrow id="id_2">employs</arrow>
+    <risk class="methodology" id="id_0"> Software Methodology<vote from="robmoffat" id="2"/></risk><arrow id="id_2">employs</arrow>
 
     
     
@@ -22,15 +22,15 @@
     <mitigated id="12"><risk class="attendant" id="id_8">
       Risk to 
       manage
-    <vote id="7" from="robmoffat"/></risk></mitigated><arrow id="4">Link Bodies</arrow>
+    <vote from="robmoffat" id="7"/></risk></mitigated>
 
     
 
     
 
-    <link id="id_3" drawDirection="RIGHT">
+    <arrow id="4">Link Bodies</arrow><link drawDirection="RIGHT" id="id_3">
       <from reference="id_2" id="e3"/>
-      <to shape="arrow" id="e4" reference="praco" class="space"/>
+      <to shape="arrow" id="e4" class="space" reference="praco"/>
     </link>
 
     
@@ -40,24 +40,24 @@
     
     
 
-  <link id="id_1" drawDirection="RIGHT">
-      <from reference="id_0" class="space" id="e1"/>
+  <link drawDirection="RIGHT" id="id_1">
+      <from class="space" reference="id_0" id="e1"/>
       <to reference="id_2" id="e2"/>
-    </link><link drawDirection="UP" id="25">
-				<from reference="4" id="25-0"/>
-				<to reference="id_10" shape="arrow" id="25-1"/>
-			</link><risk class="goal" id="id_10">
+    </link><risk class="goal" id="id_10">
       Project
       Goal
-    <vote from="robmoffat" id="3"/></risk><action id="praco">Practice
+    <vote id="3" from="robmoffat"/></risk><action id="praco">Practice
 
 - a
 - b 
-- c<vote from="robmoffat" id="6"/></action><align drawDirection="RIGHT" id="11-0">
+- c<vote id="6" from="robmoffat"/></action><align id="11-0" drawDirection="RIGHT">
 				<from reference="praco" id="11-0-0"/>
 				<to reference="id_8" id="11-0-1"/>
-			</align><align drawDirection="RIGHT" id="11-1">
+			</align><align id="11-1" drawDirection="RIGHT">
 				<from reference="id_8" id="11-1-0"/>
 				<to reference="id_10" id="11-1-1"/>
-			</align></diagram>
+			</align><link id="25" drawDirection="LEFT">
+				<from reference="4" id="25-0"/>
+				<to reference="id_10" id="25-1" shape="arrow"/>
+			</link></diagram>
 </svg:svg>
