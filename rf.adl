@@ -11,7 +11,7 @@
 
     
 
-    <risk class="methodology" id="id_0"> Software Methodology</risk><arrow id="id_2">employs</arrow>
+    <risk class="methodology" id="id_0"> Software Methodology<vote id="2" from="robmoffat"/></risk><arrow id="id_2">employs</arrow>
 
     <arrow id="id_6">manages</arrow><action id="praco">Practice
 
@@ -29,15 +29,15 @@
     </risk></mitigated><risk class="goal" id="id_10">
       Project
       Goal
-    <vote id="3" from="robmoffat"/></risk><arrow id="4">Link Bodies</arrow>
+    <vote from="robmoffat" id="3"/></risk><arrow id="4">Link Bodies</arrow>
 
     
 
     
 
-    <link drawDirection="RIGHT" id="id_3">
+    <link id="id_3" drawDirection="RIGHT">
       <from reference="id_2" id="e3"/>
-      <to shape="arrow" id="e4" class="space" reference="praco"/>
+      <to shape="arrow" id="e4" reference="praco" class="space"/>
     </link>
 
     
@@ -47,23 +47,23 @@
     
     
 
-  <link drawDirection="RIGHT" id="15">
-      <from class="space" reference="id_8" id="15-0"/>
+  <link id="15" drawDirection="RIGHT">
+      <from reference="id_8" class="space" id="15-0"/>
       <to reference="4" id="15-1"/>
-    </link><link drawDirection="RIGHT" id="id_7">
+    </link><link id="id_7" drawDirection="RIGHT">
       <from reference="id_6" id="e7"/>
-      <to shape="arrow" id="e8" class="space" reference="id_8"/>
-    </link><link drawDirection="RIGHT" id="id_1">
-      <from class="space" reference="id_0" id="e1"/>
+      <to shape="arrow" id="e8" reference="id_8" class="space"/>
+    </link><link id="id_1" drawDirection="RIGHT">
+      <from reference="id_0" class="space" id="e1"/>
       <to reference="id_2" id="e2"/>
-    </link><link drawDirection="DOWN" id="id_5">
-      <from class="space" reference="praco" id="e5"/>
+    </link><link id="id_5" drawDirection="DOWN">
+      <from reference="praco" class="space" id="e5"/>
       <to reference="id_6" id="e6"/>
-    </link><align drawDirection="RIGHT" id="7-0">
+    </link><align id="7-0" drawDirection="RIGHT">
 				<from reference="praco" id="7-0-0"/>
 				<to reference="id_10" id="7-0-1"/>
-			</align><link id="25" drawDirection="UP">
+			</align><link drawDirection="UP" id="25">
 				<from reference="4" id="25-0"/>
-				<to reference="id_10" id="25-1" shape="arrow"/>
+				<to reference="id_10" shape="arrow" id="25-1"/>
 			</link></diagram>
 </svg:svg>
