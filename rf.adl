@@ -11,33 +11,33 @@
 
     
 
-    <risk class="methodology" id="id_0"> Software Methodology<vote from="robmoffat" id="2"/></risk><arrow id="id_2">employs</arrow>
+    <risk class="methodology" id="id_0"> Software Methodology<vote id="2" from="robmoffat"/></risk><arrow id="id_2">employs</arrow>
 
-    <action id="praco">Practice
+    
+    
+    
+
+    
+
+    <mitigated id="12"/><action id="praco">Practice
 
 - a
 - b 
-- c<vote id="6" from="robmoffat"/></action>
-    
-    
-
-    
-
-    <mitigated id="12"><risk class="attendant" id="id_8">
+- c<vote from="robmoffat" id="6"/></action><risk class="attendant" id="id_8">
       Risk to 
       manage
-    <vote from="robmoffat" id="7"/></risk></mitigated><risk class="goal" id="id_10">
+    <vote id="7" from="robmoffat"/></risk><risk class="goal" id="id_10">
       Project
       Goal
-    <vote id="3" from="robmoffat"/></risk><arrow id="4">Link Bodies</arrow>
+    <vote from="robmoffat" id="3"/></risk><arrow id="4">Link Bodies</arrow>
 
     
 
     
 
-    <link drawDirection="RIGHT" id="id_3">
+    <link id="id_3" drawDirection="RIGHT">
       <from reference="id_2" id="e3"/>
-      <to shape="arrow" id="e4" class="space" reference="praco"/>
+      <to shape="arrow" id="e4" reference="praco" class="space"/>
     </link>
 
     
@@ -47,11 +47,11 @@
     
     
 
-  <link drawDirection="RIGHT" id="id_1">
-      <from class="space" reference="id_0" id="e1"/>
+  <link id="id_1" drawDirection="RIGHT">
+      <from reference="id_0" class="space" id="e1"/>
       <to reference="id_2" id="e2"/>
-    </link><link id="25" drawDirection="UP">
+    </link><link drawDirection="UP" id="25">
 				<from reference="4" id="25-0"/>
-				<to reference="id_10" id="25-1" shape="arrow"/>
+				<to reference="id_10" shape="arrow" id="25-1"/>
 			</link></diagram>
 </svg:svg>
