@@ -22,9 +22,9 @@
      
      
      
-     <link drawDirection="RIGHT" id="link2">
-      <from reference="b1" class="hoverable selectable" id="link2-from"/>
-      <to class="hoverable selectable" reference="b2" id="link2-to"/>
+     <link id="link2" drawDirection="RIGHT">
+      <from class="hoverable selectable" reference="b1" id="link2-from"/>
+      <to reference="b2" class="hoverable selectable" id="link2-to"/>
      </link>
 
   </diagram>
