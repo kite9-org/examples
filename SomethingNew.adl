@@ -24,8 +24,8 @@
      
      
 
-  <g class="box" id="b3"><textarea id="t3">b3</textarea></g><link id="link2">
-      <from class="hoverable selectable" reference="b1" id="link2-from"/>
-      <to reference="b2" class="hoverable selectable" id="link2-to"/>
+  <g class="box" id="b3"><textarea id="t3">b3sad</textarea></g><link id="link2">
+      <from reference="b1" class="hoverable selectable" id="link2-from"/>
+      <to class="hoverable selectable" reference="b2" id="link2-to"/>
      </link></diagram>
 </svg:svg>
