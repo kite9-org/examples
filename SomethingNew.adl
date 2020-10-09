@@ -7,7 +7,7 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia" layout="down">
 
-     <g class="box" id="b1"><textarea id="t1">b1</textarea><g class="box" id="b3"><textarea id="t3">b3</textarea></g></g>
+     <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
      
      <container id="bigbox" layout="grid">
        
@@ -17,7 +17,7 @@
       <textarea id="2-0">Box</textarea>
     </g></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="5-3"><g class="box" id="3">
       <textarea id="3-0">Box</textarea>
-    </g></cell><cell style="kite9-occupies-x: 2 2;&#10;kite9-occupies-y: 0 0;&#10;" id="5-1"/><cell style="kite9-occupies-x: 3 3;&#10;kite9-occupies-y: 0 0;&#10;" id="5-0"/><cell style="kite9-occupies-x: 4 4;&#10;kite9-occupies-y: 0 0;&#10;" id="5-2"/></container>
+    </g></cell><cell style="kite9-occupies-x: 2 2;&#10;kite9-occupies-y: 0 0;&#10;" id="5-1"/><cell style="kite9-occupies-x: 3 3;&#10;kite9-occupies-y: 0 0;&#10;" id="5-0"><g class="box" id="b3"><textarea id="t3">b3</textarea></g></cell><cell style="kite9-occupies-x: 4 4;&#10;kite9-occupies-y: 0 0;&#10;" id="5-2"/></container>
      
      
      
@@ -25,7 +25,7 @@
      
 
   <link id="link2">
-      <from class="hoverable selectable" reference="b1" id="link2-from"/>
-      <to reference="b2" class="hoverable selectable" id="link2-to"/>
+      <from reference="b1" class="hoverable selectable" id="link2-from"/>
+      <to class="hoverable selectable" reference="b2" id="link2-to"/>
      </link></diagram>
 </svg:svg>
