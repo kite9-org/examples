@@ -13,16 +13,18 @@
        
        
        
-     <g class="box" id="2">
+     <g class="box" id="3">
+      <textarea id="3-0">Box</textarea>
+    </g><g class="box" id="2">
       <textarea id="2-0">Box</textarea>
     <g class="box" id="b2"><textarea id="t2">b2sad</textarea></g></g></container>
      
      
      
      
-     <link id="link2" drawDirection="RIGHT">
-      <from class="hoverable selectable" reference="b1" id="link2-from"/>
-      <to reference="b2" class="hoverable selectable" id="link2-to"/>
+     <link drawDirection="RIGHT" id="link2">
+      <from reference="b1" class="hoverable selectable" id="link2-from"/>
+      <to class="hoverable selectable" reference="b2" id="link2-to"/>
      </link>
 
   </diagram>
