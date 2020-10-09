@@ -13,13 +13,13 @@
        
        
        
-     <cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 0 0;&#10;" id="1"><g class="box" id="b1"><textarea id="t1">b1</textarea></g></cell><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 1 1;&#10;" id="4-1"><g class="box" id="b2"><textarea id="t2">b2sad</textarea></g></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="4-2"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="5-3"><g class="box" id="2">
+     <cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 0 0;&#10;" id="1"/><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 1 1;&#10;" id="4-1"><g class="box" id="b2"><textarea id="t2">b2sad</textarea></g></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="4-2"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="5-3"><g class="box" id="2">
       <textarea id="2-0">Box</textarea>
     </g></cell><cell style="kite9-occupies-x: 4 4;&#10;kite9-occupies-y: 0 0;&#10;" id="5-0"><g class="box" id="4">
       <textarea id="4-0">Box</textarea>
-    </g></cell><cell style="kite9-occupies-x: 4 4;&#10;kite9-occupies-y: 1 1;&#10;" id="5-1"><g class="box" id="b3"><textarea id="t3">b3sad</textarea></g></cell><cell xmlns="http://www.kite9.org/schema/adl" style="kite9-occupies-x: 3 3;&#10;kite9-occupies-y: 0 0;&#10;" id="5"><g class="box" id="3">
+    </g></cell><cell style="kite9-occupies-x: 4 4;&#10;kite9-occupies-y: 1 1;&#10;" id="5-1"><g class="box" id="b3"><textarea id="t3">b3sad</textarea></g></cell><cell style="kite9-occupies-x: 3 3;&#10;kite9-occupies-y: 0 0;&#10;" xmlns="http://www.kite9.org/schema/adl" id="5"><g class="box" id="b1"><textarea id="t1">b1</textarea></g><g class="box" id="3">
       <textarea id="3-0">Box</textarea>
-    </g></cell><cell xmlns="http://www.kite9.org/schema/adl" style="kite9-occupies-x: 3 3;&#10;kite9-occupies-y: 1 1;&#10;" id="6"/></container>
+    </g></cell><cell style="kite9-occupies-x: 3 3;&#10;kite9-occupies-y: 1 1;&#10;" xmlns="http://www.kite9.org/schema/adl" id="6"/></container>
      
      
      
@@ -27,7 +27,7 @@
      
 
   <link id="link2">
-      <from reference="b1" class="hoverable selectable" id="link2-from"/>
-      <to class="hoverable selectable" reference="b2" id="link2-to"/>
+      <from class="hoverable selectable" reference="b1" id="link2-from"/>
+      <to reference="b2" class="hoverable selectable" id="link2-to"/>
      </link></diagram>
 </svg:svg>
