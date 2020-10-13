@@ -13,10 +13,10 @@
 
     <group id="10">
 
-      <risk class="generic" id="id_0" href="/github/kite9-org/examples/.kite9/uploads/noun_cloud%20check%20mark_1060125.svg">
+      <risk class="generic" href="/github/kite9-org/examples/.kite9/uploads/noun_cloud%20check%20mark_1060125.svg" id="id_0">
       <code id="id_0c">Method</code>
       <title id="id_0t">Software Methodology</title>
-    <vote id="3" from="robmoffat"/></risk><risk href="/github/kite9-org/examples/.kite9/uploads/noun_confused%20person_2389774.png" id="5">
+    <vote from="robmoffat" id="3"/></risk><risk id="5" href="/github/kite9-org/examples/.kite9/uploads/noun_confused%20person_2389774.png">
 						<code>F-A</code>
 						<title>Feature Access Risk</title>
 					</risk><arrow id="id_2">employs
@@ -35,57 +35,54 @@ to</arrow></group>
     
 
     <container class="solid" id="4">
-        <action id="praco">Practice makes perfect<vote from="robmoffat" id="8"/></action><risk class="generic" id="id_8" href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png">
+        <action id="praco">Practice makes perfect<vote id="8" from="robmoffat"/></action><risk class="generic" href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png" id="id_8">
       <code id="id_8c">Attendant</code>
       <title id="id_8t">Risk to 
       manage</title>
-    </risk><arrow id="id_9">obstructing</arrow><risk class="generic" href="/github/kite9-org/examples/.kite9/uploads/noun_confused%20person_2389774.png" id="2">
+    </risk><arrow id="id_9">obstructing</arrow><risk class="generic" id="2" href="/github/kite9-org/examples/.kite9/uploads/noun_confused%20person_2389774.png">
 				  <code>Attendant</code>
 				  <title>Some Risk</title>
-				</risk><risk class="generic" id="id_10" href="/github/kite9-org/examples/.kite9/uploads/noun_Up%20vote_1287235.svg">
+				</risk><risk class="generic" href="/github/kite9-org/examples/.kite9/uploads/noun_Up%20vote_1287235.svg" id="id_10">
       <code id="id_10g">Vote</code>
       <title id="id10t">Project
       Goal</title>
-    </risk><label id="9">Drowning in the night</label></container><link id="id_1" drawDirection="RIGHT">
-      <from reference="id_0" class="space" id="e1"/>
+    </risk><label id="9">Drowning in the night</label></container><link drawDirection="RIGHT" id="id_1">
+      <from class="space" reference="id_0" id="e1"/>
       <to reference="id_2" id="e2"/>
     </link>
 
-    <link id="id_3" drawDirection="RIGHT">
+    <link drawDirection="RIGHT" id="id_3">
       <from reference="id_2" id="e3"/>
-      <to shape="arrow" id="e4" reference="praco" class="space"/>
+      <to shape="arrow" id="e4" class="space" reference="praco"/>
     </link>
 
     
 
     
 
-    <link id="id_15" drawDirection="RIGHT">
-      <from reference="id_8" class="space" id="e9"/>
+    <link drawDirection="RIGHT" id="id_15">
+      <from class="space" reference="id_8" id="e9"/>
       <to reference="id_9" id="e10"/>
     </link>
-    <link id="id_17" drawDirection="RIGHT">
+    <link drawDirection="RIGHT" id="id_17">
       <from reference="id_9" id="e11"/>
-      <to shape="arrow" id="e12" reference="id_10" class="space"/>
+      <to shape="arrow" id="e12" class="space" reference="id_10"/>
     </link>
 
-  <align drawDirection="RIGHT" id="6-0">
+  <align id="6-0" drawDirection="RIGHT">
 				<from reference="praco" id="6-0-0"/>
 				<to reference="id_8" id="6-0-1"/>
 			</align><link id="12">
 				<from reference="2" id="12-0"/>
-				<to reference="4" id="12-1" shape="barbed-arrow"/>
+				<to reference="4" shape="barbed-arrow" id="12-1"/>
 			</link><link id="14">
 				<from reference="2" id="14-0"/>
-				<to reference="4" shape="barbed-arrow" id="14-1"/>
-			</link><align id="15" drawDirection="UP">
+				<to reference="4" id="14-1" shape="barbed-arrow"/>
+			</link><align drawDirection="UP" id="15">
 				<from reference="2" id="15-0"/>
 				<to reference="id_9" id="15-1"/>
-			</align><link id="13" drawDirection="UP">
+			</align><link drawDirection="UP" id="13">
 				<from reference="5" id="13-0"/>
-				<to reference="id_0" id="13-1" shape="barbed-arrow"/>
-			</link><align id="16" drawDirection="UP">
-				<from reference="5" id="16-0"/>
-				<to reference="id_0" id="16-1"/>
-			</align></diagram>
+				<to reference="id_0" shape="barbed-arrow" id="13-1"/>
+			</link></diagram>
 </svg:svg>
