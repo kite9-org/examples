@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><svg:svg xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" preserveAspectRatio="xMidYMid" version="1.0">
   <svg:defs>
     <svg:style type="text/css" xml:space="preserve"> 
-    @import url(risk-first.css);
+    @import url(irisk-first.css);
     </svg:style>
     
   </svg:defs>
