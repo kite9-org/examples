@@ -11,9 +11,9 @@
 @import url('/public/templates/editor/editor.css');
 @import url('/public/templates/votes/votes.css');
 
-@script url('risk-first.js');
+@script url('/public/templates/risk-first/risk-first.js');
 
-@defs url('template.xml');
+@defs url('/public/templates/risk-first/template.xml');
 
 @params {
   palettes: 
