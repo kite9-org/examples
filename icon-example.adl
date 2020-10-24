@@ -7,13 +7,7 @@
   </svg:defs>
   <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
 
-     <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
-     
-     <container id="bigbox" layout="horizontal">
-       <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
-       
-       <g class="box" id="b3"><textarea id="t3">b3</textarea></g>
-     </container>
+   
      
   </diagram>
 </svg:svg>
