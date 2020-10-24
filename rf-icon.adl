@@ -6,7 +6,7 @@
     
   </svg:defs>
 
-  <diagram xmlns="http://www.kite9.org/schema/adl" name="Pattern Language" id="diagram-129">
+  <diagram xmlns="http://www.kite9.org/schema/adl" name="Pattern Language" id="diagram-129" class="bg2">
 
     <image-artifact imgsrc="/public/templates/risk-first/posts/scrum.svg">Fixing Scrum</image-artifact>
   </diagram>
