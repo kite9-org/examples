@@ -9,9 +9,14 @@
 
    
      
-  <g class="box" xmlns="http://www.kite9.org/schema/adl" id="3">
+  <g xmlns="http://www.kite9.org/schema/adl" class="box" id="3">
       <textarea style="font-size: 20pt;" id="3-0">A</textarea>
-    </g><g id="2" style="fill: green; " class="box" xmlns="http://www.kite9.org/schema/adl">
+    <g id="11" style="fill: #AA5500; " class="box" xmlns="http://www.kite9.org/schema/adl">
+      <textarea id="11-0">B</textarea>
+    </g></g><g id="2" style="fill: green; " class="box" xmlns="http://www.kite9.org/schema/adl">
       <textarea id="2-0">B</textarea>
-    </g></diagram>
+    </g><link xmlns="http://www.kite9.org/schema/adl" drawDirection="DOWN" id="10">
+				<from reference="3" id="10-0" shape="strike"/>
+				<to reference="2" id="10-1" shape="arrow"/>
+			</link></diagram>
 </svg:svg>
