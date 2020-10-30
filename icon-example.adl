@@ -9,31 +9,31 @@
 
    
      
-  <container class="dotted" id="59" layout="grid">
-        <cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 0 0;&#10;" id="60-0"><container class="solid" id="58" layout="right">
-        <g class="box" xmlns="http://www.kite9.org/schema/adl" id="3">
+  <container class="solid" id="58" layout="right">
+        <g xmlns="http://www.kite9.org/schema/adl" class="box" id="3">
       <g id="2" style="fill: green; " class="box" xmlns="http://www.kite9.org/schema/adl">
       <textarea id="2-0">B</textarea>
     </g><g id="11" style="fill: #AA5500; " class="box" xmlns="http://www.kite9.org/schema/adl">
       <textarea id="11-0">B</textarea>
     </g><textarea style="font-size: 20pt;" id="3-0">A</textarea>
-    </g></container><g style="fill: #AA5500; " class="box" id="66">
+    </g></container><container class="dotted" id="59" layout="grid">
+        <cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 0 0;&#10;" id="60-0"><g class="box" style="fill: #AA5500; " id="66">
       <textarea id="66-0">Box 2</textarea>
-    </g></cell><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 1 1;&#10;" id="60-1"><g style="fill: #AA5500; " class="box" id="67">
+    </g></cell><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 1 1;&#10;" id="60-1"><g class="box" style="fill: #AA5500; " id="67">
       <textarea id="67-0">Box 2</textarea>
-    </g></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="60-2"><g style="fill: #AA5500; " class="box" id="68">
+    </g></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="60-2"><g class="box" style="fill: #AA5500; " id="68">
       <textarea id="68-0">Box 2</textarea>
     </g></cell><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="60-3"><container class="solid" id="69">
         <g class="box" id="70">
       <textarea id="70-0">Box</textarea>
     </g></container></cell></container><link id="71">
-				<from reference="70" shape="strike" id="71-0"/>
-				<to reference="66" shape="arrow" id="71-1"/>
+				<from reference="70" id="71-0" shape="strike"/>
+				<to reference="66" id="71-1" shape="arrow"/>
 			</link><link id="72">
-				<from reference="2" id="72-0" shape="strike"/>
-				<to reference="68" id="72-1" shape="arrow"/>
+				<from reference="2" shape="strike" id="72-0"/>
+				<to reference="68" shape="arrow" id="72-1"/>
 			</link><link id="73">
-				<from reference="11" id="73-0" shape="strike"/>
-				<to reference="68" id="73-1" shape="arrow"/>
+				<from reference="11" shape="strike" id="73-0"/>
+				<to reference="68" shape="arrow" id="73-1"/>
 			</link></diagram>
 </svg:svg>
