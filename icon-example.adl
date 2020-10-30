@@ -10,12 +10,12 @@
    
      
   <container class="solid" id="58" layout="right">
-        <g class="box" xmlns="http://www.kite9.org/schema/adl" id="3">
+        <g xmlns="http://www.kite9.org/schema/adl" class="box" id="3">
       <g id="2" style="fill: green; " class="box" xmlns="http://www.kite9.org/schema/adl">
       <textarea id="2-0">B</textarea>
     </g><g id="11" style="fill: #AA5500; " class="box" xmlns="http://www.kite9.org/schema/adl">
       <textarea id="11-0">B</textarea>
     </g><textarea style="font-size: 20pt;" id="3-0">A</textarea>
-    </g></container><container class="dotted" id="59" layout="down">
-        </container></diagram>
+    </g></container><container class="dotted" id="59" layout="grid">
+        <cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 0 0;&#10;" id="60-0"/><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 1 1;&#10;" id="60-1"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="60-2"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="60-3"/></container></diagram>
 </svg:svg>
