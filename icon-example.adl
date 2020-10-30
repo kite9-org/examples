@@ -9,20 +9,25 @@
 
    
      
-  <g class="box" style="fill: #AA5500; " id="4">
+  <g style="fill: #AA5500; " class="box" id="4">
       <textarea id="4-0">Box 2</textarea>
     </g><g class="box" id="3">
       <textarea id="3-0">Box</textarea>
-    </g><g class="box" style="fill: #AA5500; " id="2">
+    </g><g style="fill: #AA5500; " class="box" id="2">
       <textarea id="2-0">Box 2</textarea>
-    </g><link id="8" drawDirection="DOWN">
+    </g><g style="fill: #AA5500; " class="box" id="11">
+      <textarea id="11-0">Box 2</textarea>
+    </g><link drawDirection="DOWN" id="8">
 				<from reference="4" id="8-0"/>
 				<to reference="3" id="8-1"/>
 			</link><link id="9">
-				<from reference="4" shape="strike" id="9-0"/>
-				<to reference="2" shape="arrow" id="9-1"/>
+				<from reference="4" id="9-0" shape="strike"/>
+				<to reference="2" id="9-1" shape="arrow"/>
 			</link><link id="10">
-				<from reference="3" shape="strike" id="10-0"/>
-				<to reference="2" shape="arrow" id="10-1"/>
+				<from reference="3" id="10-0" shape="strike"/>
+				<to reference="2" id="10-1" shape="arrow"/>
+			</link><link drawDirection="LEFT" id="16">
+				<from reference="11" shape="strike" id="16-0"/>
+				<to reference="2" shape="arrow" id="16-1"/>
 			</link></diagram>
 </svg:svg>
