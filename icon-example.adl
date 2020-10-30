@@ -9,7 +9,9 @@
 
    
      
-  <g style="fill: #AA5500; " class="box" id="2">
+  <g class="box" id="3">
+      <textarea id="3-0">Box</textarea>
+    </g><g class="box" style="fill: #AA5500; " id="2">
       <textarea id="2-0">Box 2</textarea>
     </g></diagram>
 </svg:svg>
