@@ -10,29 +10,29 @@
    
      
   <container class="solid" id="58" layout="right">
-        <g class="box" xmlns="http://www.kite9.org/schema/adl" id="3">
+        <g xmlns="http://www.kite9.org/schema/adl" class="box" id="3">
       <textarea style="font-size: 20pt;" id="3-0">A</textarea>
     </g></container><container class="dotted" id="59" layout="grid">
         <cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 0 0;&#10;" id="60-0"><g id="2" style="fill: green; " class="box" xmlns="http://www.kite9.org/schema/adl">
       <textarea id="2-0">B</textarea>
     </g><g id="11" style="fill: #AA5500; " class="box" xmlns="http://www.kite9.org/schema/adl">
       <textarea id="11-0">B</textarea>
-    </g><g style="fill: #AA5500; " class="box" id="66">
+    </g><g class="box" style="fill: #AA5500; " id="66">
       <textarea id="66-0">Box 2</textarea>
     </g></cell><cell style="kite9-occupies-x: 0 0;&#10;kite9-occupies-y: 1 1;&#10;" id="60-1"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 0 0;&#10;" id="60-2"/><cell style="kite9-occupies-x: 1 1;&#10;kite9-occupies-y: 1 1;&#10;" id="60-3"><container class="solid" id="69">
-        </container></cell></container><g style="fill: #AA5500; " class="box" id="68">
+        </container></cell></container><g class="box" style="fill: #AA5500; " id="68">
       <textarea id="68-0">Box 2</textarea>
     </g><g class="box" id="70">
       <textarea id="70-0">Box</textarea>
-    </g><g style="fill: #AA5500; " class="box" id="67">
+    </g><g class="box" style="fill: #AA5500; " id="67">
       <textarea id="67-0">Box 2</textarea>
-    </g><align drawDirection="RIGHT" id="75-1">
+    </g><align id="75-1" drawDirection="RIGHT">
 				<from reference="66" id="75-1-0"/>
 				<to reference="68" id="75-1-1"/>
 			</align><link id="76">
-				<from reference="11" shape="strike" id="76-0"/>
-				<to reference="67" shape="arrow" id="76-1"/>
-			</link><align id="4-0" drawDirection="RIGHT">
+				<from reference="11" id="76-0" shape="strike"/>
+				<to reference="67" id="76-1" shape="arrow"/>
+			</link><align drawDirection="RIGHT" id="4-0">
 				<from reference="11" id="4-0-0"/>
 				<to reference="66" id="4-0-1"/>
 			</align></diagram>
