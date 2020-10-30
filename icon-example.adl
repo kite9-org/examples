@@ -9,22 +9,22 @@
 
    
      
-  <g id="17" style="kite9-min-width: 600pt" class="box" xmlns="http://www.kite9.org/schema/adl">
-      <textarea id="17-0">C</textarea>
-    </g><g style="fill: #AA5500; " class="box" id="11">
+  <g class="box" style="fill: #AA5500; " id="11">
       <textarea id="11-0">B</textarea>
+    </g><g id="17" style="kite9-min-width: 600pt" class="box" xmlns="http://www.kite9.org/schema/adl">
+      <textarea id="17-0">C</textarea>
     </g><g class="box" id="3">
       <textarea id="3-0">A</textarea>
     </g><g id="2" style="fill: green; " class="box" xmlns="http://www.kite9.org/schema/adl">
       <textarea id="2-0">B</textarea>
-    </g><align drawDirection="DOWN" id="35">
+    </g><align id="35" drawDirection="DOWN">
 				<from reference="17" id="35-0"/>
 				<to reference="3" id="35-1"/>
-			</align><link xmlns="http://www.kite9.org/schema/adl" id="10" drawDirection="DOWN">
-				<from reference="3" shape="strike" id="10-0"/>
-				<to reference="2" shape="arrow" id="10-1"/>
-			</link><link drawDirection="RIGHT" id="16">
-				<from reference="11" shape="strike" id="16-0"/>
-				<to reference="2" shape="arrow" id="16-1"/>
+			</align><link xmlns="http://www.kite9.org/schema/adl" drawDirection="DOWN" id="10">
+				<from reference="3" id="10-0" shape="strike"/>
+				<to reference="2" id="10-1" shape="arrow"/>
+			</link><link id="16" drawDirection="RIGHT">
+				<from reference="11" id="16-0" shape="strike"/>
+				<to reference="2" id="16-1" shape="arrow"/>
 			</link></diagram>
 </svg:svg>
