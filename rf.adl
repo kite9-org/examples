@@ -31,36 +31,36 @@
 
     
 
-    <risk class="generic" href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png" id="id_8">
-      <code id="id_8c">Attendant</code>
-      <title id="id_8t">Risk to 
-      manage</title>
-    </risk><risk class="generic" href="/github/kite9-org/examples/.kite9/uploads/noun_Up%20vote_1287235.svg" id="id_10">
+    <risk class="generic" id="id_10" href="/github/kite9-org/examples/.kite9/uploads/noun_Up%20vote_1287235.svg">
       <code id="id_10g">Vote</code>
       <title id="id10t">Project
       Goal</title>
-    <vote from="robmoffat" id="3"/></risk><arrow id="id_9">obstructing</arrow><action class="left" xmlns="http://www.kite9.org/schema/adl" id="2">Practice</action><container style="kite9-min-size: 60pt 60pt" class="dotted" id="5">
+    <vote id="3" from="robmoffat"/></risk><risk class="generic" id="id_8" href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png">
+      <code id="id_8c">Attendant</code>
+      <title id="id_8t">Risk to 
+      manage</title>
+    </risk><arrow id="id_9">obstructing</arrow><action xmlns="http://www.kite9.org/schema/adl" class="left" id="2">Practice</action><container class="dotted" style="kite9-min-size: 60pt 60pt" id="5">
 
 				<action id="praco">Practice makes
-perfection<vote id="8" from="robmoffat" drawDirection="RIGHT"/></action></container><link drawDirection="RIGHT" id="id_15">
-      <from class="space" reference="id_8" id="e9"/>
+perfection<vote drawDirection="RIGHT" from="robmoffat" id="8"/></action></container><link id="id_15" drawDirection="RIGHT">
+      <from reference="id_8" class="space" id="e9"/>
       <to reference="id_9" id="e10"/>
     </link>
     
 
-  <link id="id_17" drawDirection="DOWN">
+  <link drawDirection="DOWN" id="id_17">
       <from reference="id_9" id="e11"/>
-      <to shape="arrow" id="e12" class="space" reference="id_10"/>
-    </link><align drawDirection="RIGHT" id="7-0">
+      <to shape="arrow" id="e12" reference="id_10" class="space"/>
+    </link><align id="7-0" drawDirection="RIGHT">
 				<from reference="id_9" id="7-0-0"/>
 				<to reference="praco" id="7-0-1"/>
-			</align><align id="12" drawDirection="UP">
+			</align><align drawDirection="UP" id="12">
 				<from reference="2" id="12-0"/>
 				<to reference="praco" id="12-1"/>
-			</align><align drawDirection="RIGHT" id="13-0">
+			</align><align id="13-0" drawDirection="RIGHT">
 				<from reference="id_10" id="13-0-0"/>
 				<to reference="2" id="13-0-1"/>
-			</align><align drawDirection="DOWN" id="4-0">
+			</align><align id="4-0" drawDirection="DOWN">
 				<from reference="id_8" id="4-0-0"/>
 				<to reference="id_10" id="4-0-1"/>
 			</align></diagram>
