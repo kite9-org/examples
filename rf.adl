@@ -31,39 +31,42 @@
 
     
 
-    <risk class="generic" href="/github/kite9-org/examples/.kite9/uploads/noun_Up%20vote_1287235.svg" id="id_10">
+    <risk class="generic" id="id_10" href="/github/kite9-org/examples/.kite9/uploads/noun_Up%20vote_1287235.svg">
       <code id="id_10g">Vote</code>
       <title id="id10t">Project
       Goal</title>
-    <vote from="robmoffat" id="3"/></risk><risk class="generic" href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png" id="id_8">
+    <vote id="3" from="robmoffat"/></risk><risk class="generic" id="id_8" href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png">
       <code id="id_8c">Attendant</code>
       <title id="id_8t">Risk to 
       manage</title>
-    </risk><arrow id="id_9">obstructing</arrow><action class="left" xmlns="http://www.kite9.org/schema/adl" id="2">Another prop has occupied my time</action><channel-artifact id="21">Channel</channel-artifact><container style="kite9-min-size: 60pt 60pt" class="dotted" id="5">
+    </risk><arrow id="id_9">obstructing</arrow><channel-artifact id="21">Channel</channel-artifact><action xmlns="http://www.kite9.org/schema/adl" class="left" id="2">Another prop has occupied my time</action><container class="dotted" style="kite9-min-size: 60pt 60pt" id="5">
 
-				<action id="praco">This one goes out to the one I love<vote id="8" from="robmoffat" drawDirection="RIGHT"/></action></container><arrow id="29">Link Body</arrow><interface id="14">Interface</interface><link drawDirection="RIGHT" id="id_15">
+				<action id="praco">This one goes out to the one I love<vote drawDirection="RIGHT" from="robmoffat" id="8"/></action></container><arrow id="29">Link Body</arrow><interface id="14">Interface</interface><link id="id_15" drawDirection="RIGHT">
       
       
-    <from reference="id_8" id="e9" shape="square"/><to reference="id_9" id="e10" shape="square"/></link>
+    <from reference="id_8" shape="square" id="e9"/><to reference="id_9" shape="square" id="e10"/></link>
     
 
-  <link id="id_17" drawDirection="DOWN">
+  <link drawDirection="DOWN" id="id_17">
       
       
-    <from reference="id_9" id="e11" shape="square"/><to reference="id_10" id="e12" shape="square"/></link><align id="12" drawDirection="UP">
+    <from reference="id_9" shape="square" id="e11"/><to reference="id_10" shape="square" id="e12"/></link><align drawDirection="UP" id="12">
 				<from reference="2" id="12-0"/>
 				<to reference="praco" id="12-1"/>
-			</align><align drawDirection="RIGHT" id="7-0">
+			</align><align id="7-0" drawDirection="RIGHT">
 				<from reference="id_9" id="7-0-0"/>
 				<to reference="praco" id="7-0-1"/>
-			</align><link id="19" drawDirection="LEFT">
-				<from reference="14" id="19-0" shape="open-diamond"/>
-				<to reference="praco" id="19-1" shape="open-diamond"/>
-			</link><link drawDirection="UP" id="28">
+			</align><link drawDirection="LEFT" id="19">
+				<from reference="14" shape="open-diamond" id="19-0"/>
+				<to reference="praco" shape="open-diamond" id="19-1"/>
+			</link><link id="28" drawDirection="UP">
 				<from reference="21" id="28-0"/>
-				<to reference="id_10" shape="open-arrow" id="28-1"/>
-			</link><link id="41" drawDirection="LEFT">
+				<to reference="id_10" id="28-1" shape="open-arrow"/>
+			</link><link drawDirection="LEFT" id="41">
 				<from reference="29" id="41-0"/>
-				<to reference="2" id="41-1" shape="open-arrow"/>
-			</link></diagram>
+				<to reference="2" shape="open-arrow" id="41-1"/>
+			</link><align drawDirection="LEFT" id="44">
+				<from reference="2" id="44-0"/>
+				<to reference="id_10" id="44-1"/>
+			</align></diagram>
 </svg:svg>
