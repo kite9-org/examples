@@ -31,29 +31,29 @@
 
     
 
-    <risk class="generic" id="id_8" href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png">
+    <risk class="generic" href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png" id="id_8">
       <code id="id_8c">Attendant</code>
       <title id="id_8t">Risk to 
       manage</title>
-    </risk><arrow id="id_9">obstruct</arrow><container class="dotted" style="kite9-min-size: 60pt 60pt" id="5">
+    </risk><arrow id="id_9">obstruct</arrow><container style="kite9-min-size: 60pt 60pt" class="dotted" id="5">
 
-				<action id="praco">This one goes out to the one I love<vote drawDirection="RIGHT" from="robmoffat" id="8"/></action></container><arrow id="29">Link Body</arrow><interface id="14">Interface</interface><link id="id_15" drawDirection="RIGHT">
+				<action id="praco">This one goes out to the one I love<vote id="8" from="robmoffat" drawDirection="RIGHT"/></action></container><arrow id="29">Link Body</arrow><interface id="14">Interface</interface><link drawDirection="RIGHT" id="id_15">
       
       
-    <from reference="id_8" shape="square" id="e9"/><to reference="id_9" shape="square" id="e10"/></link>
+    <from reference="id_8" id="e9" shape="square"/><to reference="id_9" id="e10" shape="square"/></link>
     
 
-  <link drawDirection="LEFT" id="19">
-				<from reference="14" shape="open-diamond" id="19-0"/>
-				<to reference="praco" shape="open-diamond" id="19-1"/>
-			</link><link id="46" drawDirection="RIGHT">
-				<from reference="id_9" id="46-0"/>
-				<to reference="praco" id="46-1" shape="open-arrow"/>
+  <link id="19" drawDirection="LEFT">
+				<from reference="14" id="19-0" shape="open-diamond"/>
+				<to reference="praco" id="19-1" shape="open-diamond"/>
 			</link><link id="47">
 				<from reference="praco" id="47-0"/>
-				<to reference="29" shape="open-arrow" id="47-1"/>
+				<to reference="29" id="47-1" shape="open-arrow"/>
 			</link><link id="2">
 				<from reference="id_9" id="2-0"/>
-				<to reference="29" shape="barbed-arrow" id="2-1"/>
+				<to reference="29" id="2-1" shape="barbed-arrow"/>
+			</link><link drawDirection="RIGHT" id="46">
+				<from reference="id_9" id="46-0"/>
+				<to reference="praco" shape="open-arrow" id="46-1"/>
 			</link></diagram>
 </svg:svg>
