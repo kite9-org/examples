@@ -31,7 +31,7 @@
 
     
 
-    <risk class="generic" href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png" id="id_8">
+    <risk class="generic" id="id_8" href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png">
       <code id="id_8c">Attendant</code>
       <title id="id_8t">Risk to 
       manage</title>
@@ -41,18 +41,21 @@ to the one I love
 This one goes out to the one I left behind</action>
     
 
-  <generic-artifact id="6" href="/public/templates/risk-first/redesign/artifacts/document_v2.svg">
+  <generic-artifact href="/public/templates/risk-first/redesign/artifacts/document_v2.svg" id="6">
           Artifact
-				</generic-artifact><container style="kite9-min-size: 60pt 60pt" class="dotted" id="11">
+				</generic-artifact><container class="dotted" style="kite9-min-size: 60pt 60pt" id="11">
 
-				</container><link id="4">
+				<channel-artifact id="12">Channel</channel-artifact></container><link id="4">
 				<from reference="id_8" id="4-0"/>
-				<to reference="praco" shape="barbed-arrow" id="4-1"/>
+				<to reference="praco" id="4-1" shape="barbed-arrow"/>
 			</link><link id="5">
 				<from reference="praco" id="5-0"/>
-				<to reference="praco" shape="barbed-arrow" id="5-1"/>
-			</link><link id="10" drawDirection="LEFT">
+				<to reference="praco" id="5-1" shape="barbed-arrow"/>
+			</link><link drawDirection="LEFT" id="10">
 				<from reference="6" id="10-0"/>
-				<to reference="praco" id="10-1" shape="barbed-arrow"/>
+				<to reference="praco" shape="barbed-arrow" id="10-1"/>
+			</link><link drawDirection="LEFT" id="19">
+				<from reference="12" id="19-0"/>
+				<to reference="6" shape="barbed-arrow" id="19-1"/>
 			</link></diagram>
 </svg:svg>
