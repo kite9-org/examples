@@ -1,0 +1,477 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1301.0px" zoomAndPan="magnify" contentStyleType="text/css" height="265.0px" preserveAspectRatio="xMidYMid" version="1.0"><metadata xmlns:md="http://www.kite9.org/schema/adl-metadata"><md:self>http://robs-macbook:8080/public/templates/risk-first/example.adl</md:self></metadata>
+  <defs>
+    <style type="text/css" xml:space="preserve"> 
+    @import url(/public/templates/risk-first/risk-first.css);
+    </style>
+    
+  <script xlink:actuate="onLoad" xlink:type="simple" id="adl:markup" xlink:show="other" type="text/adl-svg+xml;base64" xmlns:xlink="http://www.w3.org/1999/xlink">PHN2ZzpzdmcgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY29udGVudFNjcmlwdFR5cGU9InRleHQvZWNtYXNjcmlwdCIgd2lkdGg9IjEzMDEuMHB4IiB6b29tQW5kUGFuPSJtYWduaWZ5IiBjb250ZW50U3R5bGVUeXBlPSJ0ZXh0L2NzcyIgaGVpZ2h0PSIyNjUuMHB4IiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgdmVyc2lvbj0iMS4wIj4KICA8c3ZnOmRlZnM+CiAgICA8c3ZnOnN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWw6c3BhY2U9InByZXNlcnZlIj4gCiAgICBAaW1wb3J0IHVybCgvcHVibGljL3RlbXBsYXRlcy9yaXNrLWZpcnN0L3Jpc2stZmlyc3QuY3NzKTsKICAgIDwvc3ZnOnN0eWxlPgogICAgCiAgPC9zdmc6ZGVmcz4KCiAgPGRpYWdyYW0geG1sbnM9Imh0dHA6Ly93d3cua2l0ZTkub3JnL3NjaGVtYS9hZGwiIGs5LWNvbnRhaW5zPSJjb25uZWN0ZWQiIGs5LXJvdW5kaW5nPSIwcHQiIGs5LXNoYXBlPSJyZWN0IiBrOS10ZXh0dXJlPSJiYWNrZ3JvdW5kIiBpZD0iZGlhZ3JhbS0xMjkiIGs5LXVpPSJsYXlvdXQgeG1sIGxhYmVsIiBuYW1lPSJQYXR0ZXJuIExhbmd1YWdlIiBrOS1lbGVtPSJkaWFncmFtIj4KICAgIDxiYWNrIGs5LWluZGljYXRvcj0icHVsc2UiIGs5LWVsZW09ImJhY2siPgoJCTxzdmc6cmVjdCB4PSIwIiB3aWR0aD0iI3skd2lkdGh9IiB5PSIwIiBoZWlnaHQ9IiN7JGhlaWdodH0iLz4KCTwvYmFjaz4KICAgIDxpbmRpY2F0b3IgazktZWxlbT0iaW5kaWNhdG9yIi8+CiAgICAKICAgIDxiYWNrIGs5LWVsZW09ImJhY2siIGs5LWluZGljYXRvcj0icHVsc2UiPgoJCTxzdmc6cmVjdCB4PSIwIiB3aWR0aD0iI3skd2lkdGh9IiB5PSIwIiBoZWlnaHQ9IiN7JGhlaWdodH0iLz4KCTwvYmFjaz4KICAgIDxpbmRpY2F0b3IgazktZWxlbT0iaW5kaWNhdG9yIi8+CiAgICAKCgogICAgPHJpc2sgaHJlZj0iL3B1YmxpYy90ZW1wbGF0ZXMvcmlzay1maXJzdC9yZWRlc2lnbi9hcnRpZmFjdHMvbWV0aG9kb2xvZ3lfdjIuc3ZnIiBrOS1wYWxldHRlPSJjb25uZWN0ZWQgcmlzayAiIGs5LXRleHR1cmU9InNvbGlkIiBjbGFzcz0iZ2VuZXJpYyIgaWQ9ImlkXzAiIGs5LXVpPSJkcmFnIGRlbGV0ZSBhbGlnbiBjb25uZWN0IGF1dG9jb25uZWN0IHhtbCB2b3RlIiBrOS1lbGVtPSJyaXNrIj4KICAgICAgPGJhY2sgazktaW5kaWNhdG9yPSJwdWxzZSIgazktZWxlbT0iYmFjayI+CgkJPHN2ZzpyZWN0IHJ4PSI1cHQiIHJ5PSI1cHQiIHg9IjAiIHdpZHRoPSIjeyR3aWR0aH0iIHk9IjAiIGhlaWdodD0iI3skaGVpZ2h0fSIvPgoJPC9iYWNrPiAKICAgICAgPGNvZGUgazktdWk9Im9ycGhhbiBlZGl0IiBrOS1lbGVtPSJjb2RlIiBpZD0iaWRfMGMiIGs5LXNoYXBlPSJjb2RlIiBrOS1mb3JtYXQ9InRleHRhcmVhIj48Zmxvd1Jvb3QgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zmxvd1JlZ2lvbj48cmVjdCB3aWR0aD0iMTAwMDBweCIgaGVpZ2h0PSIxMDAwMHB4Ii8+PC9mbG93UmVnaW9uPjxmbG93RGl2PjxmbG93UGFyYT5NZXRob2Q8L2Zsb3dQYXJhPjwvZmxvd0Rpdj48L2Zsb3dSb290PjwvY29kZT4KICAgICAgPGltYWdlIGhyZWY9Ii9wdWJsaWMvdGVtcGxhdGVzL3Jpc2stZmlyc3QvcmVkZXNpZ24vYXJ0aWZhY3RzL21ldGhvZG9sb2d5X3YyLnN2ZyIgd2lkdGg9IjUwcHQiIGlkPSJpZF8wQGltYWdlIiBoZWlnaHQ9IjUwcHQiIGs5LWZvcm1hdD0iaW1hZ2UtZWRpdGFibGUiIGs5LXVpPSJpbWFnZSIgazktZWxlbT0iaW1hZ2UiPgoJCTxkZWNhbCBzdHlsZT0ia2l0ZTktdHlwZTogc3ZnOyBraXRlOS11c2FnZTogZGVjYWw7IiBrOS1lbGVtPSJkZWNhbCIgazktdGV4dHVyZT0ic29saWQiPgoJCQk8c3ZnOmltYWdlIHg9IjAiIHk9IjAiIHdpZHRoPSIjeyR3aWR0aH0iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIvcHVibGljL3RlbXBsYXRlcy9yaXNrLWZpcnN0L3JlZGVzaWduL2FydGlmYWN0cy9tZXRob2RvbG9neV92Mi5zdmciIHhsaW5rOnR5cGU9InNpbXBsZSIgeGxpbms6YWN0dWF0ZT0ib25Mb2FkIiBoZWlnaHQ9IiN7JGhlaWdodH0iIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiIHhsaW5rOnNob3c9ImVtYmVkIi8+CgkJPC9kZWNhbD4KCQk8ZnJvbnQgazktZWxlbT0iZnJvbnQiIGs5LXRleHR1cmU9Im5vbmUiIHN0eWxlPSJraXRlOS10eXBlOiBzdmc7ICIgazktaW5kaWNhdG9yPSJzdHJva2UgcHVsc2UiPgoJCQk8c3ZnOnJlY3Qgcng9IjIiIHJ5PSIyIiB4PSIwIiB3aWR0aD0iNTBwdCIgeT0iMCIgaGVpZ2h0PSI1MHB0Ii8+CgkJPC9mcm9udD4KCTwvaW1hZ2U+CiAgICAgIDx2b3RlcyBrOS1lbGVtPSJ2b3RlcyIgY291bnQ9IjAiPgogICAgPHN2ZzpyZWN0IHg9Ii01cHQiIHk9Ii01cHQiIHdpZHRoPSI1MnB0IiByeD0iOHB0IiBjbGFzcz0iYmFjayIgcnk9IjhwdCIgaGVpZ2h0PSIyNnB0Ii8+CiAgICA8c3ZnOnRleHQgY2xhc3M9ImZvbnQtYXdlc29tZSIgeD0iOHB0IiB5PSI5cHQiPu+AhTwvc3ZnOnRleHQ+IAogICAgPHN2Zzp0ZXh0IGNsYXNzPSJjb3VudCIgeD0iMzBwdCIgeT0iOXB0Ij4wPC9zdmc6dGV4dD4KICA8L3ZvdGVzPgogICAgICA8dGl0bGUgazktdWk9Im9ycGhhbiBlZGl0IiBrOS1lbGVtPSJ0aXRsZSIgaWQ9ImlkXzB0IiBrOS1zaGFwZT0idGl0bGUiIGs5LWZvcm1hdD0idGV4dGFyZWEiPjxmbG93Um9vdCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxmbG93UmVnaW9uPjxyZWN0IHdpZHRoPSIxNDYuNjY2NjciIGhlaWdodD0iMTAwMDBweCIvPjwvZmxvd1JlZ2lvbj48Zmxvd0Rpdj48Zmxvd1BhcmE+U29mdHdhcmUgTWV0aG9kb2xvZ3k8L2Zsb3dQYXJhPjwvZmxvd0Rpdj48L2Zsb3dSb290PjwvdGl0bGU+CiAgPC9yaXNrPgoKICAgIDxhcnJvdyBrOS1wYWxldHRlPSJjb25uZWN0ZWQiIGs5LXNoYXBlPSJhcnJvdyIgazktdGV4dHVyZT0ic29saWQiIGlkPSJpZF8yIiBrOS1mb3JtYXQ9ImlubGluZS10ZXh0IiBrOS11aT0iZHJhZyBlZGl0IGRlbGV0ZSBhbGlnbiBjb25uZWN0IGluc2VydCBhdXRvY29ubmVjdCIgazktZWxlbT0iYXJyb3ciPgoJCTxiYWNrIGs5LWVsZW09ImJhY2siIGs5LWluZGljYXRvcj0icHVsc2UiPgoJCTxzdmc6cmVjdCByeD0iNXB0IiByeT0iNXB0IiB4PSIwIiB3aWR0aD0iI3skd2lkdGh9IiB5PSIwIiBoZWlnaHQ9IiN7JGhlaWdodH0iLz4KCTwvYmFjaz4KCQk8dGV4dGFyZWEgazktdWk9Im9ycGhhbiBlZGl0IiBrOS1lbGVtPSJ0ZXh0YXJlYSIgazktc2hhcGU9InRleHRhcmVhIiBrOS1mb3JtYXQ9InRleHRhcmVhIj48Zmxvd1Jvb3QgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zmxvd1JlZ2lvbj48cmVjdCB3aWR0aD0iMTAwMDBweCIgaGVpZ2h0PSIxMDAwMHB4Ii8+PC9mbG93UmVnaW9uPjxmbG93RGl2PjxmbG93UGFyYT5lbXBsb3lzPC9mbG93UGFyYT48L2Zsb3dEaXY+PC9mbG93Um9vdD48L3RleHRhcmVhPgoJPC9hcnJvdz4KCiAgICA8YWN0aW9uIGs5LXVpPSJkcmFnIGRlbGV0ZSBhbGlnbiBjb25uZWN0IGF1dG9jb25uZWN0IGVkaXQgdm90ZSB4bWwiIGs5LWVsZW09ImFjdGlvbiIgaWQ9InByYWNvIiBrOS10ZXh0dXJlPSJzb2xpZCIgazktcGFsZXR0ZT0iY29ubmVjdGVkICI+CiAgICA8c2hhcGUgazktZWxlbT0ic2hhcGUiIGs5LWluZGljYXRvcj0icHVsc2UiPgogICAgICA8c3ZnOnBvbHlnb24gcG9pbnRzPSIwIDAsICN7JHdpZHRoIC0gKDE1ICogJHB0KX0gMCwgI3skd2lkdGh9ICN7JGhlaWdodCBkaXYgMn0sICN7JHdpZHRoIC0gKDE1ICogJHB0KSB9ICN7JGhlaWdodH0sIDAgI3skaGVpZ2h0fSIvPgogICAgPC9zaGFwZT4KICAgIDx2b3RlcyBrOS1lbGVtPSJ2b3RlcyIgY291bnQ9IjAiPgogICAgPHN2ZzpyZWN0IHg9Ii01cHQiIHk9Ii01cHQiIHdpZHRoPSI1MnB0IiByeD0iOHB0IiBjbGFzcz0iYmFjayIgcnk9IjhwdCIgaGVpZ2h0PSIyNnB0Ii8+CiAgICA8c3ZnOnRleHQgY2xhc3M9ImZvbnQtYXdlc29tZSIgeD0iOHB0IiB5PSI5cHQiPu+AhTwvc3ZnOnRleHQ+IAogICAgPHN2Zzp0ZXh0IGNsYXNzPSJjb3VudCIgeD0iMzBwdCIgeT0iOXB0Ij4wPC9zdmc6dGV4dD4KICA8L3ZvdGVzPgogICAgPGZyb250IHN0eWxlPSJraXRlOS11c2FnZTogcmVndWxhcjsga2l0ZTktdHlwZTogY29udGFpbmVyOyBraXRlOS1sYXlvdXQ6IGRvd247ICBraXRlOS1wYWRkaW5nOiAxMHB0OyBraXRlOS1wYWRkaW5nLXJpZ2h0OiA0MHB0OyAiIGs5LWVsZW09ImZyb250Ij4KICAgICAgPHRpdGxlIGs5LXVpPSJ0ZXh0IiBrOS1lbGVtPSJ0aXRsZSIgazktc2hhcGU9InRpdGxlIiBrOS1mb3JtYXQ9InRleHRhcmVhIj48Zmxvd1Jvb3QgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zmxvd1JlZ2lvbj48cmVjdCB3aWR0aD0iMTQ2LjY2NjY3IiBoZWlnaHQ9IjEwMDAwcHgiLz48L2Zsb3dSZWdpb24+PGZsb3dEaXY+PGZsb3dQYXJhPlByYWN0aWNlPC9mbG93UGFyYT48L2Zsb3dEaXY+PC9mbG93Um9vdD48L3RpdGxlPgogICAgPC9mcm9udD4KICA8L2FjdGlvbj4KICAgIAogICAgPGFycm93IGs5LXBhbGV0dGU9ImNvbm5lY3RlZCIgazktc2hhcGU9ImFycm93IiBrOS10ZXh0dXJlPSJzb2xpZCIgaWQ9ImlkXzYiIGs5LWZvcm1hdD0iaW5saW5lLXRleHQiIGs5LXVpPSJkcmFnIGVkaXQgZGVsZXRlIGFsaWduIGNvbm5lY3QgaW5zZXJ0IGF1dG9jb25uZWN0IiBrOS1lbGVtPSJhcnJvdyI+CgkJPGJhY2sgazktZWxlbT0iYmFjayIgazktaW5kaWNhdG9yPSJwdWxzZSI+CgkJPHN2ZzpyZWN0IHJ4PSI1cHQiIHJ5PSI1cHQiIHg9IjAiIHdpZHRoPSIjeyR3aWR0aH0iIHk9IjAiIGhlaWdodD0iI3skaGVpZ2h0fSIvPgoJPC9iYWNrPgoJCTx0ZXh0YXJlYSBrOS11aT0ib3JwaGFuIGVkaXQiIGs5LWVsZW09InRleHRhcmVhIiBrOS1zaGFwZT0idGV4dGFyZWEiIGs5LWZvcm1hdD0idGV4dGFyZWEiPjxmbG93Um9vdCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxmbG93UmVnaW9uPjxyZWN0IHdpZHRoPSIxMDAwMHB4IiBoZWlnaHQ9IjEwMDAwcHgiLz48L2Zsb3dSZWdpb24+PGZsb3dEaXY+PGZsb3dQYXJhPm1hbmFnZXM8L2Zsb3dQYXJhPjwvZmxvd0Rpdj48L2Zsb3dSb290PjwvdGV4dGFyZWE+Cgk8L2Fycm93PgoKICAgIDxyaXNrIGhyZWY9Ii9wdWJsaWMvdGVtcGxhdGVzL3Jpc2stZmlyc3QvcmVkZXNpZ24vcmlza3MvYXR0ZW5kYW50X3Jpc2tfdjIuc3ZnIiBrOS1wYWxldHRlPSJjb25uZWN0ZWQgcmlzayAiIGs5LXRleHR1cmU9InNvbGlkIiBjbGFzcz0iZ2VuZXJpYyIgaWQ9ImlkXzgiIGs5LXVpPSJkcmFnIGRlbGV0ZSBhbGlnbiBjb25uZWN0IGF1dG9jb25uZWN0IHhtbCB2b3RlIiBrOS1lbGVtPSJyaXNrIj4KICAgICAgPGJhY2sgazktaW5kaWNhdG9yPSJwdWxzZSIgazktZWxlbT0iYmFjayI+CgkJPHN2ZzpyZWN0IHJ4PSI1cHQiIHJ5PSI1cHQiIHg9IjAiIHdpZHRoPSIjeyR3aWR0aH0iIHk9IjAiIGhlaWdodD0iI3skaGVpZ2h0fSIvPgoJPC9iYWNrPiAKICAgICAgPGNvZGUgazktdWk9Im9ycGhhbiBlZGl0IiBrOS1lbGVtPSJjb2RlIiBpZD0iaWRfOGMiIGs5LXNoYXBlPSJjb2RlIiBrOS1mb3JtYXQ9InRleHRhcmVhIj48Zmxvd1Jvb3QgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zmxvd1JlZ2lvbj48cmVjdCB3aWR0aD0iMTAwMDBweCIgaGVpZ2h0PSIxMDAwMHB4Ii8+PC9mbG93UmVnaW9uPjxmbG93RGl2PjxmbG93UGFyYT5BdHRlbmRhbnQ8L2Zsb3dQYXJhPjwvZmxvd0Rpdj48L2Zsb3dSb290PjwvY29kZT4KICAgICAgPGltYWdlIGhyZWY9Ii9wdWJsaWMvdGVtcGxhdGVzL3Jpc2stZmlyc3QvcmVkZXNpZ24vcmlza3MvYXR0ZW5kYW50X3Jpc2tfdjIuc3ZnIiB3aWR0aD0iNTBwdCIgaWQ9ImlkXzhAaW1hZ2UiIGhlaWdodD0iNTBwdCIgazktZm9ybWF0PSJpbWFnZS1lZGl0YWJsZSIgazktdWk9ImltYWdlIiBrOS1lbGVtPSJpbWFnZSI+CgkJPGRlY2FsIHN0eWxlPSJraXRlOS10eXBlOiBzdmc7IGtpdGU5LXVzYWdlOiBkZWNhbDsiIGs5LWVsZW09ImRlY2FsIiBrOS10ZXh0dXJlPSJzb2xpZCI+CgkJCTxzdmc6aW1hZ2UgeD0iMCIgeT0iMCIgd2lkdGg9IiN7JHdpZHRofSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9Ii9wdWJsaWMvdGVtcGxhdGVzL3Jpc2stZmlyc3QvcmVkZXNpZ24vcmlza3MvYXR0ZW5kYW50X3Jpc2tfdjIuc3ZnIiB4bGluazp0eXBlPSJzaW1wbGUiIHhsaW5rOmFjdHVhdGU9Im9uTG9hZCIgaGVpZ2h0PSIjeyRoZWlnaHR9IiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0IiB4bGluazpzaG93PSJlbWJlZCIvPgoJCTwvZGVjYWw+CgkJPGZyb250IGs5LWVsZW09ImZyb250IiBrOS10ZXh0dXJlPSJub25lIiBzdHlsZT0ia2l0ZTktdHlwZTogc3ZnOyAiIGs5LWluZGljYXRvcj0ic3Ryb2tlIHB1bHNlIj4KCQkJPHN2ZzpyZWN0IHJ4PSIyIiByeT0iMiIgeD0iMCIgd2lkdGg9IjUwcHQiIHk9IjAiIGhlaWdodD0iNTBwdCIvPgoJCTwvZnJvbnQ+Cgk8L2ltYWdlPgogICAgICA8dm90ZXMgazktZWxlbT0idm90ZXMiIGNvdW50PSIwIj4KICAgIDxzdmc6cmVjdCB4PSItNXB0IiB5PSItNXB0IiB3aWR0aD0iNTJwdCIgcng9IjhwdCIgY2xhc3M9ImJhY2siIHJ5PSI4cHQiIGhlaWdodD0iMjZwdCIvPgogICAgPHN2Zzp0ZXh0IGNsYXNzPSJmb250LWF3ZXNvbWUiIHg9IjhwdCIgeT0iOXB0Ij7vgIU8L3N2Zzp0ZXh0PiAKICAgIDxzdmc6dGV4dCBjbGFzcz0iY291bnQiIHg9IjMwcHQiIHk9IjlwdCI+MDwvc3ZnOnRleHQ+CiAgPC92b3Rlcz4KICAgICAgPHRpdGxlIGs5LXVpPSJvcnBoYW4gZWRpdCIgazktZWxlbT0idGl0bGUiIGlkPSJpZF84dCIgazktc2hhcGU9InRpdGxlIiBrOS1mb3JtYXQ9InRleHRhcmVhIj48Zmxvd1Jvb3QgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zmxvd1JlZ2lvbj48cmVjdCB3aWR0aD0iMTQ2LjY2NjY3IiBoZWlnaHQ9IjEwMDAwcHgiLz48L2Zsb3dSZWdpb24+PGZsb3dEaXY+PGZsb3dQYXJhPlJpc2sgdG8gPC9mbG93UGFyYT48Zmxvd1BhcmE+ICAgICAgbWFuYWdlPC9mbG93UGFyYT48L2Zsb3dEaXY+PC9mbG93Um9vdD48L3RpdGxlPgogIDwvcmlzaz4KCiAgICA8YXJyb3cgazktcGFsZXR0ZT0iY29ubmVjdGVkIiBrOS1zaGFwZT0iYXJyb3ciIGs5LXRleHR1cmU9InNvbGlkIiBpZD0iaWRfOSIgazktZm9ybWF0PSJpbmxpbmUtdGV4dCIgazktdWk9ImRyYWcgZWRpdCBkZWxldGUgYWxpZ24gY29ubmVjdCBpbnNlcnQgYXV0b2Nvbm5lY3QiIGs5LWVsZW09ImFycm93Ij4KCQk8YmFjayBrOS1lbGVtPSJiYWNrIiBrOS1pbmRpY2F0b3I9InB1bHNlIj4KCQk8c3ZnOnJlY3Qgcng9IjVwdCIgcnk9IjVwdCIgeD0iMCIgd2lkdGg9IiN7JHdpZHRofSIgeT0iMCIgaGVpZ2h0PSIjeyRoZWlnaHR9Ii8+Cgk8L2JhY2s+CgkJPHRleHRhcmVhIGs5LXVpPSJvcnBoYW4gZWRpdCIgazktZWxlbT0idGV4dGFyZWEiIGs5LXNoYXBlPSJ0ZXh0YXJlYSIgazktZm9ybWF0PSJ0ZXh0YXJlYSI+PGZsb3dSb290IHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGZsb3dSZWdpb24+PHJlY3Qgd2lkdGg9IjEwMDAwcHgiIGhlaWdodD0iMTAwMDBweCIvPjwvZmxvd1JlZ2lvbj48Zmxvd0Rpdj48Zmxvd1BhcmE+b2JzdHJ1Y3RzPC9mbG93UGFyYT48L2Zsb3dEaXY+PC9mbG93Um9vdD48L3RleHRhcmVhPgoJPC9hcnJvdz4KCiAgICA8cmlzayBocmVmPSIvcHVibGljL3RlbXBsYXRlcy9yaXNrLWZpcnN0L3JlZGVzaWduL3Jpc2tzL2dvYWxfdjIuc3ZnIiBrOS1wYWxldHRlPSJjb25uZWN0ZWQgcmlzayAiIGs5LXRleHR1cmU9InNvbGlkIiBjbGFzcz0iZ2VuZXJpYyIgaWQ9ImlkXzEwIiBrOS11aT0iZHJhZyBkZWxldGUgYWxpZ24gY29ubmVjdCBhdXRvY29ubmVjdCB4bWwgdm90ZSIgazktZWxlbT0icmlzayI+CiAgICAgIDxiYWNrIGs5LWluZGljYXRvcj0icHVsc2UiIGs5LWVsZW09ImJhY2siPgoJCTxzdmc6cmVjdCByeD0iNXB0IiByeT0iNXB0IiB4PSIwIiB3aWR0aD0iI3skd2lkdGh9IiB5PSIwIiBoZWlnaHQ9IiN7JGhlaWdodH0iLz4KCTwvYmFjaz4gCiAgICAgIDxjb2RlIGs5LXVpPSJvcnBoYW4gZWRpdCIgazktZWxlbT0iY29kZSIgaWQ9ImlkXzEwZyIgazktc2hhcGU9ImNvZGUiIGs5LWZvcm1hdD0idGV4dGFyZWEiPjxmbG93Um9vdCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxmbG93UmVnaW9uPjxyZWN0IHdpZHRoPSIxMDAwMHB4IiBoZWlnaHQ9IjEwMDAwcHgiLz48L2Zsb3dSZWdpb24+PGZsb3dEaXY+PGZsb3dQYXJhPkdvYWw8L2Zsb3dQYXJhPjwvZmxvd0Rpdj48L2Zsb3dSb290PjwvY29kZT4KICAgICAgPGltYWdlIGhyZWY9Ii9wdWJsaWMvdGVtcGxhdGVzL3Jpc2stZmlyc3QvcmVkZXNpZ24vcmlza3MvZ29hbF92Mi5zdmciIHdpZHRoPSI1MHB0IiBpZD0iaWRfMTBAaW1hZ2UiIGhlaWdodD0iNTBwdCIgazktZm9ybWF0PSJpbWFnZS1lZGl0YWJsZSIgazktdWk9ImltYWdlIiBrOS1lbGVtPSJpbWFnZSI+CgkJPGRlY2FsIHN0eWxlPSJraXRlOS10eXBlOiBzdmc7IGtpdGU5LXVzYWdlOiBkZWNhbDsiIGs5LWVsZW09ImRlY2FsIiBrOS10ZXh0dXJlPSJzb2xpZCI+CgkJCTxzdmc6aW1hZ2UgeD0iMCIgeT0iMCIgd2lkdGg9IiN7JHdpZHRofSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9Ii9wdWJsaWMvdGVtcGxhdGVzL3Jpc2stZmlyc3QvcmVkZXNpZ24vcmlza3MvZ29hbF92Mi5zdmciIHhsaW5rOnR5cGU9InNpbXBsZSIgeGxpbms6YWN0dWF0ZT0ib25Mb2FkIiBoZWlnaHQ9IiN7JGhlaWdodH0iIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiIHhsaW5rOnNob3c9ImVtYmVkIi8+CgkJPC9kZWNhbD4KCQk8ZnJvbnQgazktZWxlbT0iZnJvbnQiIGs5LXRleHR1cmU9Im5vbmUiIHN0eWxlPSJraXRlOS10eXBlOiBzdmc7ICIgazktaW5kaWNhdG9yPSJzdHJva2UgcHVsc2UiPgoJCQk8c3ZnOnJlY3Qgcng9IjIiIHJ5PSIyIiB4PSIwIiB3aWR0aD0iNTBwdCIgeT0iMCIgaGVpZ2h0PSI1MHB0Ii8+CgkJPC9mcm9udD4KCTwvaW1hZ2U+CiAgICAgIDx2b3RlcyBrOS1lbGVtPSJ2b3RlcyIgY291bnQ9IjAiPgogICAgPHN2ZzpyZWN0IHg9Ii01cHQiIHk9Ii01cHQiIHdpZHRoPSI1MnB0IiByeD0iOHB0IiBjbGFzcz0iYmFjayIgcnk9IjhwdCIgaGVpZ2h0PSIyNnB0Ii8+CiAgICA8c3ZnOnRleHQgY2xhc3M9ImZvbnQtYXdlc29tZSIgeD0iOHB0IiB5PSI5cHQiPu+AhTwvc3ZnOnRleHQ+IAogICAgPHN2Zzp0ZXh0IGNsYXNzPSJjb3VudCIgeD0iMzBwdCIgeT0iOXB0Ij4wPC9zdmc6dGV4dD4KICA8L3ZvdGVzPgogICAgICA8dGl0bGUgazktdWk9Im9ycGhhbiBlZGl0IiBrOS1lbGVtPSJ0aXRsZSIgaWQ9ImlkMTB0IiBrOS1zaGFwZT0idGl0bGUiIGs5LWZvcm1hdD0idGV4dGFyZWEiPjxmbG93Um9vdCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxmbG93UmVnaW9uPjxyZWN0IHdpZHRoPSIxNDYuNjY2NjciIGhlaWdodD0iMTAwMDBweCIvPjwvZmxvd1JlZ2lvbj48Zmxvd0Rpdj48Zmxvd1BhcmE+UHJvamVjdDwvZmxvd1BhcmE+PGZsb3dQYXJhPiAgICAgIEdvYWw8L2Zsb3dQYXJhPjwvZmxvd0Rpdj48L2Zsb3dSb290PjwvdGl0bGU+CiAgPC9yaXNrPgoKICAgIDxsaW5rIGs5LWNvbnRhaW5zPSJlbmQgbGFiZWwiIGs5LXBhbGV0dGU9ImxpbmsiIGRyYXdEaXJlY3Rpb249IlJJR0hUIiBpZD0iaWRfMSIgazktdWk9ImRlbGV0ZSBsaW5rIGNhc2NhZGUgZHJvcCIgazktZWxlbT0ibGluayIgazktY29udGFpbmVycz0iKiI+CiAgICA8bGluay1ncmFiIGs5LWVsZW09ImxpbmstZ3JhYiIgazktaW5kaWNhdG9yPSJiYXIgc3Ryb2tlIj4KICAgICAgPHN2ZzpwYXRoIGs5LWFuaW1hdGU9ImxpbmsiIGQ9IiN7JHBhdGh9Ii8+CiAgICA8L2xpbmstZ3JhYj4KICAgIAogICAgPGxpbmstZ3JhYiBrOS1pbmRpY2F0b3I9ImJhciBzdHJva2UiIGs5LWVsZW09ImxpbmstZ3JhYiI+CiAgICAgIDxzdmc6cGF0aCBkPSIjeyRwYXRofSIgazktYW5pbWF0ZT0ibGluayIvPgogICAgPC9saW5rLWdyYWI+CiAgICAKICAgICAgPGZyb20gazktcGFsZXR0ZT0iZW5kIiByZWZlcmVuY2U9ImlkXzAiIGNsYXNzPSJzcGFjZSIgaWQ9ImUxIiBrOS11aT0iZHJhZyBsYWJlbCIgazktZWxlbT0iZnJvbSIgazktY29udGFpbmVycz0ibGluayI+CiAgICA8Z3JhYiBrOS1lbGVtPSJncmFiIiBrOS1pbmRpY2F0b3I9ImZpbGwgZ3JhYiI+CiAgICAgIDxzdmc6cG9seWdvbiBwb2ludHM9IjEyIC0xMCwgLTggMCwgMTIgMTAiLz4KICAgIDwvZ3JhYj4KICAgIAogICAgPGdyYWIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiIGs5LWVsZW09ImdyYWIiPgogICAgICA8c3ZnOnBvbHlnb24gcG9pbnRzPSIxMiAtMTAsIC04IDAsIDEyIDEwIi8+CiAgICA8L2dyYWI+CiAgICAKICAKICA8L2Zyb20+CiAgICAgIDx0byBrOS11aT0iZHJhZyBsYWJlbCIgazktZWxlbT0idG8iIGlkPSJlMiIgazktcGFsZXR0ZT0iZW5kIiBrOS1jb250YWluZXJzPSJsaW5rIiByZWZlcmVuY2U9ImlkXzIiPgogICAgPGdyYWIgazktZWxlbT0iZ3JhYiIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiPgogICAgICA8c3ZnOmVsbGlwc2Ugcng9IjgiIHJ5PSI4IiBjeD0iMCIgY3k9IjAiLz4KICAgIDwvZ3JhYj4KICAgIAogICAgPGdyYWIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiIGs5LWVsZW09ImdyYWIiPgogICAgICA8c3ZnOmVsbGlwc2Ugcng9IjgiIHJ5PSI4IiBjeD0iMCIgY3k9IjAiLz4KICAgIDwvZ3JhYj4KICAgIAogIAogIDwvdG8+CiAgICAKICAgIDxsaW5rLWJvZHkgazktZWxlbT0ibGluay1ib2R5Ij4KICAgICAgPHN2ZzpwYXRoIG1hcmtlci1zdGFydD0idXJsKCMtc3RhcnQtbWFya2VyKSIgZD0iI3skcGF0aH0iIG1hcmtlci1lbmQ9InVybCgjLWVuZC1tYXJrZXIpIiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstYm9keT4KICAKICAgIDxsaW5rLWJvZHkgazktZWxlbT0ibGluay1ib2R5Ij4KICAgICAgPHN2ZzpwYXRoIG1hcmtlci1zdGFydD0idXJsKCMtc3RhcnQtbWFya2VyKSIgZD0iI3skcGF0aH0iIG1hcmtlci1lbmQ9InVybCgjLWVuZC1tYXJrZXIpIiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstYm9keT4KICA8L2xpbms+CgogICAgPGxpbmsgazktY29udGFpbnM9ImVuZCBsYWJlbCIgazktcGFsZXR0ZT0ibGluayIgZHJhd0RpcmVjdGlvbj0iUklHSFQiIGlkPSJpZF8zIiBrOS11aT0iZGVsZXRlIGxpbmsgY2FzY2FkZSBkcm9wIiBrOS1lbGVtPSJsaW5rIiBrOS1jb250YWluZXJzPSIqIj4KICAgIDxsaW5rLWdyYWIgazktZWxlbT0ibGluay1ncmFiIiBrOS1pbmRpY2F0b3I9ImJhciBzdHJva2UiPgogICAgICA8c3ZnOnBhdGggazktYW5pbWF0ZT0ibGluayIgZD0iI3skcGF0aH0iLz4KICAgIDwvbGluay1ncmFiPgogICAgCiAgICA8bGluay1ncmFiIGs5LWluZGljYXRvcj0iYmFyIHN0cm9rZSIgazktZWxlbT0ibGluay1ncmFiIj4KICAgICAgPHN2ZzpwYXRoIGQ9IiN7JHBhdGh9IiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstZ3JhYj4KICAgIAogICAgICA8ZnJvbSBrOS11aT0iZHJhZyBsYWJlbCIgazktZWxlbT0iZnJvbSIgaWQ9ImUzIiBrOS1wYWxldHRlPSJlbmQiIGs5LWNvbnRhaW5lcnM9ImxpbmsiIHJlZmVyZW5jZT0iaWRfMiI+CiAgICA8Z3JhYiBrOS1lbGVtPSJncmFiIiBrOS1pbmRpY2F0b3I9ImZpbGwgZ3JhYiI+CiAgICAgIDxzdmc6cG9seWdvbiBwb2ludHM9IjEyIC0xMCwgLTggMCwgMTIgMTAiLz4KICAgIDwvZ3JhYj4KICAgIAogICAgPGdyYWIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiIGs5LWVsZW09ImdyYWIiPgogICAgICA8c3ZnOnBvbHlnb24gcG9pbnRzPSIxMiAtMTAsIC04IDAsIDEyIDEwIi8+CiAgICA8L2dyYWI+CiAgICAKICAKICA8L2Zyb20+CiAgICAgIDx0byBrOS1wYWxldHRlPSJlbmQiIHNoYXBlPSJhcnJvdyIgcmVmZXJlbmNlPSJwcmFjbyIgY2xhc3M9InNwYWNlIiBpZD0iZTQiIGs5LXVpPSJkcmFnIGxhYmVsIiBrOS1lbGVtPSJ0byIgazktY29udGFpbmVycz0ibGluayI+CiAgICA8Z3JhYiBrOS1lbGVtPSJncmFiIiBrOS1pbmRpY2F0b3I9ImZpbGwgZ3JhYiI+CiAgICAgIDxzdmc6ZWxsaXBzZSByeD0iOCIgcnk9IjgiIGN4PSIwIiBjeT0iMCIvPgogICAgPC9ncmFiPgogICAgCiAgICA8Z3JhYiBrOS1pbmRpY2F0b3I9ImZpbGwgZ3JhYiIgazktZWxlbT0iZ3JhYiI+CiAgICAgIDxzdmc6ZWxsaXBzZSByeD0iOCIgcnk9IjgiIGN4PSIwIiBjeT0iMCIvPgogICAgPC9ncmFiPgogICAgCiAgCiAgPC90bz4KICAgIAogICAgPGxpbmstYm9keSBrOS1lbGVtPSJsaW5rLWJvZHkiPgogICAgICA8c3ZnOnBhdGggbWFya2VyLXN0YXJ0PSJ1cmwoIy1zdGFydC1tYXJrZXIpIiBkPSIjeyRwYXRofSIgbWFya2VyLWVuZD0idXJsKCNhcnJvdy1lbmQtbWFya2VyKSIgazktYW5pbWF0ZT0ibGluayIvPgogICAgPC9saW5rLWJvZHk+CiAgCiAgICA8bGluay1ib2R5IGs5LWVsZW09ImxpbmstYm9keSI+CiAgICAgIDxzdmc6cGF0aCBtYXJrZXItc3RhcnQ9InVybCgjLXN0YXJ0LW1hcmtlcikiIGQ9IiN7JHBhdGh9IiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93LWVuZC1tYXJrZXIpIiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstYm9keT4KICA8L2xpbms+CgogICAgPGxpbmsgazktY29udGFpbnM9ImVuZCBsYWJlbCIgazktcGFsZXR0ZT0ibGluayIgZHJhd0RpcmVjdGlvbj0iUklHSFQiIGlkPSJpZF81IiBrOS11aT0iZGVsZXRlIGxpbmsgY2FzY2FkZSBkcm9wIiBrOS1lbGVtPSJsaW5rIiBrOS1jb250YWluZXJzPSIqIj4KICAgIDxsaW5rLWdyYWIgazktZWxlbT0ibGluay1ncmFiIiBrOS1pbmRpY2F0b3I9ImJhciBzdHJva2UiPgogICAgICA8c3ZnOnBhdGggazktYW5pbWF0ZT0ibGluayIgZD0iI3skcGF0aH0iLz4KICAgIDwvbGluay1ncmFiPgogICAgCiAgICA8bGluay1ncmFiIGs5LWluZGljYXRvcj0iYmFyIHN0cm9rZSIgazktZWxlbT0ibGluay1ncmFiIj4KICAgICAgPHN2ZzpwYXRoIGQ9IiN7JHBhdGh9IiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstZ3JhYj4KICAgIAogICAgICA8ZnJvbSBrOS1wYWxldHRlPSJlbmQiIHJlZmVyZW5jZT0icHJhY28iIGNsYXNzPSJzcGFjZSIgaWQ9ImU1IiBrOS11aT0iZHJhZyBsYWJlbCIgazktZWxlbT0iZnJvbSIgazktY29udGFpbmVycz0ibGluayI+CiAgICA8Z3JhYiBrOS1lbGVtPSJncmFiIiBrOS1pbmRpY2F0b3I9ImZpbGwgZ3JhYiI+CiAgICAgIDxzdmc6cG9seWdvbiBwb2ludHM9IjEyIC0xMCwgLTggMCwgMTIgMTAiLz4KICAgIDwvZ3JhYj4KICAgIAogICAgPGdyYWIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiIGs5LWVsZW09ImdyYWIiPgogICAgICA8c3ZnOnBvbHlnb24gcG9pbnRzPSIxMiAtMTAsIC04IDAsIDEyIDEwIi8+CiAgICA8L2dyYWI+CiAgICAKICAKICA8L2Zyb20+CiAgICAgIDx0byBrOS11aT0iZHJhZyBsYWJlbCIgazktZWxlbT0idG8iIGlkPSJlNiIgazktcGFsZXR0ZT0iZW5kIiBrOS1jb250YWluZXJzPSJsaW5rIiByZWZlcmVuY2U9ImlkXzYiPgogICAgPGdyYWIgazktZWxlbT0iZ3JhYiIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiPgogICAgICA8c3ZnOmVsbGlwc2Ugcng9IjgiIHJ5PSI4IiBjeD0iMCIgY3k9IjAiLz4KICAgIDwvZ3JhYj4KICAgIAogICAgPGdyYWIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiIGs5LWVsZW09ImdyYWIiPgogICAgICA8c3ZnOmVsbGlwc2Ugcng9IjgiIHJ5PSI4IiBjeD0iMCIgY3k9IjAiLz4KICAgIDwvZ3JhYj4KICAgIAogIAogIDwvdG8+CiAgICAKICAgIDxsaW5rLWJvZHkgazktZWxlbT0ibGluay1ib2R5Ij4KICAgICAgPHN2ZzpwYXRoIG1hcmtlci1zdGFydD0idXJsKCMtc3RhcnQtbWFya2VyKSIgZD0iI3skcGF0aH0iIG1hcmtlci1lbmQ9InVybCgjLWVuZC1tYXJrZXIpIiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstYm9keT4KICAKICAgIDxsaW5rLWJvZHkgazktZWxlbT0ibGluay1ib2R5Ij4KICAgICAgPHN2ZzpwYXRoIG1hcmtlci1zdGFydD0idXJsKCMtc3RhcnQtbWFya2VyKSIgZD0iI3skcGF0aH0iIG1hcmtlci1lbmQ9InVybCgjLWVuZC1tYXJrZXIpIiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstYm9keT4KICA8L2xpbms+CgogICAgPGxpbmsgazktY29udGFpbnM9ImVuZCBsYWJlbCIgazktcGFsZXR0ZT0ibGluayIgZHJhd0RpcmVjdGlvbj0iUklHSFQiIGlkPSJpZF83IiBrOS11aT0iZGVsZXRlIGxpbmsgY2FzY2FkZSBkcm9wIiBrOS1lbGVtPSJsaW5rIiBrOS1jb250YWluZXJzPSIqIj4KICAgIDxsaW5rLWdyYWIgazktZWxlbT0ibGluay1ncmFiIiBrOS1pbmRpY2F0b3I9ImJhciBzdHJva2UiPgogICAgICA8c3ZnOnBhdGggazktYW5pbWF0ZT0ibGluayIgZD0iI3skcGF0aH0iLz4KICAgIDwvbGluay1ncmFiPgogICAgCiAgICA8bGluay1ncmFiIGs5LWluZGljYXRvcj0iYmFyIHN0cm9rZSIgazktZWxlbT0ibGluay1ncmFiIj4KICAgICAgPHN2ZzpwYXRoIGQ9IiN7JHBhdGh9IiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstZ3JhYj4KICAgIAogICAgICA8ZnJvbSBrOS11aT0iZHJhZyBsYWJlbCIgazktZWxlbT0iZnJvbSIgaWQ9ImU3IiBrOS1wYWxldHRlPSJlbmQiIGs5LWNvbnRhaW5lcnM9ImxpbmsiIHJlZmVyZW5jZT0iaWRfNiI+CiAgICA8Z3JhYiBrOS1lbGVtPSJncmFiIiBrOS1pbmRpY2F0b3I9ImZpbGwgZ3JhYiI+CiAgICAgIDxzdmc6cG9seWdvbiBwb2ludHM9IjEyIC0xMCwgLTggMCwgMTIgMTAiLz4KICAgIDwvZ3JhYj4KICAgIAogICAgPGdyYWIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiIGs5LWVsZW09ImdyYWIiPgogICAgICA8c3ZnOnBvbHlnb24gcG9pbnRzPSIxMiAtMTAsIC04IDAsIDEyIDEwIi8+CiAgICA8L2dyYWI+CiAgICAKICAKICA8L2Zyb20+CiAgICAgIDx0byBrOS1wYWxldHRlPSJlbmQiIHNoYXBlPSJhcnJvdyIgcmVmZXJlbmNlPSJpZF84IiBjbGFzcz0ic3BhY2UiIGlkPSJlOCIgazktdWk9ImRyYWcgbGFiZWwiIGs5LWVsZW09InRvIiBrOS1jb250YWluZXJzPSJsaW5rIj4KICAgIDxncmFiIGs5LWVsZW09ImdyYWIiIGs5LWluZGljYXRvcj0iZmlsbCBncmFiIj4KICAgICAgPHN2ZzplbGxpcHNlIHJ4PSI4IiByeT0iOCIgY3g9IjAiIGN5PSIwIi8+CiAgICA8L2dyYWI+CiAgICAKICAgIDxncmFiIGs5LWluZGljYXRvcj0iZmlsbCBncmFiIiBrOS1lbGVtPSJncmFiIj4KICAgICAgPHN2ZzplbGxpcHNlIHJ4PSI4IiByeT0iOCIgY3g9IjAiIGN5PSIwIi8+CiAgICA8L2dyYWI+CiAgICAKICAKICA8L3RvPgogICAgCiAgICA8bGluay1ib2R5IGs5LWVsZW09ImxpbmstYm9keSI+CiAgICAgIDxzdmc6cGF0aCBtYXJrZXItc3RhcnQ9InVybCgjLXN0YXJ0LW1hcmtlcikiIGQ9IiN7JHBhdGh9IiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93LWVuZC1tYXJrZXIpIiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstYm9keT4KICAKICAgIDxsaW5rLWJvZHkgazktZWxlbT0ibGluay1ib2R5Ij4KICAgICAgPHN2ZzpwYXRoIG1hcmtlci1zdGFydD0idXJsKCMtc3RhcnQtbWFya2VyKSIgZD0iI3skcGF0aH0iIG1hcmtlci1lbmQ9InVybCgjYXJyb3ctZW5kLW1hcmtlcikiIGs5LWFuaW1hdGU9ImxpbmsiLz4KICAgIDwvbGluay1ib2R5PgogIDwvbGluaz4KCiAgICA8bGluayBrOS1jb250YWlucz0iZW5kIGxhYmVsIiBrOS1wYWxldHRlPSJsaW5rIiBkcmF3RGlyZWN0aW9uPSJSSUdIVCIgaWQ9ImlkXzE1IiBrOS11aT0iZGVsZXRlIGxpbmsgY2FzY2FkZSBkcm9wIiBrOS1lbGVtPSJsaW5rIiBrOS1jb250YWluZXJzPSIqIj4KICAgIDxsaW5rLWdyYWIgazktZWxlbT0ibGluay1ncmFiIiBrOS1pbmRpY2F0b3I9ImJhciBzdHJva2UiPgogICAgICA8c3ZnOnBhdGggazktYW5pbWF0ZT0ibGluayIgZD0iI3skcGF0aH0iLz4KICAgIDwvbGluay1ncmFiPgogICAgCiAgICA8bGluay1ncmFiIGs5LWluZGljYXRvcj0iYmFyIHN0cm9rZSIgazktZWxlbT0ibGluay1ncmFiIj4KICAgICAgPHN2ZzpwYXRoIGQ9IiN7JHBhdGh9IiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstZ3JhYj4KICAgIAogICAgICA8ZnJvbSBrOS1wYWxldHRlPSJlbmQiIHJlZmVyZW5jZT0iaWRfOCIgY2xhc3M9InNwYWNlIiBpZD0iZTkiIGs5LXVpPSJkcmFnIGxhYmVsIiBrOS1lbGVtPSJmcm9tIiBrOS1jb250YWluZXJzPSJsaW5rIj4KICAgIDxncmFiIGs5LWVsZW09ImdyYWIiIGs5LWluZGljYXRvcj0iZmlsbCBncmFiIj4KICAgICAgPHN2Zzpwb2x5Z29uIHBvaW50cz0iMTIgLTEwLCAtOCAwLCAxMiAxMCIvPgogICAgPC9ncmFiPgogICAgCiAgICA8Z3JhYiBrOS1pbmRpY2F0b3I9ImZpbGwgZ3JhYiIgazktZWxlbT0iZ3JhYiI+CiAgICAgIDxzdmc6cG9seWdvbiBwb2ludHM9IjEyIC0xMCwgLTggMCwgMTIgMTAiLz4KICAgIDwvZ3JhYj4KICAgIAogIAogIDwvZnJvbT4KICAgICAgPHRvIGs5LXVpPSJkcmFnIGxhYmVsIiBrOS1lbGVtPSJ0byIgaWQ9ImUxMCIgazktcGFsZXR0ZT0iZW5kIiBrOS1jb250YWluZXJzPSJsaW5rIiByZWZlcmVuY2U9ImlkXzkiPgogICAgPGdyYWIgazktZWxlbT0iZ3JhYiIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiPgogICAgICA8c3ZnOmVsbGlwc2Ugcng9IjgiIHJ5PSI4IiBjeD0iMCIgY3k9IjAiLz4KICAgIDwvZ3JhYj4KICAgIAogICAgPGdyYWIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiIGs5LWVsZW09ImdyYWIiPgogICAgICA8c3ZnOmVsbGlwc2Ugcng9IjgiIHJ5PSI4IiBjeD0iMCIgY3k9IjAiLz4KICAgIDwvZ3JhYj4KICAgIAogIAogIDwvdG8+CiAgICAKICAgIDxsaW5rLWJvZHkgazktZWxlbT0ibGluay1ib2R5Ij4KICAgICAgPHN2ZzpwYXRoIG1hcmtlci1zdGFydD0idXJsKCMtc3RhcnQtbWFya2VyKSIgZD0iI3skcGF0aH0iIG1hcmtlci1lbmQ9InVybCgjLWVuZC1tYXJrZXIpIiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstYm9keT4KICAKICAgIDxsaW5rLWJvZHkgazktZWxlbT0ibGluay1ib2R5Ij4KICAgICAgPHN2ZzpwYXRoIG1hcmtlci1zdGFydD0idXJsKCMtc3RhcnQtbWFya2VyKSIgZD0iI3skcGF0aH0iIG1hcmtlci1lbmQ9InVybCgjLWVuZC1tYXJrZXIpIiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstYm9keT4KICA8L2xpbms+CiAgICA8bGluayBrOS1jb250YWlucz0iZW5kIGxhYmVsIiBrOS1wYWxldHRlPSJsaW5rIiBkcmF3RGlyZWN0aW9uPSJSSUdIVCIgaWQ9ImlkXzE3IiBrOS11aT0iZGVsZXRlIGxpbmsgY2FzY2FkZSBkcm9wIiBrOS1lbGVtPSJsaW5rIiBrOS1jb250YWluZXJzPSIqIj4KICAgIDxsaW5rLWdyYWIgazktZWxlbT0ibGluay1ncmFiIiBrOS1pbmRpY2F0b3I9ImJhciBzdHJva2UiPgogICAgICA8c3ZnOnBhdGggazktYW5pbWF0ZT0ibGluayIgZD0iI3skcGF0aH0iLz4KICAgIDwvbGluay1ncmFiPgogICAgCiAgICA8bGluay1ncmFiIGs5LWluZGljYXRvcj0iYmFyIHN0cm9rZSIgazktZWxlbT0ibGluay1ncmFiIj4KICAgICAgPHN2ZzpwYXRoIGQ9IiN7JHBhdGh9IiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstZ3JhYj4KICAgIAogICAgICA8ZnJvbSBrOS11aT0iZHJhZyBsYWJlbCIgazktZWxlbT0iZnJvbSIgaWQ9ImUxMSIgazktcGFsZXR0ZT0iZW5kIiBrOS1jb250YWluZXJzPSJsaW5rIiByZWZlcmVuY2U9ImlkXzkiPgogICAgPGdyYWIgazktZWxlbT0iZ3JhYiIgazktaW5kaWNhdG9yPSJmaWxsIGdyYWIiPgogICAgICA8c3ZnOnBvbHlnb24gcG9pbnRzPSIxMiAtMTAsIC04IDAsIDEyIDEwIi8+CiAgICA8L2dyYWI+CiAgICAKICAgIDxncmFiIGs5LWluZGljYXRvcj0iZmlsbCBncmFiIiBrOS1lbGVtPSJncmFiIj4KICAgICAgPHN2Zzpwb2x5Z29uIHBvaW50cz0iMTIgLTEwLCAtOCAwLCAxMiAxMCIvPgogICAgPC9ncmFiPgogICAgCiAgCiAgPC9mcm9tPgogICAgICA8dG8gazktcGFsZXR0ZT0iZW5kIiBzaGFwZT0iYXJyb3ciIHJlZmVyZW5jZT0iaWRfMTAiIGNsYXNzPSJzcGFjZSIgaWQ9ImUxMiIgazktdWk9ImRyYWcgbGFiZWwiIGs5LWVsZW09InRvIiBrOS1jb250YWluZXJzPSJsaW5rIj4KICAgIDxncmFiIGs5LWVsZW09ImdyYWIiIGs5LWluZGljYXRvcj0iZmlsbCBncmFiIj4KICAgICAgPHN2ZzplbGxpcHNlIHJ4PSI4IiByeT0iOCIgY3g9IjAiIGN5PSIwIi8+CiAgICA8L2dyYWI+CiAgICAKICAgIDxncmFiIGs5LWluZGljYXRvcj0iZmlsbCBncmFiIiBrOS1lbGVtPSJncmFiIj4KICAgICAgPHN2ZzplbGxpcHNlIHJ4PSI4IiByeT0iOCIgY3g9IjAiIGN5PSIwIi8+CiAgICA8L2dyYWI+CiAgICAKICAKICA8L3RvPgogICAgCiAgICA8bGluay1ib2R5IGs5LWVsZW09ImxpbmstYm9keSI+CiAgICAgIDxzdmc6cGF0aCBtYXJrZXItc3RhcnQ9InVybCgjLXN0YXJ0LW1hcmtlcikiIGQ9IiN7JHBhdGh9IiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93LWVuZC1tYXJrZXIpIiBrOS1hbmltYXRlPSJsaW5rIi8+CiAgICA8L2xpbmstYm9keT4KICAKICAgIDxsaW5rLWJvZHkgazktZWxlbT0ibGluay1ib2R5Ij4KICAgICAgPHN2ZzpwYXRoIG1hcmtlci1zdGFydD0idXJsKCMtc3RhcnQtbWFya2VyKSIgZD0iI3skcGF0aH0iIG1hcmtlci1lbmQ9InVybCgjYXJyb3ctZW5kLW1hcmtlcikiIGs5LWFuaW1hdGU9ImxpbmsiLz4KICAgIDwvbGluay1ib2R5PgogIDwvbGluaz4KCiAgCiAgCiAgPC9kaWFncmFtPgo8L3N2Zzpzdmc+</script></defs>
+
+  <g k9-contains="connected" k9-rounding="0pt" k9-shape="rect" k9-texture="background" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 26.666667938232422 26.666667938232422 26.666667938232422 26.666667938232422; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: diagram; rect-pos: [0.0,0.0]; rect-size: [1301.0,265.0]; " id="diagram-129" k9-ui="layout xml label" name="Pattern Language" k9-elem="diagram">
+    <g k9-info="" k9-indicator="pulse" k9-elem="back">
+		<rect x="0" width="1301.0" height="265.0" y="0"/>
+	</g>
+    <g k9-info="" k9-elem="indicator"/>
+    
+    <g k9-info="" k9-indicator="pulse" k9-elem="back">
+		<rect x="0" width="1301.0" height="265.0" y="0"/>
+	</g>
+    <g k9-info="" k9-elem="indicator"/>
+    
+
+
+    <g href="/public/templates/risk-first/redesign/artifacts/methodology_v2.svg" transform="translate(26.0,26.0)" k9-palette="connected risk " k9-texture="solid" k9-info="position: none; margin: 13.333333969116211 13.333333969116211 13.333333969116211 13.333333969116211; padding: 13.333333969116211 13.333333969116211 13.333333969116211 13.333333969116211; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [26.0,26.0]; rect-size: [160.0,213.0]; " class="generic" id="id_0" k9-ui="drag delete align connect autoconnect xml vote" k9-elem="risk">
+      <g k9-info="" k9-indicator="pulse" k9-elem="back">
+		<rect rx="5pt" ry="5pt" x="0" width="160.0" height="213.0" y="0"/>
+	</g> 
+      <g transform="translate(-4919.8,11.5)" k9-shape="code" k9-info="position: none; margin: 0.0 0.0 20.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [55.0,39.0]; rect-size: [102.0,29.0]; " id="id_0c" k9-format="textarea" k9-ui="orphan edit" k9-elem="code"><g font-family="'metropolis'" font-size="29.3333px" font-weight="300"><text x="4946.0269" xml:space="preserve" y="24.7867" stroke="none"><tspan>M</tspan><tspan>ethod</tspan></text></g></g>
+      <g href="/public/templates/risk-first/redesign/artifacts/methodology_v2.svg" transform="translate(47.0,62.0)" width="50pt" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: TOP; layout: null; rectangular: connected; rect-pos: [73.0,88.0]; rect-size: [66.0,66.0]; " id="id_0@image" height="50pt" k9-format="image-editable" k9-ui="image" k9-elem="image">
+		<g k9-elem="decal" k9-texture="solid" style="kite9-type: svg; kite9-usage: decal;" k9-info="">
+			<image x="0" y="0" width="66.0" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/public/templates/risk-first/redesign/artifacts/methodology_v2.svg" xlink:type="simple" xlink:actuate="onLoad" height="66.0" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+		</g>
+		<g k9-elem="front" k9-texture="none" style="kite9-type: svg; " k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [73.0,88.0]; rect-size: [66.0,66.0]; " k9-indicator="stroke pulse">
+			<rect rx="2" ry="2" x="0" width="50pt" height="50pt" y="0"/>
+		</g>
+	</g>
+      <g k9-info="" count="0" k9-elem="votes">
+    <rect x="-5pt" y="-5pt" width="52pt" rx="8pt" class="back" ry="8pt" height="26pt"/>
+    <text class="font-awesome" x="8pt" y="9pt"></text> 
+    <text class="count" x="30pt" y="9pt">0</text>
+  </g>
+      <g transform="translate(6.3,166.2)" k9-shape="title" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [56.0,193.0]; rect-size: [100.0,33.0]; " id="id_0t" k9-format="textarea" k9-ui="orphan edit" k9-elem="title"><g font-family="'metropolis'" font-size="16px" font-weight="200"><text x="38.5173" xml:space="preserve" y="13.52" stroke="none"><tspan>S</tspan><tspan>oftware </tspan></text><text x="22.1493" xml:space="preserve" y="31.12" stroke="none">Methodology</text></g></g>
+  </g>
+
+    <g transform="translate(247.0,112.0)" k9-palette="connected" k9-shape="arrow" k9-texture="solid" k9-info="position: none; margin: 20.0 20.0 20.0 20.0; padding: 10.666666984558105 6.6666669845581055 10.666666984558105 6.6666669845581055; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [247.0,112.0]; rect-size: [86.0,42.0]; " id="id_2" k9-format="inline-text" k9-ui="drag edit delete align connect insert autoconnect" k9-elem="arrow">
+		<g k9-info="" k9-indicator="pulse" k9-elem="back">
+		<rect rx="5pt" ry="5pt" x="0" width="86.0" height="42.0" y="0"/>
+	</g>
+		<g k9-ui="orphan edit" k9-elem="textarea" k9-shape="textarea" transform="translate(5.1,11.1)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [253.0,124.0]; rect-size: [74.0,18.0]; "><g fill="white" font-size="18.6667px" font-weight="500" font-family="'metropolis'" stroke="white"><text x="0" xml:space="preserve" y="15.7733" stroke="none"><tspan>e</tspan><tspan>mploys</tspan></text></g></g>
+	</g>
+
+    <g transform="translate(394.0,112.0)" k9-palette="connected " k9-texture="solid" k9-info="position: none; margin: 13.333333969116211 13.333333969116211 13.333333969116211 13.333333969116211; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [394.0,112.0]; rect-size: [126.0,42.0]; " id="praco" k9-ui="drag delete align connect autoconnect edit vote xml" k9-elem="action">
+    <g k9-info="" k9-indicator="pulse" k9-elem="shape">
+      <polygon points="0 0, 105.999999 0, 126.0 21, 105.999999 42.0, 0 42.0"/>
+    </g>
+    <g k9-info="" count="0" k9-elem="votes">
+    <rect x="-5pt" y="-5pt" width="52pt" rx="8pt" class="back" ry="8pt" height="26pt"/>
+    <text class="font-awesome" x="8pt" y="9pt"></text> 
+    <text class="count" x="30pt" y="9pt">0</text>
+  </g>
+    <g style="kite9-usage: regular; kite9-type: container; kite9-layout: down;  kite9-padding: 10pt; kite9-padding-right: 40pt; " k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 13.333333969116211 53.333335876464844 13.333333969116211 13.333333969116211; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [394.0,112.0]; rect-size: [126.0,42.0]; " k9-elem="front">
+      <g k9-ui="text" k9-elem="title" k9-shape="title" transform="translate(-30.6,12.2)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [407.0,125.0]; rect-size: [60.0,16.0]; "><g font-family="'metropolis'" font-size="16px" font-weight="200"><text x="42.3173" xml:space="preserve" y="13.52" stroke="none"><tspan>P</tspan><tspan>ractice</tspan></text></g></g>
+    </g>
+  </g>
+    
+    <g transform="translate(581.0,112.0)" k9-palette="connected" k9-shape="arrow" k9-texture="solid" k9-info="position: none; margin: 20.0 20.0 20.0 20.0; padding: 10.666666984558105 6.6666669845581055 10.666666984558105 6.6666669845581055; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [581.0,112.0]; rect-size: [91.0,42.0]; " id="id_6" k9-format="inline-text" k9-ui="drag edit delete align connect insert autoconnect" k9-elem="arrow">
+		<g k9-info="" k9-indicator="pulse" k9-elem="back">
+		<rect rx="5pt" ry="5pt" x="0" width="91.0" height="42.0" y="0"/>
+	</g>
+		<g k9-ui="orphan edit" k9-elem="textarea" k9-shape="textarea" transform="translate(4.6,11.1)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [587.0,124.0]; rect-size: [79.0,18.0]; "><g fill="white" font-size="18.6667px" font-weight="500" font-family="'metropolis'" stroke="white"><text x="0" xml:space="preserve" y="15.7733" stroke="none"><tspan>m</tspan><tspan>anages</tspan></text></g></g>
+	</g>
+
+    <g href="/public/templates/risk-first/redesign/risks/attendant_risk_v2.svg" transform="translate(733.0,26.0)" k9-palette="connected risk " k9-texture="solid" k9-info="position: none; margin: 13.333333969116211 13.333333969116211 13.333333969116211 13.333333969116211; padding: 13.333333969116211 13.333333969116211 13.333333969116211 13.333333969116211; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [733.0,26.0]; rect-size: [166.0,213.0]; " class="generic" id="id_8" k9-ui="drag delete align connect autoconnect xml vote" k9-elem="risk">
+      <g k9-info="" k9-indicator="pulse" k9-elem="back">
+		<rect rx="5pt" ry="5pt" x="0" width="166.0" height="213.0" y="0"/>
+	</g> 
+      <g transform="translate(-4916.7,11.5)" k9-shape="code" k9-info="position: none; margin: 0.0 0.0 20.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [746.0,39.0]; rect-size: [140.0,29.0]; " id="id_8c" k9-format="textarea" k9-ui="orphan edit" k9-elem="code"><g font-family="'metropolis'" font-size="29.3333px" font-weight="300"><text x="4928.7935" xml:space="preserve" y="24.7867" stroke="none"><tspan>A</tspan><tspan>ttendant</tspan></text></g></g>
+      <g href="/public/templates/risk-first/redesign/risks/attendant_risk_v2.svg" transform="translate(50.0,62.0)" width="50pt" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: TOP; layout: null; rectangular: connected; rect-pos: [783.0,88.0]; rect-size: [66.0,66.0]; " id="id_8@image" height="50pt" k9-format="image-editable" k9-ui="image" k9-elem="image">
+		<g k9-elem="decal" k9-texture="solid" style="kite9-type: svg; kite9-usage: decal;" k9-info="">
+			<image x="0" y="0" width="66.0" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/public/templates/risk-first/redesign/risks/attendant_risk_v2.svg" xlink:type="simple" xlink:actuate="onLoad" height="66.0" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+		</g>
+		<g k9-elem="front" k9-texture="none" style="kite9-type: svg; " k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [783.0,88.0]; rect-size: [66.0,66.0]; " k9-indicator="stroke pulse">
+			<rect rx="2" ry="2" x="0" width="50pt" height="50pt" y="0"/>
+		</g>
+	</g>
+      <g k9-info="" count="0" k9-elem="votes">
+    <rect x="-5pt" y="-5pt" width="52pt" rx="8pt" class="back" ry="8pt" height="26pt"/>
+    <text class="font-awesome" x="8pt" y="9pt"></text> 
+    <text class="count" x="30pt" y="9pt">0</text>
+  </g>
+      <g transform="translate(10.4,166.2)" k9-shape="title" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [787.0,193.0]; rect-size: [59.0,33.0]; " id="id_8t" k9-format="textarea" k9-ui="orphan edit" k9-elem="title"><g font-family="'metropolis'" font-size="16px" font-weight="200"><text x="47.6933" xml:space="preserve" y="13.52" stroke="none"><tspan>R</tspan><tspan>isk </tspan><tspan>to</tspan></text><text x="42.4213" xml:space="preserve" y="31.12" stroke="none">manage</text></g></g>
+  </g>
+
+    <g transform="translate(960.0,114.0)" k9-palette="connected" k9-shape="arrow" k9-texture="solid" k9-info="position: none; margin: 20.0 20.0 20.0 20.0; padding: 10.666666984558105 6.6666669845581055 10.666666984558105 6.6666669845581055; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: null; rectangular: connected; rect-pos: [960.0,114.0]; rect-size: [94.0,38.0]; " id="id_9" k9-format="inline-text" k9-ui="drag edit delete align connect insert autoconnect" k9-elem="arrow">
+		<g k9-info="" k9-indicator="pulse" k9-elem="back">
+		<rect rx="5pt" ry="5pt" x="0" width="94.0" height="38.0" y="0"/>
+	</g>
+		<g k9-ui="orphan edit" k9-elem="textarea" k9-shape="textarea" transform="translate(5.1,9.1)" k9-format="textarea" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [966.0,124.0]; rect-size: [82.0,18.0]; "><g fill="white" font-size="18.6667px" font-weight="500" font-family="'metropolis'" stroke="white"><text x="0" xml:space="preserve" y="15.7733" stroke="none"><tspan>o</tspan><tspan>bstructs</tspan></text></g></g>
+	</g>
+
+    <g href="/public/templates/risk-first/redesign/risks/goal_v2.svg" transform="translate(1115.0,26.0)" k9-palette="connected risk " k9-texture="solid" k9-info="position: none; margin: 13.333333969116211 13.333333969116211 13.333333969116211 13.333333969116211; padding: 13.333333969116211 13.333333969116211 13.333333969116211 13.333333969116211; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; layout: DOWN; rectangular: connected; rect-pos: [1115.0,26.0]; rect-size: [160.0,213.0]; " class="generic" id="id_10" k9-ui="drag delete align connect autoconnect xml vote" k9-elem="risk">
+      <g k9-info="" k9-indicator="pulse" k9-elem="back">
+		<rect rx="5pt" ry="5pt" x="0" width="160.0" height="213.0" y="0"/>
+	</g> 
+      <g transform="translate(-4919.6,11.5)" k9-shape="code" k9-info="position: none; margin: 0.0 0.0 20.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: TOP; rectangular: connected; rect-pos: [1165.0,39.0]; rect-size: [60.0,29.0]; " id="id_10g" k9-format="textarea" k9-ui="orphan edit" k9-elem="code"><g font-family="'metropolis'" font-size="29.3333px" font-weight="300"><text x="4968.0854" xml:space="preserve" y="24.7867" stroke="none"><tspan>G</tspan><tspan>oal</tspan></text></g></g>
+      <g href="/public/templates/risk-first/redesign/risks/goal_v2.svg" transform="translate(47.0,62.0)" width="50pt" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: TOP; layout: null; rectangular: connected; rect-pos: [1162.0,88.0]; rect-size: [66.0,66.0]; " id="id_10@image" height="50pt" k9-format="image-editable" k9-ui="image" k9-elem="image">
+		<g k9-elem="decal" k9-texture="solid" style="kite9-type: svg; kite9-usage: decal;" k9-info="">
+			<image x="0" y="0" width="66.0" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/public/templates/risk-first/redesign/risks/goal_v2.svg" xlink:type="simple" xlink:actuate="onLoad" height="66.0" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
+		</g>
+		<g k9-elem="front" k9-texture="none" style="kite9-type: svg; " k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: CENTER; rectangular: connected; rect-pos: [1162.0,88.0]; rect-size: [66.0,66.0]; " k9-indicator="stroke pulse">
+			<rect rx="2" ry="2" x="0" width="50pt" height="50pt" y="0"/>
+		</g>
+	</g>
+      <g k9-info="" count="0" k9-elem="votes">
+    <rect x="-5pt" y="-5pt" width="52pt" rx="8pt" class="back" ry="8pt" height="26pt"/>
+    <text class="font-awesome" x="8pt" y="9pt"></text> 
+    <text class="count" x="30pt" y="9pt">0</text>
+  </g>
+      <g transform="translate(6.5,166.2)" k9-shape="title" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 0.0 0.0 0.0 0.0; sizing: MINIMIZE MINIMIZE; horiz: CENTER; vert: BOTTOM; rectangular: connected; rect-pos: [1169.0,193.0]; rect-size: [52.0,33.0]; " id="id10t" k9-format="textarea" k9-ui="orphan edit" k9-elem="title"><g font-family="'metropolis'" font-size="16px" font-weight="200"><text x="46.1893" xml:space="preserve" y="13.52" stroke="none"><tspan>P</tspan><tspan>roject</tspan></text><text x="55.9253" xml:space="preserve" y="31.12" stroke="none">Goal</text></g></g>
+  </g>
+
+    <g k9-contains="end label" k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_0','id_2']; direction: RIGHT; " id="id_1" k9-ui="delete link cascade drop" k9-containers="*" k9-elem="link">
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path k9-animate="link" d="M196.6667 133 L236.3333 133"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path d="M196.6667 133 L236.3333 133" k9-animate="link"/>
+    </g>
+    
+      <g transform="translate(186.0,133.0)" k9-palette="end" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_1; terminates-at: id_0; end: from; rectangular: terminator; rect-pos: [186.0,133.0]; rect-size: [0.0,0.0]; " reference="id_0" class="space" id="e1" k9-ui="drag label" k9-containers="link" k9-elem="from">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+  
+  </g>
+      <g transform="translate(247.0,133.0)" k9-palette="end" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_1; terminates-at: id_2; end: to; rectangular: terminator; rect-pos: [247.0,133.0]; rect-size: [0.0,0.0]; " reference="id_2" id="e2" k9-ui="drag label" k9-elem="to" k9-containers="link">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+  
+  </g>
+    
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M196.6667 133 L236.3333 133" marker-end="url(#-end-marker)" k9-animate="link"/>
+    </g>
+  
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M196.6667 133 L236.3333 133" marker-end="url(#-end-marker)" k9-animate="link"/>
+    </g>
+  </g>
+
+    <g k9-contains="end label" k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_2','praco']; direction: RIGHT; " id="id_3" k9-ui="delete link cascade drop" k9-containers="*" k9-elem="link">
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path k9-animate="link" d="M343.6667 133 L383.3333 133"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path d="M343.6667 133 L383.3333 133" k9-animate="link"/>
+    </g>
+    
+      <g transform="translate(333.0,133.0)" k9-palette="end" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_3; terminates-at: id_2; end: from; rectangular: terminator; rect-pos: [333.0,133.0]; rect-size: [0.0,0.0]; " reference="id_2" id="e3" k9-ui="drag label" k9-elem="from" k9-containers="link">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+  
+  </g>
+      <g transform="translate(394.0,133.0)" k9-palette="end" shape="arrow" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_3; terminates-at: praco; end: to; rectangular: terminator; rect-pos: [394.0,133.0]; rect-size: [0.0,0.0]; " reference="praco" class="space" id="e4" k9-ui="drag label" k9-containers="link" k9-elem="to">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+  
+  </g>
+    
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M343.6667 133 L383.3333 133" marker-end="url(#arrow-end-marker)" k9-animate="link"/>
+    </g>
+  
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M343.6667 133 L383.3333 133" marker-end="url(#arrow-end-marker)" k9-animate="link"/>
+    </g>
+  </g>
+
+    <g k9-contains="end label" k9-palette="link" drawDirection="RIGHT" k9-info="link: ['praco','id_6']; direction: RIGHT; " id="id_5" k9-ui="delete link cascade drop" k9-containers="*" k9-elem="link">
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path k9-animate="link" d="M530.6667 133 L570.3333 133"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path d="M530.6667 133 L570.3333 133" k9-animate="link"/>
+    </g>
+    
+      <g transform="translate(520.0,133.0)" k9-palette="end" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_5; terminates-at: praco; end: from; rectangular: terminator; rect-pos: [520.0,133.0]; rect-size: [0.0,0.0]; " reference="praco" class="space" id="e5" k9-ui="drag label" k9-containers="link" k9-elem="from">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+  
+  </g>
+      <g transform="translate(581.0,133.0)" k9-palette="end" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_5; terminates-at: id_6; end: to; rectangular: terminator; rect-pos: [581.0,133.0]; rect-size: [0.0,0.0]; " reference="id_6" id="e6" k9-ui="drag label" k9-elem="to" k9-containers="link">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+  
+  </g>
+    
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M530.6667 133 L570.3333 133" marker-end="url(#-end-marker)" k9-animate="link"/>
+    </g>
+  
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M530.6667 133 L570.3333 133" marker-end="url(#-end-marker)" k9-animate="link"/>
+    </g>
+  </g>
+
+    <g k9-contains="end label" k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_6','id_8']; direction: RIGHT; " id="id_7" k9-ui="delete link cascade drop" k9-containers="*" k9-elem="link">
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path k9-animate="link" d="M682.6667 133 L722.3333 133"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path d="M682.6667 133 L722.3333 133" k9-animate="link"/>
+    </g>
+    
+      <g transform="translate(672.0,133.0)" k9-palette="end" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_7; terminates-at: id_6; end: from; rectangular: terminator; rect-pos: [672.0,133.0]; rect-size: [0.0,0.0]; " reference="id_6" id="e7" k9-ui="drag label" k9-elem="from" k9-containers="link">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+  
+  </g>
+      <g transform="translate(733.0,133.0)" k9-palette="end" shape="arrow" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_7; terminates-at: id_8; end: to; rectangular: terminator; rect-pos: [733.0,133.0]; rect-size: [0.0,0.0]; " reference="id_8" class="space" id="e8" k9-ui="drag label" k9-containers="link" k9-elem="to">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+  
+  </g>
+    
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M682.6667 133 L722.3333 133" marker-end="url(#arrow-end-marker)" k9-animate="link"/>
+    </g>
+  
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M682.6667 133 L722.3333 133" marker-end="url(#arrow-end-marker)" k9-animate="link"/>
+    </g>
+  </g>
+
+    <g k9-contains="end label" k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_8','id_9']; direction: RIGHT; " id="id_15" k9-ui="delete link cascade drop" k9-containers="*" k9-elem="link">
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path k9-animate="link" d="M909.6667 133 L949.3333 133"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path d="M909.6667 133 L949.3333 133" k9-animate="link"/>
+    </g>
+    
+      <g transform="translate(899.0,133.0)" k9-palette="end" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_15; terminates-at: id_8; end: from; rectangular: terminator; rect-pos: [899.0,133.0]; rect-size: [0.0,0.0]; " reference="id_8" class="space" id="e9" k9-ui="drag label" k9-containers="link" k9-elem="from">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+  
+  </g>
+      <g transform="translate(960.0,133.0)" k9-palette="end" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_15; terminates-at: id_9; end: to; rectangular: terminator; rect-pos: [960.0,133.0]; rect-size: [0.0,0.0]; " reference="id_9" id="e10" k9-ui="drag label" k9-elem="to" k9-containers="link">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+  
+  </g>
+    
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M909.6667 133 L949.3333 133" marker-end="url(#-end-marker)" k9-animate="link"/>
+    </g>
+  
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M909.6667 133 L949.3333 133" marker-end="url(#-end-marker)" k9-animate="link"/>
+    </g>
+  </g>
+    <g k9-contains="end label" k9-palette="link" drawDirection="RIGHT" k9-info="link: ['id_9','id_10']; direction: RIGHT; " id="id_17" k9-ui="delete link cascade drop" k9-containers="*" k9-elem="link">
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path k9-animate="link" d="M1064.6666 133 L1104.3334 133"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="bar stroke" k9-elem="link-grab">
+      <path d="M1064.6666 133 L1104.3334 133" k9-animate="link"/>
+    </g>
+    
+      <g transform="translate(1054.0,133.0)" k9-palette="end" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_17; terminates-at: id_9; end: from; rectangular: terminator; rect-pos: [1054.0,133.0]; rect-size: [0.0,0.0]; " reference="id_9" id="e11" k9-ui="drag label" k9-elem="from" k9-containers="link">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <polygon points="12 -10, -8 0, 12 10"/>
+    </g>
+    
+  
+  </g>
+      <g transform="translate(1115.0,133.0)" k9-palette="end" shape="arrow" k9-info="position: none; margin: 0.0 0.0 0.0 0.0; padding: 10.666666984558105 10.666666984558105 10.666666984558105 10.666666984558105; sizing: MINIMIZE MINIMIZE; terminates: id_17; terminates-at: id_10; end: to; rectangular: terminator; rect-pos: [1115.0,133.0]; rect-size: [0.0,0.0]; " reference="id_10" class="space" id="e12" k9-ui="drag label" k9-containers="link" k9-elem="to">
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+    <g k9-info="" k9-indicator="fill grab" k9-elem="grab">
+      <ellipse rx="8" ry="8" cx="0" cy="0"/>
+    </g>
+    
+  
+  </g>
+    
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M1064.6666 133 L1104.3334 133" marker-end="url(#arrow-end-marker)" k9-animate="link"/>
+    </g>
+  
+    <g k9-info="" k9-elem="link-body">
+      <path marker-start="url(#-start-marker)" d="M1064.6666 133 L1104.3334 133" marker-end="url(#arrow-end-marker)" k9-animate="link"/>
+    </g>
+  </g>
+
+  
+  
+  </g>
+<defs>
+    <marker refX="3" refY="3" fill="none" orient="auto" markerHeight="15" id="indicator-arrow" preserveAspectRatio="xMidYMid meet" stroke="none" markerWidth="15">
+        <path d="M0,0 L3,3 L0,6" k9-indicator="stroke"/>
+    </marker>
+  </defs><defs>
+
+    <!-- Link Ends -->
+    
+    <marker id="-start-marker" preserveAspectRatio="xMidYMid meet">
+    </marker>
+
+    <marker id="-end-marker" preserveAspectRatio="xMidYMid meet">
+    </marker>
+    
+     <marker refX="1" refY="3" orient="auto" markerHeight="6" id="strike-start-marker" preserveAspectRatio="xMidYMid meet" markerWidth="8">
+      <path class="strike-marker" d="         M7,0 L5,6 h-1 L6,0z"/>
+    </marker>
+
+    <marker refX="7" refY="3" orient="auto" markerHeight="6" id="strike-end-marker" preserveAspectRatio="xMidYMid meet" markerWidth="8">
+      <path class="strike-marker" d="         M3,0 L1,6 h-1 L2,0z"/>
+    </marker>
+
+    <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-start-marker" markerWidth="6" refX="3">
+      <circle r="2" cx="3" class="circle-marker" cy="3"/>
+    </marker>
+
+    <marker refY="3" preserveAspectRatio="xMidYMid meet" markerHeight="6" id="circle-end-marker" markerWidth="6" refX="3">
+      <circle r="2" cx="3" class="circle-marker" cy="3"/>
+    </marker>
+
+    <marker refX="2" refY="3" orient="auto" markerHeight="6" id="diamond-start-marker" preserveAspectRatio="xMidYMid meet" markerWidth="8">
+      <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"/>
+    </marker>
+
+    <marker refX="6" refY="3" orient="auto" markerHeight="6" id="diamond-end-marker" preserveAspectRatio="xMidYMid meet" markerWidth="8">
+      <polygon class="diamond-marker" points="1,3 4,1 7,3 4,5"/>
+    </marker>
+
+    <marker refX="5" refY="3" orient="auto" markerHeight="6" id="open-diamond-start-marker" preserveAspectRatio="xMidYMid meet" markerWidth="8">
+      <path class="open-diamond-marker" d="         M0,3 L3,1 L6,3 L5,3 L3,1.66 L1,3             L3,4.33 L5,3 L6,3 L3,5 L0,3"/>
+    </marker>
+
+    <marker refX="1" refY="3" orient="auto" markerHeight="6" id="open-diamond-end-marker" preserveAspectRatio="xMidYMid meet" markerWidth="8">
+      <path class="open-diamond-marker" d="         M6,3 L3,1 L0,3 L1,3 L3,1.66 L5,3             L3,4.33 L1,3 L0,3 L3,5 L6,3"/>
+    </marker>
+
+    <marker refX="4" refY="4" orient="auto" markerHeight="7" id="barbed-arrow-end-marker" preserveAspectRatio="xMidYMid meet" markerWidth="7">
+      <path class="barbed-arrow-marker" d="M2,2 L6,4 L2,6 L4,4 L2,2"/>
+    </marker>
+
+    <marker refX="4" refY="4" orient="auto" markerHeight="7" id="barbed-arrow-start-marker" preserveAspectRatio="xMidYMid meet" markerWidth="7">
+      <path class="barbed-arrow-marker" d="M6,2 L2,4 L6,6 L4,4 L6,2"/>
+    </marker>
+
+    <marker refX="1" refY="4" orient="auto" markerHeight="7" id="open-arrow-end-marker" preserveAspectRatio="xMidYMid meet" markerWidth="7">
+       <path class="open-arrow-marker" d="         M6,4 L1,2 L1,3 L4,4 L1,5 L1,6 L6,4         M2,3 h-1 v2 h1z"/>
+    </marker>
+
+    <marker refX="6" refY="4" orient="auto" markerHeight="7" id="open-arrow-start-marker" preserveAspectRatio="xMidYMid meet" markerWidth="7">
+      <path class="open-arrow-marker" d="         M1,4 L6,2 L6,3 L3,4 L6,5 L6,6 L1,4         M5,3 h1 v2 h-1z"/>
+    </marker>
+
+    <marker refX="4" refY="4" orient="auto" markerHeight="7" id="arrow-start-marker" preserveAspectRatio="xMidYMid meet" markerWidth="7">
+      <polygon class="arrow-marker" points="2,4 6,2 6,6"/>
+    </marker>
+
+    <marker refX="4" refY="4" orient="auto" markerHeight="7" id="arrow-end-marker" preserveAspectRatio="xMidYMid meet" markerWidth="7">
+      <polygon class="arrow-marker" points="6,4 2,2 2,6"/>
+    </marker>
+    
+    <marker refX="5" refY="4" orient="auto" markerHeight="7" id="crow-end-marker" preserveAspectRatio="xMidYMid meet" markerWidth="7">
+       <path class="crow-marker" d="          M1,4 L4,1 l0.66 0.66 L2.3,4z          M1,4 L4,7 l0.66 -0.66 L2.3,4z"/>       
+    </marker>
+    
+    <marker refX="1" refY="4" orient="auto" markerHeight="7" id="crow-start-marker" preserveAspectRatio="xMidYMid meet" markerWidth="7">
+       <path class="crow-marker" d="          M5,4 L2,1 l-0.66 0.66 L3.66,4z          M5,4 L2,7 l-0.66 -0.66 L3.66,4z"/>       
+    </marker>
+    
+    <marker refX="2" refY="2" orient="auto" markerHeight="7" id="square-end-marker" preserveAspectRatio="xMidYMid meet" markerWidth="7">
+       <rect x="0" width="4" y="0" height="4" class="square-marker"/>       
+    </marker>
+    
+    <marker refX="2" refY="2" orient="auto" markerHeight="7" id="square-start-marker" preserveAspectRatio="xMidYMid meet" markerWidth="7">
+       <rect x="0" width="4" y="0" height="4" class="square-marker"/>       
+    </marker>
+
+  </defs><defs>
+    <filter xlink:actuate="onLoad" xlink:type="simple" height="130%" id="dropshadow" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <feGaussianBlur stdDeviation="4" in="SourceAlpha"/>
+      <feOffset dx="6" dy="6"/>
+      <feColorMatrix values="             0 0 0 0 0                 0 0 0 0 0                 0 0 0 0 0                 0 0 0 .4 0" type="matrix"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs><defs>
+    <linearGradient x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" y1="0%" x2="0%" y2="100%" xlink:type="simple" xlink:actuate="onLoad" id="risk-background" xlink:show="other">
+      <stop stop-color="#FFF" offset="0%"/>
+      <stop stop-color="#DDD" offset="100%"/>
+    </linearGradient>
+  <script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">document.params = { 'align-template-uri' : 'http://robs-macbook:8080/public/templates/links/common-links.adl#align', 
+ 'link-template-uri' : 'http://robs-macbook:8080/public/templates/links/common-links.adl#l6', 
+ 'cell-template-uri' : 'http://robs-macbook:8080/public/templates/grid/common-grid.adl#t1', 
+ 'palettes' : ['http://robs-macbook:8080/public/templates/links/common-links.adl', 'link', 'http://robs-macbook:8080/public/templates/links/common-ends.adl', 'end', 'http://robs-macbook:8080/public/templates/risk-first/artifact-palette.adl', 'connected risk', 'http://robs-macbook:8080/public/templates/risk-first/risk-palette.adl', 'connected risk', 'http://robs-macbook:8080/public/templates/containers/common-containers.adl', 'connected', 'http://robs-macbook:8080/public/templates/grid/common-grid.adl', 'cell table'] , 
+ 'label-template-uri' : 'http://robs-macbook:8080/public/templates/labels/common-labels.adl#label'
+ } 
+</script><script xlink:actuate="onLoad" xlink:type="simple" xlink:show="other" type="module" xmlns:xlink="http://www.w3.org/1999/xlink">
+import "http://robs-macbook:8080/public/templates/risk-first/risk-first.js";
+</script></defs></svg>
