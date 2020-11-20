@@ -56,10 +56,7 @@
     <front style="kite9-usage: regular; kite9-type: container; kite9-layout: down;  kite9-padding: 10pt; kite9-padding-right: 40pt; " k9-elem="front">
       <title k9-ui="text" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect width="146.66667" height="10000px"/></flowRegion><flowDiv><flowPara>ind</flowPara></flowDiv></flowRoot></title>
     </front>
-  </action><risk class="generic" href="/public/templates/risk-first/redesign/risks/attendant_risk_v2.svg" id="3">
-					<code id="3-0">Attendant</code>
-					<title id="3-1">Some Risk</title>
-				</risk><container k9-contains="connected" k9-palette="connected" k9-rounding="15pt" k9-shape="container" k9-texture="outline" class="solid" id="21" k9-ui="drag delete align connect layout label" k9-elem="container">
+  </action><container k9-contains="connected" k9-palette="connected" k9-rounding="15pt" k9-shape="container" k9-texture="outline" class="solid" id="21" k9-ui="drag delete align connect layout label" k9-elem="container">
     <back k9-indicator="pulse" k9-elem="back">
 		<svg:rect rx="15pt" width="#{$width}" x="0" ry="15pt" height="#{$height}" y="0"/>
 	</back>
@@ -139,7 +136,10 @@
       <title k9-ui="orphan edit" k9-elem="title" id="id_8t" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="146.66667"/></flowRegion><flowDiv><flowPara>Risk to </flowPara><flowPara>      manage</flowPara></flowDiv></flowRoot></title>
   </risk>
   
-  </container><link k9-ui="delete link cascade drop" k9-elem="link" k9-palette="link" id="4" k9-containers="*" k9-contains="end label">
+  </container><risk class="generic" href="/public/templates/risk-first/redesign/risks/attendant_risk_v2.svg" id="3">
+					<code id="3-0">Attendant</code>
+					<title id="3-1">Some Risk</title>
+				</risk><link k9-ui="delete link cascade drop" k9-elem="link" k9-palette="link" id="4" k9-containers="*" k9-contains="end label">
     <link-grab k9-indicator="bar stroke" k9-elem="link-grab">
       <svg:path d="#{$path}" k9-animate="link"/>
     </link-grab>
