@@ -1,0 +1,30 @@
+<svg:svg xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" preserveAspectRatio="xMidYMid meet" version="1.0">
+  <svg:defs>
+    <svg:style type="text/css" xml:space="preserve"> 
+       @import url("/public/templates/basic/basic.css");
+    </svg:style>
+    
+  </svg:defs>
+  <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
+
+     <g class="box" id="b1"><textarea id="t1">b1</textarea></g>
+     
+     <container id="bigbox" layout="horizontal">
+       <g class="box" id="b2"><textarea id="t2">b2</textarea></g>
+       
+       <g class="box" id="b3"><textarea id="t3">b3</textarea></g>
+     </container>
+     
+     <link r="r" id="link1">
+      <from class="arrow" reference="b1" id="link1-from"/>
+      <to reference="b3" class="arrow" id="link1-to"/>
+     </link>
+     
+     
+     <link id="link2" drawDirection="RIGHT">
+      <from class="hoverable selectable" reference="b1" id="link2-from"/>
+      <to reference="b2" class="hoverable selectable" id="link2-to"/>
+     </link>
+
+  </diagram>
+</svg:svg>
