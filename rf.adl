@@ -80,17 +80,17 @@
     <svg:text x="30pt" class="count" y="9pt">0</svg:text>
   </votes>
       <title k9-ui="orphan edit" k9-elem="title" id="id_8t" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="146.66667"/></flowRegion><flowDiv><flowPara>Risk to </flowPara><flowPara>      manage</flowPara></flowDiv></flowRoot></title>
-  </risk><action k9-ui="drag delete align connect autoconnect edit vote xml" k9-elem="action" k9-texture="solid" k9-palette="connected " id="praco">
-    <shape k9-indicator="pulse" k9-elem="shape">
-      <svg:polygon points="0 0, #{$width - (15 * $pt)} 0, #{$width} #{$height div 2}, #{$width - (15 * $pt) } #{$height}, 0 #{$height}"/>
+  </risk><action k9-ui="drag delete align connect autoconnect edit vote xml" k9-elem="action" id="praco" k9-palette="connected " k9-texture="solid" xmlns="http://www.kite9.org/schema/adl">
+    <shape k9-elem="shape" k9-indicator="pulse">
+      <svg:polygon points="0 0, #{$width - (15 * $pt)} 0, #{$width} #{$height div 2}, #{$width - (15 * $pt) } #{$height}, 0 #{$height}" xmlns:svg="http://www.w3.org/2000/svg"/>
     </shape>
-    <votes count="0" k9-elem="votes">
-    <svg:rect x="-5pt" y="-5pt" width="52pt" rx="8pt" class="back" height="26pt" ry="8pt"/>
-    <svg:text x="8pt" class="font-awesome" y="9pt"></svg:text> 
-    <svg:text x="30pt" class="count" y="9pt">0</svg:text>
+    <votes k9-elem="votes" count="0">
+    <svg:rect x="-5pt" y="-5pt" width="52pt" xmlns:svg="http://www.w3.org/2000/svg" rx="8pt" class="back" ry="8pt" height="26pt"/>
+    <svg:text xmlns:svg="http://www.w3.org/2000/svg" x="8pt" y="9pt" class="font-awesome"></svg:text> 
+    <svg:text xmlns:svg="http://www.w3.org/2000/svg" x="30pt" y="9pt" class="count">0</svg:text>
   </votes>
     <front style="kite9-usage: regular; kite9-type: container; kite9-layout: down;  kite9-padding: 10pt; kite9-padding-right: 40pt; " k9-elem="front">
-      <title k9-ui="text" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="146.66667"/></flowRegion><flowDiv><flowPara>This one goes out</flowPara><flowPara>to the one I love</flowPara><flowPara/><flowPara>This one goes out to the one I left behind</flowPara></flowDiv></flowRoot></title>
+      <title k9-ui="text" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect width="146.66667" height="10000px"/></flowRegion><flowDiv><flowPara>ind</flowPara></flowDiv></flowRoot></title>
     </front>
   </action><container k9-contains="connected" k9-palette="connected" k9-rounding="15pt" k9-shape="container" k9-texture="outline" class="solid" id="21" k9-ui="drag delete align connect layout label" k9-elem="container">
     <back k9-indicator="pulse" k9-elem="back">
