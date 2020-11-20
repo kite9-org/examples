@@ -73,7 +73,7 @@
       <svg:path d="M#{$width - 20} #{$height - 15} l10 0" marker-end="url(#indicator-arrow)"/>		
   </indicator>
     
-        <risk href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png" k9-palette="connected risk " k9-texture="solid" class="generic" id="id_8" k9-ui="drag delete align connect autoconnect xml vote" k9-elem="risk">
+        <risk href="/github/kite9-org/examples/.kite9/uploads/noun_PDF_519005.png" k9-palette="connected risk " k9-texture="solid" class="generic" id="id_8" k9-ui="drag delete align connect autoconnect xml vote" k9-elem="risk">
       <back k9-elem="back" k9-indicator="pulse">
 		<svg:rect rx="5pt" width="#{$width}" x="0" ry="5pt" height="#{$height}" y="0"/>
 	</back> 
