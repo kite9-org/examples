@@ -92,7 +92,9 @@
     <svg:text x="30pt" class="count" y="9pt">0</svg:text>
   </votes>
       <title k9-ui="orphan edit" k9-elem="title" id="id_8t" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="146.66667"/></flowRegion><flowDiv><flowPara>Risk to </flowPara><flowPara>      manage</flowPara></flowDiv></flowRoot></title>
-  </risk><container k9-contains="connected" k9-palette="connected" k9-rounding="15pt" k9-shape="container" k9-texture="outline" class="solid" id="21" k9-ui="drag delete align connect layout label" k9-elem="container">
+  </risk>
+  
+  </container><agent-artifact id="2">Agent</agent-artifact><container k9-contains="connected" k9-palette="connected" k9-rounding="15pt" k9-shape="container" k9-texture="outline" class="solid" id="21" k9-ui="drag delete align connect layout label" k9-elem="container">
     <back k9-indicator="pulse" k9-elem="back">
 		<svg:rect rx="15pt" width="#{$width}" x="0" ry="15pt" height="#{$height}" y="0"/>
 	</back>
@@ -134,9 +136,7 @@
     <title k9-ui="orphan edit" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="146.66667"/></flowRegion><flowDiv><flowPara>Artifact</flowPara></flowDiv></flowRoot></title>
   </generic-artifact>
   
-  </container>
-  
-  </container><agent-artifact id="2">Agent</agent-artifact><link k9-ui="delete link cascade drop" k9-elem="link" k9-palette="link" id="4" k9-containers="*" k9-contains="end label">
+  </container><link k9-ui="delete link cascade drop" k9-elem="link" k9-palette="link" id="4" k9-containers="*" k9-contains="end label">
     <link-grab k9-indicator="bar stroke" k9-elem="link-grab">
       <svg:path d="#{$path}" k9-animate="link"/>
     </link-grab>
