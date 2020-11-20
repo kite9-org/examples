@@ -273,7 +273,7 @@
     
   
   </from>
-				<to k9-palette="end" shape="barbed-arrow" reference="6" id="19-1" k9-ui="drag label" k9-containers="link" k9-elem="to">
+				<to k9-palette="end" shape="barbed-arrow" reference="id_8" id="19-1" k9-ui="drag label" k9-containers="link" k9-elem="to">
     <grab k9-indicator="fill grab" k9-elem="grab">
       <svg:polygon points="10 -12, 0 8, -10 -12"/>
     </grab>
