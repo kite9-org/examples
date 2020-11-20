@@ -297,8 +297,5 @@
   <link id="11">
 				<from reference="21" id="11-0"/>
 				<to reference="2" shape="barbed-arrow" id="11-1"/>
-			</link><align drawDirection="DOWN" id="16">
-				<from reference="12" id="16-0"/>
-				<to reference="2" id="16-1"/>
-			</align></diagram>
+			</link></diagram>
 </svg:svg>
