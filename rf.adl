@@ -223,7 +223,7 @@
       <svg:path k9-animate="link" d="#{$path}"/>
     </link-grab>
     
-				<from k9-ui="drag label" k9-elem="from" k9-palette="end" id="10-0" k9-containers="link" reference="12">
+				<from k9-ui="drag label" k9-elem="from" k9-palette="end" id="10-0" k9-containers="link" reference="20">
     <grab k9-indicator="fill grab" k9-elem="grab">
       <svg:polygon points="-12 -10, 8 0, -12 10"/>
     </grab>
