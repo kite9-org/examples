@@ -83,7 +83,7 @@
 		</front>
 	</image>
     <title k9-ui="orphan edit" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect width="146.66667" height="10000px"/></flowRegion><flowDiv><flowPara>Channel</flowPara></flowDiv></flowRoot></title>
-  </channel-artifact><component id="18">Some component</component><generic-artifact k9-ui="drag delete align connect autoconnect edit" k9-elem="generic-artifact" id="6" k9-texture="none" k9-palette="connected " href="/public/templates/risk-first/redesign/artifacts/document_v2.svg">
+  </channel-artifact><generic-artifact k9-ui="drag delete align connect autoconnect edit" k9-elem="generic-artifact" id="6" k9-texture="none" k9-palette="connected " href="/public/templates/risk-first/redesign/artifacts/document_v2.svg">
     <back k9-indicator="pulse" k9-elem="back">
 		<svg:rect rx="5pt" ry="5pt" x="0" width="#{$width}" y="0" height="#{$height}"/>
 	</back>
