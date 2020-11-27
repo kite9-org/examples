@@ -1,0 +1,26 @@
+{
+    "documents": [
+        {
+            "description": "",
+            "parents": null,
+            "title": "pom.xml",
+            "icon": "/public/templates/admin/icons/xml.svg",
+            "commands": "open",
+            "type": "document",
+            "_links": {
+                "self": {
+                    "href": "/github/kite9-org/kite9-java/pom.xml"
+                }
+            }
+        }
+    ],
+    "title": "kite9-java",
+    "commands": "focus NewDocument",
+    "icon": "/public/templates/admin/icons/project.svg",
+    "type": "repository",
+    "_links": {
+        "self": {
+            "href": "/github/kite9-org/kite9-java"
+        }
+    }
+}
