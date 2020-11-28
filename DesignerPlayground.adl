@@ -22,7 +22,13 @@
 				<symbol k9-shape="hexagon" id="s4">A</symbol>
 			</text-line>
 		</glyph>
-		<glyph id="2">
+		<glyph id="3">
+					<stereotype id="3-0">
+						Stereo
+					</stereotype>
+					<label id="3-1">One</label>
+					<text-line id="3-2">Some text</text-line>
+				</glyph><glyph id="2">
 					<label id="2-0">Part</label>
 				</glyph><context id="bb">
 			<glyph id="auto:1-two" rank="1">
@@ -41,5 +47,8 @@
 			<from reference="meets" id="e3"/>
 			<to class="arrow" reference="auto:1-two" id="auto:3"/>
 		</link>
-	</diagram>
+	<link drawDirection="UP" id="11">
+				<from reference="3" id="11-0"/>
+				<to reference="2" id="11-1"/>
+			</link></diagram>
 </svg:svg>
