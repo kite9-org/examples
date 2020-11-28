@@ -28,8 +28,6 @@
 					</stereotype>
 					<label id="3-1">One</label>
 					<text-line id="3-2">Some text</text-line>
-				</glyph><glyph id="2">
-					<label id="2-0">Part</label>
 				</glyph><context id="bb">
 			<glyph id="auto:1-two" rank="1">
 				<stereotype id="auto:1-two-stereo">Stereo</stereotype>
@@ -37,7 +35,9 @@
 			</glyph>
 			<arrow id="meets" rank="2">meets</arrow>
 			<arrow id="greets" rank="2">greets</arrow>
-			<label id="l1">Some Grouping</label>
+			<glyph id="2">
+					<label id="2-0">Part</label>
+				</glyph><label id="l1">Some Grouping</label>
 		</context>
 		<link id="meets-auto:0-one" rank="3">
 			<from reference="meets" id="e1"/>
@@ -50,5 +50,8 @@
 	<link drawDirection="UP" id="11">
 				<from reference="3" id="11-0"/>
 				<to reference="2" id="11-1"/>
-			</link></diagram>
+			</link><align drawDirection="UP" id="20">
+				<from reference="2" id="20-0"/>
+				<to reference="greets" id="20-1"/>
+			</align></diagram>
 </svg:svg>
