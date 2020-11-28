@@ -47,11 +47,11 @@
 			<from reference="meets" id="e3"/>
 			<to class="arrow" reference="auto:1-two" id="auto:3"/>
 		</link>
-	<link drawDirection="UP" id="11">
-				<from reference="3" id="11-0"/>
-				<to reference="2" id="11-1"/>
-			</link><align drawDirection="UP" id="20">
+	<align drawDirection="UP" id="20">
 				<from reference="2" id="20-0"/>
 				<to reference="greets" id="20-1"/>
-			</align></diagram>
+			</align><link id="11">
+				<from reference="3" id="11-0"/>
+				<to reference="2" id="11-1"/>
+			</link></diagram>
 </svg:svg>
