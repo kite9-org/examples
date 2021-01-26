@@ -7,13 +7,13 @@
   </svg:defs>
 
   <diagram xmlns="http://www.kite9.org/schema/adl" k9-contains="connected" k9-rounding="0pt" k9-shape="rect" k9-texture="background" id="diagram-129" k9-ui="layout xml label" name="Pattern Language" k9-elem="diagram">
-    <back k9-indicator="pulse" k9-elem="back">
-		<svg:rect x="0" width="#{$width}" y="0" height="#{$height}"/>
-	</back>
-    <indicator k9-elem="indicator"/>
-    
     <back k9-elem="back" k9-indicator="pulse">
-		<svg:rect x="0" width="#{$width}" y="0" height="#{$height}"/>
+		<svg:rect x="0" width="#{$width}" height="#{$height}" y="0"/>
+	</back>
+    <indicator k9-elem="indicator"/>
+    
+    <back k9-indicator="pulse" k9-elem="back">
+		<svg:rect x="0" width="#{$width}" height="#{$height}" y="0"/>
 	</back>
     <indicator k9-elem="indicator"/>
     
@@ -44,124 +44,124 @@
     
     
 
-  <action k9-ui="drag delete align connect autoconnect edit vote xml" k9-elem="action" k9-texture="solid" k9-palette="connected " id="praco" xmlns="http://www.kite9.org/schema/adl">
-    <shape k9-indicator="pulse" k9-elem="shape">
+  <action k9-ui="drag delete align connect autoconnect edit vote xml" k9-elem="action" id="praco" k9-palette="connected " k9-texture="solid" xmlns="http://www.kite9.org/schema/adl">
+    <shape k9-elem="shape" k9-indicator="pulse">
       <svg:polygon points="0 0, #{$width - (15 * $pt)} 0, #{$width} #{$height div 2}, #{$width - (15 * $pt) } #{$height}, 0 #{$height}" xmlns:svg="http://www.w3.org/2000/svg"/>
     </shape>
-    <votes count="0" k9-elem="votes">
-    <svg:rect x="-5pt" y="-5pt" width="52pt" xmlns:svg="http://www.w3.org/2000/svg" rx="8pt" class="back" height="26pt" ry="8pt"/>
+    <votes k9-elem="votes" count="0">
+    <svg:rect x="-5pt" y="-5pt" width="52pt" xmlns:svg="http://www.w3.org/2000/svg" rx="8pt" class="back" ry="8pt" height="26pt"/>
     <svg:text xmlns:svg="http://www.w3.org/2000/svg" x="8pt" y="9pt" class="font-awesome"></svg:text> 
     <svg:text xmlns:svg="http://www.w3.org/2000/svg" x="30pt" y="9pt" class="count">0</svg:text>
   </votes>
     <front style="kite9-usage: regular; kite9-type: container; kite9-layout: down;  kite9-padding: 10pt; kite9-padding-right: 40pt; " k9-elem="front">
-      <title k9-ui="text" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="146.66667"/></flowRegion><flowDiv><flowPara>ind</flowPara></flowDiv></flowRoot></title>
+      <title k9-ui="text" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect width="146.66667" height="10000px"/></flowRegion><flowDiv><flowPara>ind</flowPara></flowDiv></flowRoot></title>
     </front>
   </action><container k9-contains="connected" k9-palette="connected" k9-rounding="15pt" k9-shape="container" k9-texture="outline" class="solid" id="21" k9-ui="drag delete align connect layout label" k9-elem="container">
-    <back k9-elem="back" k9-indicator="pulse">
-		<svg:rect rx="15pt" ry="15pt" x="0" width="#{$width}" y="0" height="#{$height}"/>
+    <back k9-indicator="pulse" k9-elem="back">
+		<svg:rect rx="15pt" width="#{$width}" x="0" ry="15pt" height="#{$height}" y="0"/>
 	</back>
     <indicator k9-elem="indicator"/>
     
-    <back k9-indicator="pulse" k9-elem="back">
-		<svg:rect rx="15pt" ry="15pt" x="0" width="#{$width}" y="0" height="#{$height}"/>
+    <back k9-elem="back" k9-indicator="pulse">
+		<svg:rect rx="15pt" width="#{$width}" x="0" ry="15pt" height="#{$height}" y="0"/>
 	</back>
-    <indicator k9-elem="indicator" k9-indicator="stroke">
-      <svg:rect x="#{$width - 25}" y="#{$height - 25}" fill="none" width="20" rx="4" ry="4" height="20"/>  	
+    <indicator k9-indicator="stroke" k9-elem="indicator">
+      <svg:rect x="#{$width - 25}" y="#{$height - 25}" fill="none" width="20" rx="4" height="20" ry="4"/>  	
       <svg:path d="M#{$width - 20} #{$height - 15} l10 0" marker-end="url(#indicator-arrow)"/>		
   </indicator>
     
-        <channel-artifact k9-ui="drag delete align connect autoconnect edit" k9-elem="channel-artifact" id="12" k9-texture="none" k9-palette="connected ">
-    <back k9-indicator="pulse" k9-elem="back">
-		<svg:rect rx="5pt" ry="5pt" x="0" width="#{$width}" y="0" height="#{$height}"/>
+        <channel-artifact k9-ui="drag delete align connect autoconnect edit" k9-elem="channel-artifact" k9-palette="connected " k9-texture="none" id="12">
+    <back k9-elem="back" k9-indicator="pulse">
+		<svg:rect rx="5pt" width="#{$width}" x="0" ry="5pt" height="#{$height}" y="0"/>
 	</back>
     <image k9-ui="image" k9-elem="image" width="80pt" height="80pt" href="#{$template-1}" k9-format="image-editable">
 		<decal style="kite9-type: svg; kite9-usage: decal;" k9-elem="decal" k9-texture="solid">
 			<svg:image x="0" y="0" width="#{$width}" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#{$template-1}" xlink:type="simple" xlink:actuate="onLoad" height="#{$height}" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
 		</decal>
 		<front k9-elem="front" k9-texture="none" style="kite9-type: svg; " k9-indicator="stroke pulse">
-			<svg:rect rx="2" ry="2" x="0" width="80pt" y="0" height="80pt"/>
+			<svg:rect rx="2" width="80pt" x="0" ry="2" height="80pt" y="0"/>
 		</front>
 	</image>
-    <title k9-ui="orphan edit" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect width="146.66667" height="10000px"/></flowRegion><flowDiv><flowPara>Channel</flowPara></flowDiv></flowRoot></title>
-  </channel-artifact><generic-artifact k9-ui="drag delete align connect autoconnect edit" k9-elem="generic-artifact" id="6" k9-texture="none" k9-palette="connected " href="/public/templates/risk-first/redesign/artifacts/document_v2.svg">
-    <back k9-indicator="pulse" k9-elem="back">
-		<svg:rect rx="5pt" ry="5pt" x="0" width="#{$width}" y="0" height="#{$height}"/>
+    <title k9-ui="orphan edit" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="146.66667"/></flowRegion><flowDiv><flowPara>Channel</flowPara></flowDiv></flowRoot></title>
+  </channel-artifact><generic-artifact k9-ui="drag delete align connect autoconnect edit" k9-elem="generic-artifact" k9-palette="connected " k9-texture="none" id="6" href="/public/templates/risk-first/redesign/artifacts/document_v2.svg">
+    <back k9-elem="back" k9-indicator="pulse">
+		<svg:rect rx="5pt" width="#{$width}" x="0" ry="5pt" height="#{$height}" y="0"/>
 	</back>
     <image href="/public/templates/risk-first/redesign/artifacts/document_v2.svg" width="80pt" id="6@image" height="80pt" k9-format="image-editable" k9-ui="image" k9-elem="image">
 		<decal style="kite9-type: svg; kite9-usage: decal;" k9-elem="decal" k9-texture="solid">
 			<svg:image x="0" y="0" width="#{$width}" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/public/templates/risk-first/redesign/artifacts/document_v2.svg" xlink:type="simple" xlink:actuate="onLoad" height="#{$height}" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
 		</decal>
 		<front k9-elem="front" k9-texture="none" style="kite9-type: svg; " k9-indicator="stroke pulse">
-			<svg:rect rx="2" ry="2" x="0" width="80pt" y="0" height="80pt"/>
+			<svg:rect rx="2" width="80pt" x="0" ry="2" height="80pt" y="0"/>
 		</front>
 	</image>
-    <title k9-ui="orphan edit" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect width="146.66667" height="10000px"/></flowRegion><flowDiv><flowPara>Artifact</flowPara></flowDiv></flowRoot></title>
+    <title k9-ui="orphan edit" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="146.66667"/></flowRegion><flowDiv><flowPara>Artifact</flowPara></flowDiv></flowRoot></title>
   </generic-artifact>
   
-  </container><agent-artifact id="2">Agentdd</agent-artifact><container k9-contains="connected" k9-palette="connected" layout="right" k9-rounding="15pt" k9-shape="container" k9-texture="outline" class="solid" id="20" k9-ui="drag delete align connect layout label" k9-elem="container">
-    <back k9-elem="back" k9-indicator="pulse">
-		<svg:rect rx="15pt" ry="15pt" x="0" width="#{$width}" y="0" height="#{$height}"/>
+  </container><container k9-contains="connected" k9-palette="connected" layout="right" k9-rounding="15pt" k9-shape="container" k9-texture="outline" class="solid" id="20" k9-ui="drag delete align connect layout label" k9-elem="container">
+    <back k9-indicator="pulse" k9-elem="back">
+		<svg:rect rx="15pt" width="#{$width}" x="0" ry="15pt" height="#{$height}" y="0"/>
 	</back>
-    <indicator k9-indicator="stroke" k9-elem="indicator">
-      <svg:rect x="#{$width - 25}" y="#{$height - 25}" fill="none" width="20" rx="4" ry="4" height="20"/>  	
+    <indicator k9-elem="indicator" k9-indicator="stroke">
+      <svg:rect x="#{$width - 25}" y="#{$height - 25}" fill="none" width="20" rx="4" height="20" ry="4"/>  	
       <svg:path d="M#{$width - 20} #{$height - 15} l10 0" marker-end="url(#indicator-arrow)"/>		
   </indicator>
     
-    <back k9-indicator="pulse" k9-elem="back">
-		<svg:rect rx="15pt" ry="15pt" x="0" width="#{$width}" y="0" height="#{$height}"/>
+    <back k9-elem="back" k9-indicator="pulse">
+		<svg:rect rx="15pt" width="#{$width}" x="0" ry="15pt" height="#{$height}" y="0"/>
 	</back>
-    <indicator k9-elem="indicator" k9-indicator="stroke">
-      <svg:rect x="#{$width - 25}" y="#{$height - 25}" fill="none" width="20" rx="4" ry="4" height="20"/>  	
+    <indicator k9-indicator="stroke" k9-elem="indicator">
+      <svg:rect x="#{$width - 25}" y="#{$height - 25}" fill="none" width="20" rx="4" height="20" ry="4"/>  	
       <svg:path d="M#{$width - 20} #{$height - 15} l10 0" marker-end="url(#indicator-arrow)"/>		
   </indicator>
     
         <risk href="/github/kite9-org/examples/.kite9/uploads/noun_PDF_519005.png" k9-palette="connected risk " k9-texture="solid" class="generic" id="id_8" k9-ui="drag delete align connect autoconnect xml vote" k9-elem="risk">
-      <back k9-indicator="pulse" k9-elem="back">
-		<svg:rect rx="5pt" ry="5pt" x="0" width="#{$width}" y="0" height="#{$height}"/>
+      <back k9-elem="back" k9-indicator="pulse">
+		<svg:rect rx="5pt" width="#{$width}" x="0" ry="5pt" height="#{$height}" y="0"/>
 	</back> 
-      <code k9-ui="orphan edit" k9-elem="code" id="id_8c" k9-shape="code" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect width="10000px" height="10000px"/></flowRegion><flowDiv><flowPara>Attendant</flowPara></flowDiv></flowRoot></code>
+      <code k9-ui="orphan edit" k9-elem="code" id="id_8c" k9-shape="code" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="10000px"/></flowRegion><flowDiv><flowPara>Attendant</flowPara></flowDiv></flowRoot></code>
       <image href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png" width="50pt" id="id_8@image" height="50pt" k9-format="image-editable" k9-ui="image" k9-elem="image">
 		<decal style="kite9-type: svg; kite9-usage: decal;" k9-elem="decal" k9-texture="solid">
 			<svg:image x="0" y="0" width="#{$width}" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png" xlink:type="simple" xlink:actuate="onLoad" height="#{$height}" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
 		</decal>
 		<front k9-elem="front" k9-texture="none" style="kite9-type: svg; " k9-indicator="stroke pulse">
-			<svg:rect rx="2" ry="2" x="0" width="50pt" y="0" height="50pt"/>
+			<svg:rect rx="2" width="50pt" x="0" ry="2" height="50pt" y="0"/>
 		</front>
 	</image>
-      <votes k9-elem="votes" count="0">
-    <svg:rect x="-5pt" y="-5pt" width="52pt" rx="8pt" class="back" ry="8pt" height="26pt"/>
-    <svg:text class="font-awesome" x="8pt" y="9pt"></svg:text> 
-    <svg:text class="count" x="30pt" y="9pt">0</svg:text>
+      <votes count="0" k9-elem="votes">
+    <svg:rect x="-5pt" y="-5pt" width="52pt" rx="8pt" class="back" height="26pt" ry="8pt"/>
+    <svg:text x="8pt" class="font-awesome" y="9pt"></svg:text> 
+    <svg:text x="30pt" class="count" y="9pt">0</svg:text>
   </votes>
-      <title k9-ui="orphan edit" k9-elem="title" id="id_8t" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect width="146.66667" height="10000px"/></flowRegion><flowDiv><flowPara>Risk to </flowPara><flowPara>      manage</flowPara></flowDiv></flowRoot></title>
+      <title k9-ui="orphan edit" k9-elem="title" id="id_8t" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="146.66667"/></flowRegion><flowDiv><flowPara>Risk to </flowPara><flowPara>      manage</flowPara></flowDiv></flowRoot></title>
   </risk>
   
-  </container><link k9-ui="delete link cascade drop" k9-elem="link" id="4" k9-palette="link" k9-containers="*" k9-contains="end label">
-    <link-grab k9-elem="link-grab" k9-indicator="bar stroke">
-      <svg:path k9-animate="link" d="#{$path}"/>
-    </link-grab>
-    
+  </container><link k9-ui="delete link cascade drop" k9-elem="link" k9-palette="link" id="4" k9-containers="*" k9-contains="end label">
     <link-grab k9-indicator="bar stroke" k9-elem="link-grab">
       <svg:path d="#{$path}" k9-animate="link"/>
     </link-grab>
     
-				<from k9-ui="drag label" k9-elem="from" id="4-0" k9-palette="end" k9-containers="link" reference="id_8">
-    <grab k9-elem="grab" k9-indicator="fill grab">
+    <link-grab k9-elem="link-grab" k9-indicator="bar stroke">
+      <svg:path k9-animate="link" d="#{$path}"/>
+    </link-grab>
+    
+				<from k9-ui="drag label" k9-elem="from" k9-palette="end" id="4-0" k9-containers="link" reference="id_8">
+    <grab k9-indicator="fill grab" k9-elem="grab">
       <svg:ellipse rx="8" ry="8" cx="0" cy="0"/>
     </grab>
     
-    <grab k9-indicator="fill grab" k9-elem="grab">
+    <grab k9-elem="grab" k9-indicator="fill grab">
       <svg:ellipse rx="8" ry="8" cx="0" cy="0"/>
     </grab>
     
   
   </from>
-				<to k9-palette="end" shape="barbed-arrow" reference="praco" id="4-1" k9-ui="drag label" k9-elem="to" k9-containers="link">
-    <grab k9-elem="grab" k9-indicator="fill grab">
+				<to k9-palette="end" shape="barbed-arrow" reference="praco" id="4-1" k9-ui="drag label" k9-containers="link" k9-elem="to">
+    <grab k9-indicator="fill grab" k9-elem="grab">
       <svg:ellipse rx="8" ry="8" cx="0" cy="0"/>
     </grab>
     
-    <grab k9-indicator="fill grab" k9-elem="grab">
+    <grab k9-elem="grab" k9-indicator="fill grab">
       <svg:ellipse rx="8" ry="8" cx="0" cy="0"/>
     </grab>
     
@@ -175,32 +175,32 @@
     <link-body k9-elem="link-body">
       <svg:path marker-start="url(#-start-marker)" d="#{$path}" marker-end="url(#barbed-arrow-end-marker)" k9-animate="link"/>
     </link-body>
-  </link><link k9-ui="delete link cascade drop" k9-elem="link" id="5" k9-palette="link" k9-containers="*" k9-contains="end label">
-    <link-grab k9-elem="link-grab" k9-indicator="bar stroke">
-      <svg:path k9-animate="link" d="#{$path}"/>
-    </link-grab>
-    
+  </link><link k9-ui="delete link cascade drop" k9-elem="link" k9-palette="link" id="5" k9-containers="*" k9-contains="end label">
     <link-grab k9-indicator="bar stroke" k9-elem="link-grab">
       <svg:path d="#{$path}" k9-animate="link"/>
     </link-grab>
     
-				<from k9-ui="drag label" k9-elem="from" id="5-0" k9-palette="end" k9-containers="link" reference="praco">
-    <grab k9-elem="grab" k9-indicator="fill grab">
+    <link-grab k9-elem="link-grab" k9-indicator="bar stroke">
+      <svg:path k9-animate="link" d="#{$path}"/>
+    </link-grab>
+    
+				<from k9-ui="drag label" k9-elem="from" k9-palette="end" id="5-0" k9-containers="link" reference="praco">
+    <grab k9-indicator="fill grab" k9-elem="grab">
       <svg:ellipse rx="8" ry="8" cx="0" cy="0"/>
     </grab>
     
-    <grab k9-indicator="fill grab" k9-elem="grab">
+    <grab k9-elem="grab" k9-indicator="fill grab">
       <svg:ellipse rx="8" ry="8" cx="0" cy="0"/>
     </grab>
     
   
   </from>
-				<to k9-palette="end" shape="barbed-arrow" reference="praco" id="5-1" k9-ui="drag label" k9-elem="to" k9-containers="link">
-    <grab k9-elem="grab" k9-indicator="fill grab">
+				<to k9-palette="end" shape="barbed-arrow" reference="praco" id="5-1" k9-ui="drag label" k9-containers="link" k9-elem="to">
+    <grab k9-indicator="fill grab" k9-elem="grab">
       <svg:ellipse rx="8" ry="8" cx="0" cy="0"/>
     </grab>
     
-    <grab k9-indicator="fill grab" k9-elem="grab">
+    <grab k9-elem="grab" k9-indicator="fill grab">
       <svg:ellipse rx="8" ry="8" cx="0" cy="0"/>
     </grab>
     
@@ -214,32 +214,32 @@
     <link-body k9-elem="link-body">
       <svg:path marker-start="url(#-start-marker)" d="#{$path}" marker-end="url(#barbed-arrow-end-marker)" k9-animate="link"/>
     </link-body>
-  </link><link k9-contains="end label" k9-palette="link" drawDirection="LEFT" id="10" k9-ui="delete link cascade drop" k9-elem="link" k9-containers="*">
-    <link-grab k9-elem="link-grab" k9-indicator="bar stroke">
-      <svg:path k9-animate="link" d="#{$path}"/>
-    </link-grab>
-    
+  </link><link k9-contains="end label" k9-palette="link" drawDirection="LEFT" id="10" k9-ui="delete link cascade drop" k9-containers="*" k9-elem="link">
     <link-grab k9-indicator="bar stroke" k9-elem="link-grab">
       <svg:path d="#{$path}" k9-animate="link"/>
     </link-grab>
     
-				<from k9-ui="drag label" k9-elem="from" id="10-0" k9-palette="end" k9-containers="link" reference="20">
-    <grab k9-elem="grab" k9-indicator="fill grab">
+    <link-grab k9-elem="link-grab" k9-indicator="bar stroke">
+      <svg:path k9-animate="link" d="#{$path}"/>
+    </link-grab>
+    
+				<from k9-ui="drag label" k9-elem="from" k9-palette="end" id="10-0" k9-containers="link" reference="20">
+    <grab k9-indicator="fill grab" k9-elem="grab">
       <svg:polygon points="-12 -10, 8 0, -12 10"/>
     </grab>
     
-    <grab k9-indicator="fill grab" k9-elem="grab">
+    <grab k9-elem="grab" k9-indicator="fill grab">
       <svg:polygon points="-12 -10, 8 0, -12 10"/>
     </grab>
     
   
   </from>
-				<to k9-palette="end" shape="barbed-arrow" reference="praco" id="10-1" k9-ui="drag label" k9-elem="to" k9-containers="link">
-    <grab k9-elem="grab" k9-indicator="fill grab">
+				<to k9-palette="end" shape="barbed-arrow" reference="praco" id="10-1" k9-ui="drag label" k9-containers="link" k9-elem="to">
+    <grab k9-indicator="fill grab" k9-elem="grab">
       <svg:polygon points="12 -10, -8 0, 12 10"/>
     </grab>
     
-    <grab k9-indicator="fill grab" k9-elem="grab">
+    <grab k9-elem="grab" k9-indicator="fill grab">
       <svg:polygon points="12 -10, -8 0, 12 10"/>
     </grab>
     
@@ -255,44 +255,5 @@
     </link-body>
   </link>
   
-  <link k9-contains="end label" k9-palette="link" drawDirection="DOWN" id="19" k9-ui="delete link cascade drop" k9-elem="link" k9-containers="*">
-    <link-grab k9-elem="link-grab" k9-indicator="bar stroke">
-      <svg:path k9-animate="link" d="#{$path}"/>
-    </link-grab>
-    
-    <link-grab k9-indicator="bar stroke" k9-elem="link-grab">
-      <svg:path d="#{$path}" k9-animate="link"/>
-    </link-grab>
-    
-				<from k9-ui="drag label" k9-elem="from" id="19-0" k9-palette="end" k9-containers="link" reference="2">
-    <grab k9-elem="grab" k9-indicator="fill grab">
-      <svg:polygon points="-10 12, 0 -8, 10 12"/>
-    </grab>
-    
-    <grab k9-indicator="fill grab" k9-elem="grab">
-      <svg:polygon points="-10 12, 0 -8, 10 12"/>
-    </grab>
-    
-  
-  </from>
-				<to k9-palette="end" shape="barbed-arrow" reference="id_8" id="19-1" k9-ui="drag label" k9-elem="to" k9-containers="link">
-    <grab k9-elem="grab" k9-indicator="fill grab">
-      <svg:polygon points="10 -12, 0 8, -10 -12"/>
-    </grab>
-    
-    <grab k9-indicator="fill grab" k9-elem="grab">
-      <svg:polygon points="10 -12, 0 8, -10 -12"/>
-    </grab>
-    
-  
-  </to>
-			
-    <link-body k9-elem="link-body">
-      <svg:path marker-start="url(#-start-marker)" d="#{$path}" marker-end="url(#barbed-arrow-end-marker)" k9-animate="link"/>
-    </link-body>
-  
-    <link-body k9-elem="link-body">
-      <svg:path marker-start="url(#-start-marker)" d="#{$path}" marker-end="url(#barbed-arrow-end-marker)" k9-animate="link"/>
-    </link-body>
-  </link></diagram>
+  </diagram>
 </svg:svg>
