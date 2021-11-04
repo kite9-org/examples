@@ -7,13 +7,13 @@
   </svg:defs>
 
   <diagram xmlns="http://www.kite9.org/schema/adl" k9-contains="connected" k9-rounding="0pt" k9-shape="rect" k9-texture="background" id="diagram-129" k9-ui="layout xml label" name="Pattern Language" k9-elem="diagram">
-    <back k9-indicator="pulse" k9-elem="back">
-		<svg:rect x="0" width="#{$width}" y="0" height="#{$height}"/>
-	</back>
-    <indicator k9-elem="indicator"/>
-    
     <back k9-elem="back" k9-indicator="pulse">
-		<svg:rect x="0" width="#{$width}" y="0" height="#{$height}"/>
+		<svg:rect x="0" width="#{$width}" height="#{$height}" y="0"/>
+	</back>
+    <indicator k9-elem="indicator"/>
+    
+    <back k9-indicator="pulse" k9-elem="back">
+		<svg:rect x="0" width="#{$width}" height="#{$height}" y="0"/>
 	</back>
     <indicator k9-elem="indicator"/>
     
@@ -44,32 +44,32 @@
     
     
 
-  <channel-artifact k9-ui="drag delete align connect autoconnect edit" k9-elem="channel-artifact" id="12" k9-texture="none" k9-palette="connected ">
-    <back k9-indicator="pulse" k9-elem="back">
-		<svg:rect rx="5pt" ry="5pt" x="0" width="#{$width}" y="0" height="#{$height}"/>
+  <channel-artifact k9-ui="drag delete align connect autoconnect edit" k9-elem="channel-artifact" k9-palette="connected " k9-texture="none" id="12">
+    <back k9-elem="back" k9-indicator="pulse">
+		<svg:rect rx="5pt" width="#{$width}" x="0" ry="5pt" height="#{$height}" y="0"/>
 	</back>
     <image k9-ui="image" k9-elem="image" width="80pt" height="80pt" href="#{$template-1}" k9-format="image-editable">
 		<decal style="kite9-type: svg; kite9-usage: decal;" k9-elem="decal" k9-texture="solid">
 			<svg:image x="0" y="0" width="#{$width}" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#{$template-1}" xlink:type="simple" xlink:actuate="onLoad" height="#{$height}" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
 		</decal>
 		<front k9-elem="front" k9-texture="none" style="kite9-type: svg; " k9-indicator="stroke pulse">
-			<svg:rect rx="2" ry="2" x="0" width="80pt" y="0" height="80pt"/>
+			<svg:rect rx="2" width="80pt" x="0" ry="2" height="80pt" y="0"/>
 		</front>
 	</image>
-    <title k9-ui="orphan edit" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect width="146.66667" height="10000px"/></flowRegion><flowDiv><flowPara>Channel</flowPara></flowDiv></flowRoot></title>
+    <title k9-ui="orphan edit" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect height="10000px" width="146.66667"/></flowRegion><flowDiv><flowPara>Channel</flowPara></flowDiv></flowRoot></title>
   </channel-artifact><image href="/public/templates/risk-first/redesign/artifacts/document_v2.svg" width="80pt" id="6@image" height="80pt" k9-format="image-editable" k9-ui="image" k9-elem="image">
 		<decal style="kite9-type: svg; kite9-usage: decal;" k9-elem="decal" k9-texture="solid">
 			<svg:image x="0" y="0" width="#{$width}" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/public/templates/risk-first/redesign/artifacts/document_v2.svg" xlink:type="simple" xlink:actuate="onLoad" height="#{$height}" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
 		</decal>
 		<front k9-elem="front" k9-texture="none" style="kite9-type: svg; " k9-indicator="stroke pulse">
-			<svg:rect rx="2" ry="2" x="0" width="80pt" y="0" height="80pt"/>
+			<svg:rect rx="2" width="80pt" x="0" ry="2" height="80pt" y="0"/>
 		</front>
 	</image><image href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png" width="50pt" id="id_8@image" height="50pt" k9-format="image-editable" k9-ui="image" k9-elem="image">
 		<decal style="kite9-type: svg; kite9-usage: decal;" k9-elem="decal" k9-texture="solid">
 			<svg:image x="0" y="0" width="#{$width}" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/github/kite9-org/examples/.kite9/uploads/noun_Business%20analyst_2389811.png" xlink:type="simple" xlink:actuate="onLoad" height="#{$height}" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
 		</decal>
 		<front k9-elem="front" k9-texture="none" style="kite9-type: svg; " k9-indicator="stroke pulse">
-			<svg:rect rx="2" ry="2" x="0" width="50pt" y="0" height="50pt"/>
+			<svg:rect rx="2" width="50pt" x="0" ry="2" height="50pt" y="0"/>
 		</front>
 	</image>
   
