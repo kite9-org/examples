@@ -12,9 +12,5 @@
     <to id="link1-to" reference="b3" shape="arrow"/>
    </link>
    
-   <link xmlns="http://www.kite9.org/schema/adl" drawDirection="RIGHT" id="link2">
-    <from id="link2-from" reference="b1"/>
-    <to id=""/>
-   </link> 
 
 </diagram>
