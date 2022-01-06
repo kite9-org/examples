@@ -8,7 +8,7 @@
    
    <link id="link1" r="r">
     <from id="link1-from" reference="b1" shape="arrow"/>
-    <to id="link1-to" reference="b3" shape="arrow"/>
+    <to id="link1-to" reference="bigbox" shape="arrow"/>
    </link>
    
 
