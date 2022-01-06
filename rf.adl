@@ -44,22 +44,7 @@
     
     
 
-  <generic-artifact href="/public/templates/risk-first/redesign/artifacts/document_v2.svg" id="2">
-          Artifact
-				</generic-artifact><channel-artifact k9-ui="drag delete align connect autoconnect edit" k9-elem="channel-artifact" id="12" k9-texture="none" k9-palette="connected ">
-    <back k9-indicator="pulse" k9-elem="back">
-		<svg:rect rx="5pt" ry="5pt" x="0" width="#{$width}" y="0" height="#{$height}"/>
-	</back>
-    <image k9-ui="image" k9-elem="image" width="80pt" height="80pt" href="#{$template-1}" k9-format="image-editable">
-		<decal style="kite9-type: svg; kite9-usage: decal;" k9-elem="decal" k9-texture="solid">
-			<svg:image x="0" y="0" width="#{$width}" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#{$template-1}" xlink:type="simple" xlink:actuate="onLoad" height="#{$height}" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
-		</decal>
-		<front k9-elem="front" k9-texture="none" style="kite9-type: svg; " k9-indicator="stroke pulse">
-			<svg:rect rx="2" ry="2" x="0" width="80pt" y="0" height="80pt"/>
-		</front>
-	</image>
-    <title k9-ui="orphan edit" k9-elem="title" k9-shape="title" k9-format="textarea"><flowRoot xmlns="http://www.w3.org/2000/svg"><flowRegion><rect width="146.66667" height="10000px"/></flowRegion><flowDiv><flowPara>Channel</flowPara></flowDiv></flowRoot></title>
-  </channel-artifact><image href="/public/templates/risk-first/redesign/artifacts/document_v2.svg" width="80pt" id="6@image" height="80pt" k9-format="image-editable" k9-ui="image" k9-elem="image">
+  <image href="/public/templates/risk-first/redesign/artifacts/document_v2.svg" width="80pt" id="6@image" height="80pt" k9-format="image-editable" k9-ui="image" k9-elem="image">
 		<decal style="kite9-type: svg; kite9-usage: decal;" k9-elem="decal" k9-texture="solid">
 			<svg:image x="0" y="0" width="#{$width}" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/public/templates/risk-first/redesign/artifacts/document_v2.svg" xlink:type="simple" xlink:actuate="onLoad" height="#{$height}" preserveAspectRatio="xMidYMid meet" xlink:show="embed"/>
 		</decal>
