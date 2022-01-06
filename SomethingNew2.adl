@@ -4,7 +4,7 @@
    
    <container id="bigbox" layout="horizontal" style="fill: green; fill-opacity: 0.8; ">
      <box id="b2"><textarea id="t2">,hjkhj</textarea></box>
-     <box id="b3"><textarea id="t3">b3 line</textarea></box>
+     <box id="b3"><textarea id="t3">b3 lintte</textarea></box>
    </container>
    
    <link id="link1" r="r">
