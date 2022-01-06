@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><diagram xmlns="http://www.kite9.org/schema/adl" >
+<?xml version="1.0" encoding="UTF-8"?><diagram xmlns="http://www.kite9.org/schema/adl">
 
-   <box xmlns="http://www.kite9.org/schema/adl" id="b1"><textarea id="t1" style="fill: red">y</textarea></box>
+   <box id="b1"><textarea id="t1" style="fill: red">y</textarea></box>
    
    <container id="bigbox" layout="horizontal" style="fill: green; fill-opacity: 0.8; ">
-     <box xmlns="http://www.kite9.org/schema/adl" id="b2"><textarea id="t2">,</textarea></box>
-     <box xmlns="http://www.kite9.org/schema/adl" id="b3"><textarea id="t3">b3 line</textarea></box>
+     <box id="b2"><textarea id="t2">,hjkhj</textarea></box>
+     <box id="b3"><textarea id="t3">b3 line</textarea></box>
    </container>
    
-   <link xmlns="http://www.kite9.org/schema/adl" id="link1" r="r">
+   <link id="link1" r="r">
     <from id="link1-from" reference="b1" shape="arrow"/>
     <to id="link1-to" reference="b3" shape="arrow"/>
    </link>
