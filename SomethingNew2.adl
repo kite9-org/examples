@@ -3,7 +3,6 @@
    <box id="b1"><textarea id="t1" style="fill: red">y</textarea></box>
    
    <container id="bigbox" layout="horizontal">
-     <box id="b2"><textarea id="t2">,hjkhj</textarea></box>
      <box id="b3"><textarea id="t3">b3 lintte</textarea></box>
    </container>
    
