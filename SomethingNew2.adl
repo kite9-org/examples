@@ -3,7 +3,7 @@
    <box id="b1"><textarea id="t1" style="">nn</textarea></box>
    
    <container>
-     <box id="b3"><textarea id="">b3 tte</textarea></box>
+     <box id=""><textarea id="t3">b3 tte</textarea></box>
    </container>
    
 
