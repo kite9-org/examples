@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><diagram xmlns="http://www.kite9.org/schema/adl">
 
-   <box id="b1"><textarea id="t1" style="fill: red">jhssddfds hoob</textarea></box>
+   <box id="b1"><textarea id="t1" style="fill: red">jhssddfdnns</textarea></box>
    
    <container>
-     <box id="b3"><textarea>b3 lintte</textarea></box>
+     <box><textarea id="t3">b3 lintte</textarea></box>
    </container>
    
-   <link id="link1" r="r">
-    <from id="link1-from"/>
+   <link id="link1">
+    <from id="link1-from" reference="b1" shape="arrow"/>
     <to id="link1-to" reference="b3" shape="arrow"/>
    </link>
    
