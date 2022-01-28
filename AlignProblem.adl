@@ -1,0 +1,32 @@
+<diagram 
+    xslt:template="/public/templates/risk-first/risk-first-template.xsl"
+	xmlns:xslt="http://www.kite9.org/schema/xslt"
+	xmlns="http://www.kite9.org/schema/adl"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="diagram-113" 
+    name="Some Banking Risks">
+
+	<group>
+        <risk class="attendant" code="CR"><code>br</code>Credit Risk</risk>
+        <label>Risk that customers 
+        won't pay you what they 
+        owe you</label>
+    </group>
+    
+    <group>
+     	<risk class="market"/>
+     	<label>Risk of loss due 
+     	to the performance of
+     	 investments</label> 
+    </group>
+    
+    <group>
+     	<risk class="operational"/>
+     	<label>Risk that the systems 
+     	that keep the business running
+     	 will go wrong</label>
+    </group>
+
+         	
+  </diagram>
