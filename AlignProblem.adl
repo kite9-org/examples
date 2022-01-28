@@ -29,7 +29,7 @@
      	 will go wrong</label>
     </group>
 
-	<align>
+	<link>
     	<from reference="1" />
     	<to reference="3" />
     	
