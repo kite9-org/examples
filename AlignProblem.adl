@@ -9,25 +9,31 @@
     name="Some Banking Risks">
 
 	<group>
-        <risk class="attendant" code="CR"><code>br</code>Credit Risk</risk>
+        <risk id="1" class="attendant" code="CR"><code>br</code>Credit Risk</risk>
         <label>Risk that customers 
         won't pay you what they 
         owe you</label>
     </group>
     
     <group>
-     	<risk class="market"/>
+     	<risk id="2" class="market"/>
      	<label>Risk of loss due 
      	to the performance of
      	 investments</label> 
     </group>
     
     <group>
-     	<risk class="operational"/>
+     	<risk id="3" class="operational"/>
      	<label>Risk that the systems 
      	that keep the business running
      	 will go wrong</label>
     </group>
+
+	<align>
+    	<from reference="1" />
+    	<to reference="3" />
+    	
+    </link>
 
          	
   </diagram>
