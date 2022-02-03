@@ -10,16 +10,5 @@
  
  
          	
-  <diagram id="3" name="" style="" xslt:template="/public/templates/risk-first/risk-first-template.xsl">
-
-    
-    <group id="3-0">
-     	<risk class="market" id="3-0-0" style="--kite9-margin: 100px;"/>
-     	<label>Risk of loss due to the performance of investments</label>
-    </group>
-
-
- 
- 
-         	
-  </diagram></diagram>
+        	
+  </diagram>
