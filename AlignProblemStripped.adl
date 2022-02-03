@@ -3,9 +3,9 @@
     
     <group id="g2" style="--kite9-min-width:400px">
      	<risk class="market" id="2"/>
-     	<!--label>Risk of loss due 
+     	<label>Risk of loss due 
      	to the performance of
-     	 investments</label--> 
+     	 investments</label> 
     </group>
 
 
