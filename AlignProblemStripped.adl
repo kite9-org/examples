@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><diagram xmlns="http://www.kite9.org/schema/adl" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xslt="http://www.kite9.org/schema/xslt" id="diagram-113" name="" xslt:template="/public/templates/risk-first/risk-first-template.xsl">
     <group id="g2" style="--kite9-padding: 0;">
-     	<risk class="market" id="2" style="--kite9-margin: 0; --kite9-horizontal-align: center "/>
+     	<risk class="market" id="2" style="--kite9-margin: 0; --kite9-horizontal-align: left; "/>
      	<label id="ggo" style="--kite9-margin: 0; --kite9-padding: 0; ">Rjsdfhhhhjhhhjhhhhhhhhhh
      </label>
     </group>
