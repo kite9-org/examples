@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><diagram xmlns="http://www.kite9.org/schema/adl" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xslt="http://www.kite9.org/schema/xslt" id="diagram-113" name="" style="" xslt:template="/public/templates/risk-first/risk-first-template.xsl">
+<?xml version="1.0" encoding="UTF-8"?><diagram xmlns="http://www.kite9.org/schema/adl" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xslt="http://www.kite9.org/schema/xslt" id="diagram-113" name="" xslt:template="/public/templates/risk-first/risk-first-template.xsl">
     <group id="g2" style="--kite9-margin: 0; --kite9-padding: 0;">
-     	<risk class="market" id="2"/>
-     	<label id="ggo" style="--kite9-margin: 100px; --kite9-label-placement: left; ">R
+     	<risk class="market" id="2" style="--kite9-margin: 0; "/>
+     	<label id="ggo" style="--kite9-margin: 100px; ">R
      </label>
     </group>
  </diagram>
