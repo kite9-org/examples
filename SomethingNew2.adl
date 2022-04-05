@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <diagram xmlns="http://www.kite9.org/schema/adl">
    <box id="b1">
-      <textarea id="t1" style="">hhhdds</textarea>
+      <textarea id="t1" style="">hhhdss</textarea>
    </box>
-   <container>
-      <box xmlns="">
+   <container xmlns="">
+      <box>
          <textarea>b3 tte</textarea>
       </box>
    </container>
