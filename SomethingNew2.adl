@@ -3,7 +3,7 @@
    <box id="b1">
       <textarea id="t1" style="">sdfhdd</textarea>
    </box>
-   <container>
+   <container id="a">
       <box id="b2">
          <textarea id="t2">some ore text</textarea>
       </box>
