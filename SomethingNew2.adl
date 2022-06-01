@@ -5,7 +5,7 @@
    </box>
    <container id="66">
       <box id="b2">
-         <textarea id="t2">som tex</textarea>
+         <textarea id="t2">som te=x</textarea>
       </box>
    </container>
 </diagram>
