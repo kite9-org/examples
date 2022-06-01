@@ -3,9 +3,4 @@
    <box id="b1">
       <textarea id="t1" style="">hdd</textarea>
    </box>
-   <container>
-      <box>
-         <textarea>b3sdfstte</textarea>
-      </box>
-   </container>
 </diagram>
