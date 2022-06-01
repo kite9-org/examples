@@ -3,7 +3,7 @@
    <box id="b1">
       <textarea id="t1" style="">sdf</textarea>
    </box>
-   <container>
+   <container id="66">
       <box id="b2">
          <textarea id="t2">som tex</textarea>
       </box>
