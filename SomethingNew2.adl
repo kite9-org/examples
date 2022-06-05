@@ -5,7 +5,7 @@
    </box>
    <container>
       <box>
-         <textarea id="t2">sasso</textarea>
+         <textarea id="t2">sass</textarea>
       </box>
    </container>
 </diagram>
