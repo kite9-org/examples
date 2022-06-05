@@ -5,7 +5,7 @@
    </box>
    <container>
       <box>
-         <textarea id="t2">AAA</textarea>
+         <textarea id="t2">CCC</textarea>
       </box>
    </container>
 </diagram>
