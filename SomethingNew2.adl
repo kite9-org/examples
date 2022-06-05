@@ -5,7 +5,7 @@
    </box>
    <container>
       <box>
-         <textarea id="t2">Art Deco</textarea>
+         <textarea id="t2">Art Decos</textarea>
       </box>
    </container>
 </diagram>
