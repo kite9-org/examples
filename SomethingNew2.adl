@@ -5,7 +5,7 @@
    </box>
    <container>
       <box>
-         <textarea>Arbso Decoss</textarea>
+         <textarea id="4">Arbso Decoss</textarea>
       </box>
    </container>
 </diagram>
