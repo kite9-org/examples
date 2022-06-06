@@ -6,6 +6,6 @@
       </box>
    </container>
    <box id="b1">
-      <textarea id="t1" style="">Namco</textarea>
+      <textarea id="t1" style="">Namcoland</textarea>
    </box>
 </diagram>
