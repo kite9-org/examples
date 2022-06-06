@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <diagram xmlns="http://www.kite9.org/schema/adl" id="d1">
    <box id="b1">
-      <textarea id="t1" style="">Name</textarea>
+      <textarea id="t1" style="">Names</textarea>
    </box>
    <container>
       <box>
-         <textarea id="4">Abry</textarea>
+         <textarea xmlns="" id="4">Abry</textarea>
       </box>
    </container>
 </diagram>
