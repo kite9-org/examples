@@ -14,4 +14,20 @@
          <textarea id="2-0">Box</textarea>
       </box>
    </box>
+   <diagram id="5">
+      <container>
+         <box>
+            <textarea id="5-0-0-0">Abry<box id="5-0-0-0-0" style="fill: #AA5500; ">
+                  <textarea id="5-0-0-0-0-0" style="fill: #990055; ">Box 2</textarea>
+               </box>
+            </textarea>
+         </box>
+      </container>
+      <box id="5-1">
+         <textarea id="5-1-0" style="">Namcolands</textarea>
+         <box id="5-1-1">
+            <textarea id="5-1-1-0">Box</textarea>
+         </box>
+      </box>
+   </diagram>
 </diagram>
