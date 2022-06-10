@@ -2,16 +2,16 @@
 <diagram xmlns="http://www.kite9.org/schema/adl" id="d1">
    <container>
       <box>
-         <textarea id="4">Abry</textarea>
+         <textarea id="4">Abry<box id="3" style="fill: #AA5500; ">
+               <textarea id="3-0" style="fill: #990055; ">Box 2</textarea>
+            </box>
+         </textarea>
       </box>
    </container>
    <box id="b1">
       <textarea id="t1" style="">Namcolands</textarea>
       <box id="2">
          <textarea id="2-0">Box</textarea>
-      </box>
-      <box id="3" style="fill: #AA5500; ">
-         <textarea id="3-0" style="fill: #990055; ">Box 2</textarea>
       </box>
    </box>
 </diagram>
