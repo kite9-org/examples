@@ -8,7 +8,7 @@
          <textarea id="7-0" style="fill: #990055; ">Box 2</textarea>
       </box>
    </container>
-   <box id="b4">
+   <box id="b4" k9-child="textarea">
       <textarea id="4">Abry<box id="3" style="fill: #AA5500; ">
             <textarea id="3-0" style="">Box 2</textarea>
          </box>
