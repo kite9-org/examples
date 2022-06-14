@@ -20,19 +20,20 @@
                   <textarea>Box 2</textarea>
                </box>
             </cell>
-            <cell class="shaded invisible" id="2-3"/>
+            <cell class="shaded invisible" id="2-3">
+               <container id="c3">
+                  <box>
+                     <textarea id="10-0" style="fill: #990055; ">Boxes</textarea>
+                  </box>
+                  <box>
+                     <textarea id="7-0" style="fill: #990055; ">Box 2</textarea>
+                  </box>
+               </container>
+            </cell>
             <cell class="bordered" id="2-4"/>
             <cell class="shaded bordered" id="2-5"/>
          </table>
       </box>
-      <container id="c3">
-         <box>
-            <textarea id="10-0" style="fill: #990055; ">Boxes</textarea>
-         </box>
-         <box>
-            <textarea id="7-0" style="fill: #990055; ">Box 2</textarea>
-         </box>
-      </container>
    </box>
    <box id="b4" k9-child="textarea">
       <textarea id="4">Abry</textarea>
