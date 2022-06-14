@@ -5,15 +5,16 @@
       <box id="b1">
          <textarea id="t1" style="">Namcolands</textarea>
          <table id="2" style="--kite9-grid-size: 2 2; ">
-            <cell id="2-0"/>
+            <cell id="2-0">
+               <box id="8">
+                  <textarea id="8-0">Box</textarea>
+               </box>
+            </cell>
             <cell class="shaded" id="2-1"/>
             <cell class="invisible" id="2-2"/>
             <cell class="shaded invisible" id="2-3"/>
             <cell class="bordered" id="2-4"/>
             <cell class="shaded bordered" id="2-5"/>
-            <box id="8">
-               <textarea id="8-0">Box</textarea>
-            </box>
          </table>
          <box id="9">
             <textarea id="9-0">Box</textarea>
