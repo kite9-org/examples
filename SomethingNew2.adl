@@ -7,7 +7,7 @@
             <textarea id="10-0" style="fill: #990055; ">Box</textarea>
          </box>
          <box>
-            <textarea>Box 2</textarea>
+            <textarea id="7-0" style="fill: #990055; ">B</textarea>
          </box>
       </container>
       <box id="b1">
