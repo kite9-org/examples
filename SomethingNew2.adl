@@ -16,6 +16,11 @@
                   <textarea>Box 2</textarea>
                </box>
             </cell>
+            <cell class="shaded" id="2-1">
+               <box id="9">
+                  <textarea id="9-0">Box</textarea>
+               </box>
+            </cell>
             <cell class="shaded invisible" id="2-3">
                <container id="c3">
                   <box>
@@ -25,11 +30,6 @@
                      <textarea id="7-0" style="fill: #990055; ">Box 2</textarea>
                   </box>
                </container>
-            </cell>
-            <cell class="shaded" id="2-1">
-               <box id="9">
-                  <textarea id="9-0">Box</textarea>
-               </box>
             </cell>
          </table>
       </box>
