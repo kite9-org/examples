@@ -17,6 +17,14 @@
             <textarea id="5-0" style="">Box 2</textarea>
          </box>
       </box>
+      <container id="c3">
+         <box>
+            <textarea id="10-0" style="fill: #990055; "/>
+         </box>
+         <box>
+            <textarea id="7-0" style="fill: #990055; ">B</textarea>
+         </box>
+      </container>
    </box>
    <box id="b4" k9-child="textarea">
       <textarea id="4">Abry</textarea>
