@@ -22,7 +22,7 @@
             <textarea id="10-0" style="fill: #990055; ">Box</textarea>
          </box>
          <box>
-            <textarea id="7-0" style="fill: #990055; ">B</textarea>
+            <textarea id="7-0" style="fill: #990055; ">Box 2</textarea>
          </box>
       </container>
    </box>
@@ -30,6 +30,6 @@
       <textarea id="4">Abry</textarea>
    </box>
    <box id="6">
-      <textarea id="6-0">Box</textarea>
+      <textarea id="">Box</textarea>
    </box>
 </diagram>
