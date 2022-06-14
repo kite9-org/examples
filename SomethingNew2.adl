@@ -3,7 +3,10 @@
    <box id="17">
       <textarea id="17-0">Box</textarea>
       <box id="b1">
-         <diagram id="t1" style="">Namcolands</diagram>
+         <box id="t1" style="">Namcolands<box id="3" style="fill: #AA5500; ">
+               <textarea id="3-0" style="fill: #990055; ">Box 2</textarea>
+            </box>
+         </box>
          <table id="2" style="--kite9-grid-size: 2 2; ">
             <cell id="2-0">
                <box id="8">
