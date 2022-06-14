@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <diagram xmlns="http://www.kite9.org/schema/adl" id="d1">
-   <container>
-      <box>
+   <container id="c3">
+      <box id="b4">
          <textarea id="4">Abry<box id="3" style="fill: #AA5500; ">
                <textarea id="3-0" style="fill: #990055; ">Box 2</textarea>
             </box>
