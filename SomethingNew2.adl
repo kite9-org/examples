@@ -10,7 +10,7 @@
    </container>
    <box id="b4">
       <textarea id="4">Abry<box id="3" style="fill: #AA5500; ">
-            <textarea id="3-0" style="fill: #990055; ">Box 2</textarea>
+            <textarea id="3-0" style="">Box 2</textarea>
          </box>
       </textarea>
    </box>
