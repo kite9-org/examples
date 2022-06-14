@@ -4,17 +4,14 @@
       <textarea id="17-0">Box</textarea>
       <box id="b1">
          <textarea id="t1" style="">Namcolands</textarea>
-         <box id="2">
-            <textarea id="2-0">Box</textarea>
-            <box id="8">
-               <textarea id="8-0">Box</textarea>
-            </box>
+         <box id="8">
+            <textarea id="8-0">Box</textarea>
          </box>
-         <box id="9">
+         <box>
             <textarea id="9-0">Box</textarea>
          </box>
          <box id="5" style="fill: #AA5500; ">
-            <textarea id="5-0" style="">Box 2</textarea>
+            <textarea>Box 2</textarea>
          </box>
       </box>
       <container id="c3">
