@@ -19,9 +19,9 @@
       <box id="9">
          <textarea id="9-0">Box</textarea>
       </box>
-   </box>
-   <box id="5" style="fill: #AA5500; ">
-      <textarea id="5-0" style="">Box 2</textarea>
+      <box id="5" style="fill: #AA5500; ">
+         <textarea id="5-0" style="">Box 2</textarea>
+      </box>
    </box>
    <box id="b4">
       <textarea id="4">Abry<box id="3" style="fill: #AA5500; ">
