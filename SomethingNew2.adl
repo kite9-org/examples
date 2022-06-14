@@ -30,7 +30,6 @@
                   </box>
                </container>
             </cell>
-            <cell class="bordered" id="2-4"/>
             <cell class="shaded bordered" id="2-5"/>
          </table>
       </box>
