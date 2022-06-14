@@ -19,7 +19,7 @@
       </box>
       <container id="c3">
          <box>
-            <textarea id="10-0" style="fill: #990055; ">Box</textarea>
+            <textarea id="10-0" style="fill: #990055; ">Boxes</textarea>
          </box>
          <box>
             <textarea id="7-0" style="fill: #990055; ">Box 2</textarea>
