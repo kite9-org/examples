@@ -15,14 +15,15 @@
                   <textarea id="9-0">Box</textarea>
                </box>
             </cell>
-            <cell class="invisible" id="2-2"/>
+            <cell class="invisible" id="2-2">
+               <box id="5" style="fill: #AA5500; ">
+                  <textarea>Box 2</textarea>
+               </box>
+            </cell>
             <cell class="shaded invisible" id="2-3"/>
             <cell class="bordered" id="2-4"/>
             <cell class="shaded bordered" id="2-5"/>
          </table>
-         <box id="5" style="fill: #AA5500; ">
-            <textarea>Box 2</textarea>
-         </box>
       </box>
       <container id="c3">
          <box>
