@@ -2,14 +2,6 @@
 <diagram xmlns="http://www.kite9.org/schema/adl" id="d1" layout="down">
    <box id="17">
       <textarea id="17-0">Box</textarea>
-      <container id="c3">
-         <box>
-            <textarea id="10-0" style="fill: #990055; "/>
-         </box>
-         <box>
-            <textarea id="7-0" style="fill: #990055; ">B</textarea>
-         </box>
-      </container>
       <box id="b1">
          <textarea id="t1" style="">Namcolands</textarea>
          <box id="2">
