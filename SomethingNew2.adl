@@ -15,6 +15,9 @@
       <textarea id="t1" style="">Namcolands</textarea>
       <box id="2">
          <textarea id="2-0">Box</textarea>
+         <box id="8">
+            <textarea id="8-0">Box</textarea>
+         </box>
       </box>
    </box>
    <box id="5" style="fill: #AA5500; ">
