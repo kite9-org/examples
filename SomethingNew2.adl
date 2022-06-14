@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<diagram xmlns="http://www.kite9.org/schema/adl" id="d1">
+<diagram xmlns="http://www.kite9.org/schema/adl" id="d1" layout="down">
    <container id="c3">
       <box id="10" style="fill: #AA5500; ">
          <textarea id="10-0" style="fill: #990055; ">Box 2</textarea>
