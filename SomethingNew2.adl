@@ -19,6 +19,9 @@
             <textarea id="8-0">Box</textarea>
          </box>
       </box>
+      <box id="9">
+         <textarea id="9-0">Box</textarea>
+      </box>
    </box>
    <box id="5" style="fill: #AA5500; ">
       <textarea id="5-0" style="fill: #990055; ">Box 2</textarea>
