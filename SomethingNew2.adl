@@ -6,12 +6,6 @@
       </box>
       <box id="7" style="fill: #AA5500; ">
          <textarea id="7-0" style="fill: #990055; ">Box 2</textarea>
-         <box id="b4">
-            <textarea id="4">Abry<box id="3" style="fill: #AA5500; ">
-                  <textarea id="3-0" style="fill: #990055; ">Box 2</textarea>
-               </box>
-            </textarea>
-         </box>
       </box>
    </container>
    <box id="b1">
@@ -31,5 +25,11 @@
    </box>
    <box id="6">
       <textarea id="6-0">Box</textarea>
+   </box>
+   <box id="b4">
+      <textarea id="4">Abry<box id="3" style="fill: #AA5500; ">
+            <textarea id="3-0" style="fill: #990055; ">Box 2</textarea>
+         </box>
+      </textarea>
    </box>
 </diagram>
