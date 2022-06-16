@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<diagram xmlns="http://www.kite9.org/schema/adl" id="d1" layout="">
+<diagram xmlns="http://www.kite9.org/schema/adl" id="d1" layout="down">
    <box id="17">
       <textarea id="17-0">Box</textarea>
       <box id="b1">
@@ -43,8 +43,11 @@
             <textarea id="4">Abry</textarea>
          </box>
       </box>
-      <box id="6">
-         <textarea id="">Box</textarea>
+      <box id="11">
+         <textarea id="11-0">Box</textarea>
+         <box id="6">
+            <textarea id="">Box</textarea>
+         </box>
       </box>
    </container>
 </diagram>
