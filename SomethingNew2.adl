@@ -36,10 +36,12 @@
    </box>
    <container class="solid" id="3">
    </container>
-   <box id="b4" k9-child="textarea">
-      <textarea id="4">Abry</textarea>
-   </box>
-   <box id="6">
-      <textarea id="">Box</textarea>
-   </box>
+   <container class="dotted" id="7" layout="right">
+      <box id="b4" k9-child="textarea">
+         <textarea id="4">Abry</textarea>
+      </box>
+      <box id="6">
+         <textarea id="">Box</textarea>
+      </box>
+   </container>
 </diagram>
