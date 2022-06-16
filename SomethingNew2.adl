@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<diagram xmlns="http://www.kite9.org/schema/adl" id="d1" layout="down">
+<diagram xmlns="http://www.kite9.org/schema/adl" id="d1" layout="">
    <box id="17">
       <textarea id="17-0">Box</textarea>
       <box id="b1">
@@ -37,8 +37,11 @@
    <container class="solid" id="3">
    </container>
    <container class="dotted" id="7" layout="right">
-      <box id="b4" k9-child="textarea">
-         <textarea id="4">Abry</textarea>
+      <box id="10" style="fill: #AA5500; ">
+         <textarea id="10-0" style="fill: #990055; ">Box 2</textarea>
+         <box id="b4" k9-child="textarea">
+            <textarea id="4">Abry</textarea>
+         </box>
       </box>
       <box id="6">
          <textarea id="">Box</textarea>
