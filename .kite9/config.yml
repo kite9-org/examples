@@ -1,6 +1,5 @@
-kite9:
-  uploads: .kite9/uploads
-  sources:
-  - path: / 
-    default: https://kite9.com/public/examples/basic.adl?format=adl
-    pattern: "*.adl"
+uploads: .kite9/uploads
+sources:
+- path: / 
+  default: https://kite9.com/public/examples/basic.adl?format=adl
+  pattern: "*.adl"
