@@ -1,8 +1,5 @@
-<?xml version="1.0"?>
-  <diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
-
-     <container id="bigbox" layout="horizontal">
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram xmlns="http://www.kite9.org/schema/adl" id="dia">
+   <container id="bigbox" layout="horizontal">
      </container>
-    
-
-  </diagram>
+</diagram>
