@@ -30,9 +30,6 @@
                      <textarea id="7-0" style="fill: #990055; ">Box 2</textarea>
                   </box>
                </container>
-               <box id="b4" k9-child="textarea">
-                  <textarea id="4">Abry</textarea>
-               </box>
             </cell>
          </table>
       </box>
@@ -50,4 +47,7 @@
          </box>
       </box>
    </container>
+   <box id="b4" k9-child="textarea">
+      <textarea id="4">Abry</textarea>
+   </box>
 </diagram>
