@@ -34,8 +34,6 @@
          </table>
       </box>
    </box>
-   <container class="solid" id="3">
-   </container>
    <container class="dotted" id="7" layout="right">
       <box id="10" style="fill: #AA5500; ">
          <textarea id="10-0" style="fill: #990055; ">Box 2</textarea>
@@ -49,5 +47,11 @@
             <textarea id="">Box</textarea>
          </box>
       </box>
+      <container class="solid" id="3">
    </container>
+   </container>
+   <align id="28" style="--kite9-direction: left; ">
+      <from id="28-0" reference="b4"/>
+      <to id="28-1" reference="3"/>
+   </align>
 </diagram>
