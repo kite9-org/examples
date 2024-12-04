@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <diagram xmlns="http://www.kite9.org/schema/adl" id="d1" layout="down">
-   <box id="17">
-      <textarea id="17-0">Box</textarea>
-      <box id="b1">
-         <box id="t1" style="">Namcolands
+   <box id="b1">
+      <box id="t1" style="">Namcolands
          </box>
-         <table id="2" style="--kite9-grid-size: 2 2; ">
-            <cell id="2-0">
-               <box id="8">
-                  <textarea id="8-0">Box</textarea>
+      <table id="2" style="--kite9-grid-size: 2 2; ">
+         <cell id="2-0">
+            <box id="8">
+               <textarea id="8-0">Box</textarea>
+            </box>
+         </cell>
+         <cell class="shaded" id="2-1">
+            <box id="9">
+               <textarea id="9-0">Box</textarea>
+            </box>
+         </cell>
+         <cell class="shaded invisible" id="2-3">
+            <container id="c3">
+               <box>
+                  <textarea id="10-0" style="fill: #990055; ">Boxes</textarea>
                </box>
-            </cell>
-            <cell class="shaded" id="2-1">
-               <box id="9">
-                  <textarea id="9-0">Box</textarea>
+               <box>
+                  <textarea id="7-0" style="fill: #990055; ">Box 2</textarea>
                </box>
-            </cell>
-            <cell class="shaded invisible" id="2-3">
-               <container id="c3">
-                  <box>
-                     <textarea id="10-0" style="fill: #990055; ">Boxes</textarea>
-                  </box>
-                  <box>
-                     <textarea id="7-0" style="fill: #990055; ">Box 2</textarea>
-                  </box>
-               </container>
-            </cell>
-         </table>
-      </box>
+            </container>
+         </cell>
+      </table>
    </box>
 </diagram>
