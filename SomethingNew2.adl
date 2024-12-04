@@ -29,18 +29,16 @@
          </table>
       </box>
    </box>
-   <container class="dotted" id="7" layout="right">
-      <box id="10" style="fill: #AA5500; ">
-         <textarea id="10-0" style="fill: #990055; ">Box 2</textarea>
-         <box id="b4" k9-child="textarea">
-            <textarea id="4">Abry</textarea>
-         </box>
+   <box id="10" style="fill: #AA5500; ">
+      <textarea id="10-0" style="fill: #990055; ">Box 2</textarea>
+      <box id="b4" k9-child="textarea">
+         <textarea id="4">Abry</textarea>
       </box>
-      <box id="11">
-         <textarea id="11-0">Box</textarea>
-         <box id="6">
-            <textarea id="">Box</textarea>
-         </box>
+   </box>
+   <box id="11">
+      <textarea id="11-0">Box</textarea>
+      <box id="6">
+         <textarea id="">Box</textarea>
       </box>
-   </container>
+   </box>
 </diagram>
