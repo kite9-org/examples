@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<diagram xmlns="http://www.kite9.org/schema/adl" id="d1" layout="down">
+<diagram xmlns="http://www.kite9.org/schema/adl"
+         id="d1"
+         layout="down"
+         style="--kite9-layout: down; ">
    <box id="3">
       <textarea id="3-0">This is a text box with some text in it</textarea>
    </box>
