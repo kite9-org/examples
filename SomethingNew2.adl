@@ -5,6 +5,9 @@
          style="--kite9-layout: down; ">
    <box id="3"
         style="--kite9-padding-top: 43px; --kite9-padding-right: 43px; --kite9-padding-bottom: 43px; --kite9-padding-left: 43px; ">
+      <socket class="hexagon"
+              id="4"
+              style="--kite9-direction: up; --kite9-port-position: -30px"/>
       <textarea id="3-0"
                 style="font-family: Metropolis; font-style: italic; font-weight: 400; font-size: 33; --kite9-text-bounds-width: 278px; ">This is a text box with some text in it</textarea>
    </box>
