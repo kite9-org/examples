@@ -5,6 +5,6 @@
          style="--kite9-layout: down; ">
    <box id="3">
       <textarea id="3-0"
-                style="font-family: Metropolis; font-style: italic; font-weight: 400; font-size: 33; ">This is a text box with some text in it</textarea>
+                style="font-family: Metropolis; font-style: italic; font-weight: 400; font-size: 33; --kite9-text-bounds-width: 278px; ">This is a text box with some text in it</textarea>
    </box>
 </diagram>
