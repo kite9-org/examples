@@ -11,5 +11,6 @@
         k9-child="/public/templates/basic/palette1.adl#fs2"
         style="--kite9-layout: down">
       <textarea id="5-0" k9-ui="orphan edit delete">Text Lines Box</textarea>
+      <textarea id="6" k9-ui="orphan edit delete">Text Lines Box</textarea>
    </box>
 </diagram>
