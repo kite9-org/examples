@@ -14,4 +14,8 @@
       <textarea id="3-0"
                 style="font-family: Metropolis; font-style: italic; font-weight: 400; font-size: 33; --kite9-text-bounds-width: 278px; ">This is a text box with some text in it</textarea>
    </box>
+   <link id="6">
+      <from id="6-0" reference="5"/>
+      <to id="6-1" reference="3" shape="arrow"/>
+   </link>
 </diagram>
