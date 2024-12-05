@@ -4,6 +4,7 @@
          layout="down"
          style="--kite9-layout: down; ">
    <box class="shaded" id="5">
+      <socket class="square" id="9" style="--kite9-direction: up; "/>
       <textarea class="warning"
                 id="5-0"
                 style="font-family: Metropolis; font-style: italic; font-weight: 900; font-size: 52; ">Box 2</textarea>
