@@ -4,7 +4,9 @@
          layout="down"
          style="--kite9-layout: down; ">
    <box class="shaded" id="5">
-      <textarea class="warning" id="5-0">Box 2</textarea>
+      <textarea class="warning"
+                id="5-0"
+                style="font-family: Metropolis; font-style: italic; font-weight: 900; font-size: 52; ">Box 2</textarea>
    </box>
    <box id="3"
         style="--kite9-padding-top: 43px; --kite9-padding-right: 43px; --kite9-padding-bottom: 43px; --kite9-padding-left: 43px; ">
